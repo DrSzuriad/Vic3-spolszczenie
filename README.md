@@ -1,2 +1,0 @@
-# Vic3-spolszczenie
- 
