@@ -1,12 +1,14 @@
 [main]
 host = https://www.transifex.com
 
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_l_polish_mod]
 file_filter = pliki/<lang>/game/localization/modifiers/modifiers_l_polish.yml
 minimum_perc = 0
 source_file = pliki/en/game/localization/modifiers/modifiers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = modifiers_l_polish_mod
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:achievements_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/achievements_l_polish.yml
@@ -14,6 +16,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/achievements_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = achievements_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:acw_text_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/acw_text_l_polish.yml
@@ -21,6 +24,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/acw_text_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = acw_text_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:ai_strategies_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/ai_strategies_l_polish.yml
@@ -28,6 +32,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/ai_strategies_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = ai_strategies_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:alerts_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/alerts_l_polish.yml
@@ -35,6 +40,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/alerts_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = alerts_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:american_buildings_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/american_buildings_l_polish.yml
@@ -42,6 +48,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/american_buildings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = american_buildings_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:battle_conditions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/battle_conditions_l_polish.yml
@@ -49,6 +56,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/battle_conditions_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = battle_conditions_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:buildings_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/buildings_l_polish.yml
@@ -56,6 +64,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/buildings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = buildings_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:canals_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/canals_l_polish.yml
@@ -63,6 +72,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/canals_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = canals_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:commander_ranks_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/commander_ranks_l_polish.yml
@@ -70,6 +80,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/commander_ranks_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = commander_ranks_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:concepts_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/concepts_l_polish.yml
@@ -77,6 +88,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/concepts_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = concepts_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_1_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_1_l_polish.yml
@@ -84,6 +96,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_1_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_1_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_2_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_2_l_polish.yml
@@ -91,6 +104,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_2_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_2_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_3_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_3_l_polish.yml
@@ -98,6 +112,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_3_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_3_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_4_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_4_l_polish.yml
@@ -105,6 +120,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_4_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_4_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_101_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_101_l_polish.yml
@@ -112,6 +128,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_101_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_101_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_102_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_102_l_polish.yml
@@ -119,6 +136,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_102_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_102_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_103_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_103_l_polish.yml
@@ -126,6 +144,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_103_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_103_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_104_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_104_l_polish.yml
@@ -133,6 +152,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_104_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_104_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_105_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/content_105_l_polish.yml
@@ -140,6 +160,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/content_105_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = content_105_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:core_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/core_l_polish.yml
@@ -147,6 +168,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/core_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = core_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:countries_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/countries_l_polish.yml
@@ -154,6 +176,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/countries_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = countries_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:country_flavor_text_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/country_flavor_text_l_polish.yml
@@ -161,6 +184,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/country_flavor_text_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = country_flavor_text_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:credits_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/credits_l_polish.yml
@@ -168,6 +192,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/credits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = credits_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cultures_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/cultures_l_polish.yml
@@ -175,6 +200,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/cultures_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cultures_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:custom_loc_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/custom_loc_l_polish.yml
@@ -182,6 +208,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/custom_loc_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = custom_loc_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:customized_tooltips_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/customized_tooltips_l_polish.yml
@@ -189,6 +216,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/customized_tooltips_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = customized_tooltips_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:debug_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/debug_l_polish.yml
@@ -196,6 +224,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/debug_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = debug_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:decisions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/decisions_l_polish.yml
@@ -203,6 +232,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/decisions_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = decisions_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:diplomacy_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/diplomacy_l_polish.yml
@@ -210,6 +240,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/diplomacy_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = diplomacy_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:diplomatic_plays_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/diplomatic_plays_l_polish.yml
@@ -217,6 +248,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/diplomatic_plays_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = diplomatic_plays_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:dlc_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/dlc_l_polish.yml
@@ -224,6 +256,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/dlc_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = dlc_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:effects_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/effects_l_polish.yml
@@ -231,6 +264,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/effects_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = effects_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:encyclopedia_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/encyclopedia_l_polish.yml
@@ -238,6 +272,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/encyclopedia_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = encyclopedia_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:ethnicities_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/ethnicities_l_polish.yml
@@ -245,6 +280,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/ethnicities_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = ethnicities_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:event_target_links_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/event_target_links_l_polish.yml
@@ -252,6 +288,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/event_target_links_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = event_target_links_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:events_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/events_l_polish.yml
@@ -259,6 +296,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/events_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = events_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:game_rules_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/game_rules_l_polish.yml
@@ -266,6 +304,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/game_rules_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = game_rules_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:goods_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/goods_l_polish.yml
@@ -273,6 +312,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/goods_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = goods_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:government_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/government_l_polish.yml
@@ -280,6 +320,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/government_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = government_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:hub_names_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/hub_names_l_polish.yml
@@ -287,6 +328,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/hub_names_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = hub_names_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:institutions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/institutions_l_polish.yml
@@ -294,6 +336,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/institutions_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = institutions_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:interface_labels_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/interface_labels_l_polish.yml
@@ -301,6 +344,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/interface_labels_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = interface_labels_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:interfaces_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/interfaces_l_polish.yml
@@ -308,6 +352,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/interfaces_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = interfaces_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:inventions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/inventions_l_polish.yml
@@ -315,6 +360,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/inventions_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = inventions_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:journal_entries_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/journal_entries_l_polish.yml
@@ -322,6 +368,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/journal_entries_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = journal_entries_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:labels_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/labels_l_polish.yml
@@ -329,6 +376,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/labels_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = labels_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:laws_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/laws_l_polish.yml
@@ -336,6 +384,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/laws_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = laws_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:loading_tips_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/loading_tips_l_polish.yml
@@ -343,6 +392,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/loading_tips_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = loading_tips_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_editor_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map_editor_l_polish.yml
@@ -350,6 +400,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/map_editor_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = map_editor_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_modes_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map_modes_l_polish.yml
@@ -357,6 +408,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/map_modes_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = map_modes_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifier_debugger_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/modifier_debugger_l_polish.yml
@@ -364,6 +416,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/modifier_debugger_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = modifier_debugger_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_l_polish_pol]
 file_filter = pliki/<lang>/game/localization/polish/modifiers_l_polish.yml
@@ -371,6 +424,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/modifiers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = modifiers_l_polish_pol
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:names_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/names_l_polish.yml
@@ -378,6 +432,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/names_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = names_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:national_focus_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/national_focus_l_polish.yml
@@ -385,6 +440,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/national_focus_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = national_focus_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:notifications_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/notifications_l_polish.yml
@@ -392,6 +448,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/notifications_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = notifications_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:objectives_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/objectives_l_polish.yml
@@ -399,6 +456,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/objectives_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = objectives_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:parties_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/parties_l_polish.yml
@@ -406,6 +464,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/parties_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = parties_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:pl_custom_loc_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/pl_custom_loc_l_polish.yml
@@ -413,6 +472,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/pl_custom_loc_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = pl_custom_loc_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:politics_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/politics_l_polish.yml
@@ -420,6 +480,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/politics_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = politics_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:pop_types_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/pop_types_l_polish.yml
@@ -427,6 +488,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/pop_types_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = pop_types_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:production_methods_2_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/production_methods_2_l_polish.yml
@@ -434,6 +496,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/production_methods_2_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = production_methods_2_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:production_methods_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/production_methods_l_polish.yml
@@ -441,6 +504,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/production_methods_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = production_methods_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:religion_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/religion_l_polish.yml
@@ -448,6 +512,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/religion_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = religion_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:settings_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/settings_l_polish.yml
@@ -455,6 +520,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/settings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = settings_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:shared_event_text_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/shared_event_text_l_polish.yml
@@ -462,6 +528,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/shared_event_text_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = shared_event_text_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:test_modifiers_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/test_modifiers_l_polish.yml
@@ -469,6 +536,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/test_modifiers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = test_modifiers_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:ticktask_debugger_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/ticktask_debugger_l_polish.yml
@@ -476,6 +544,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/ticktask_debugger_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = ticktask_debugger_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:triggers_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/triggers_l_polish.yml
@@ -483,6 +552,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/triggers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = triggers_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:tutorial_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/tutorial_l_polish.yml
@@ -490,6 +560,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/tutorial_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = tutorial_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:units_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/units_l_polish.yml
@@ -497,6 +568,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/units_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = units_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:character_traits_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/character/character_traits_l_polish.yml
@@ -504,6 +576,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/character/character_traits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = character_traits_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:common_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/frontend/common_l_polish.yml
@@ -511,6 +584,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/frontend/common_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = common_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:core_l_polish_frontend]
 file_filter = pliki/<lang>/game/localization/polish/frontend/core_l_polish.yml
@@ -518,6 +592,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/frontend/core_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = core_l_polish_frontend
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:frontend_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/frontend/frontend_l_polish.yml
@@ -525,6 +600,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/frontend/frontend_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = frontend_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:frontend_mp_game_setup_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/frontend/frontend_mp_game_setup_l_polish.yml
@@ -532,6 +608,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/frontend/frontend_mp_game_setup_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = frontend_mp_game_setup_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:multiplayer_lobby_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/frontend/multiplayer_lobby_l_polish.yml
@@ -539,6 +616,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/frontend/multiplayer_lobby_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = multiplayer_lobby_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:texan_war_of_independence_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/historical/texan_war_of_independence_l_polish.yml
@@ -546,6 +624,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/historical/texan_war_of_independence_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = texan_war_of_independence_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:interest_group_traits_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/interest_groups/interest_group_traits_l_polish.yml
@@ -553,6 +632,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/interest_groups/interest_group_traits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = interest_group_traits_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:interest_groups_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/interest_groups/interest_groups_l_polish.yml
@@ -560,6 +640,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/interest_groups/interest_groups_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = interest_groups_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:seas_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map/seas_l_polish.yml
@@ -567,6 +648,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/map/seas_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = seas_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:state_traits_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map/state_traits_l_polish.yml
@@ -574,6 +656,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/map/state_traits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = state_traits_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:states_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map/states_l_polish.yml
@@ -581,6 +664,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/map/states_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = states_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:strategic_regions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map/strategic_regions_l_polish.yml
@@ -588,6 +672,7 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/polish/map/strategic_regions_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = strategic_regions_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cw_date_l_polish]
 file_filter = pliki/<lang>/clausewitz/localization/cw_date_l_polish.yml
@@ -595,6 +680,7 @@ minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/cw_date_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cw_date_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cw_localize_l_polish]
 file_filter = pliki/<lang>/clausewitz/localization/cw_localize_l_polish.yml
@@ -602,6 +688,7 @@ minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/cw_localize_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cw_localize_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cw_settings_l_polish]
 file_filter = pliki/<lang>/clausewitz/localization/cw_settings_l_polish.yml
@@ -609,6 +696,7 @@ minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/cw_settings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cw_settings_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cw_settings_warnings_l_polish]
 file_filter = pliki/<lang>/clausewitz/localization/cw_settings_warnings_l_polish.yml
@@ -616,6 +704,7 @@ minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/cw_settings_warnings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cw_settings_warnings_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cw_tools_l_polish]
 file_filter = pliki/<lang>/clausewitz/localization/cw_tools_l_polish.yml
@@ -623,13 +712,15 @@ minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/cw_tools_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cw_tools_l_polish
 
-[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:languages]
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:languages_claus]
 file_filter = pliki/<lang>/clausewitz/localization/languages.yml
 minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/languages.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = languages_claus
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cw_text_utils_l_polish]
 file_filter = pliki/<lang>/clausewitz/localization/text_utils/cw_text_utils_l_polish.yml
@@ -637,6 +728,7 @@ minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/text_utils/cw_text_utils_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = cw_text_utils_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:loadsave_l_polish]
 file_filter = pliki/<lang>/jomini/localization/loadsave_l_polish.yml
@@ -644,6 +736,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/loadsave_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = loadsave_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:achievements_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/achievements/achievements_l_polish.yml
@@ -651,6 +744,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/achievements/achievements_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = achievements_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:credits_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/credits/credits_l_polish.yml
@@ -658,6 +752,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/credits/credits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = credits_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:frontend_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/frontend/frontend_l_polish.yml
@@ -665,6 +760,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/frontend/frontend_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = frontend_l_polish_jom
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:date_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/date_l_polish.yml
@@ -672,6 +768,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/date_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = date_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:errors_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/errors_l_polish.yml
@@ -679,6 +776,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/errors_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = errors_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:formatting_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/formatting_l_polish.yml
@@ -686,6 +784,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/formatting_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = formatting_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:jomini_graphics_settings_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/jomini_graphics_settings_l_polish.yml
@@ -693,6 +792,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/jomini_graphics_settings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = jomini_graphics_settings_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:jomini_portraits_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/jomini_portraits_l_polish.yml
@@ -700,6 +800,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/jomini_portraits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = jomini_portraits_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:notifications_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/jomini/notifications_l_polish.yml
@@ -707,6 +808,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/notifications_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = notifications_l_polish_jom
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:coat_of_arms_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/coat_of_arms/coat_of_arms_l_polish.yml
@@ -714,6 +816,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/coat_of_arms/coat_of_arms_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = coat_of_arms_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_editor_gui_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/map_editor/map_editor_gui_l_polish.yml
@@ -721,6 +824,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/map_editor/map_editor_gui_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = map_editor_gui_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:multiplayer_gui_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/multiplayer_gui/multiplayer_gui_l_polish.yml
@@ -728,6 +832,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/multiplayer_gui/multiplayer_gui_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = multiplayer_gui_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:script_system_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/script_system/script_system_l_polish.yml
@@ -735,6 +840,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/script_system/script_system_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = script_system_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:trigger_system_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/script_system/trigger_system_l_polish.yml
@@ -742,6 +848,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/jomini/script_system/trigger_system_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = trigger_system_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_l_polish]
 file_filter = pliki/<lang>/jomini/localization/modifiers/modifiers_l_polish.yml
@@ -749,6 +856,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/modifiers/modifiers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = modifiers_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:pops_gui_l_polish]
 file_filter = pliki/<lang>/jomini/localization/pops/pops_gui_l_polish.yml
@@ -756,6 +864,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/pops/pops_gui_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = pops_gui_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:settings_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/settings/settings_l_polish.yml
@@ -763,6 +872,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/settings/settings_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = settings_l_polish_jom
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:social_l_polish]
 file_filter = pliki/<lang>/jomini/localization/social/social_l_polish.yml
@@ -770,3 +880,5 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/social/social_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
+resource_name = social_l_polish
+
