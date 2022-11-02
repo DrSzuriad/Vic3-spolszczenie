@@ -1,0 +1,5 @@
+﻿l_polish:
+ AND: " i "
+ AND_LIST: "oraz "
+ COMMA: ", "
+ NEWLINE: "\n"

@@ -1,0 +1,6 @@
+﻿l_polish:
+ custom_loc_great_power: "Wielkie mocarstwo"
+ custom_loc_major_power: "Duże mocarstwo"
+ custom_loc_minor_power: "Średnie mocarstwo"
+ custom_loc_insignificant_power: "Małe mocarstwo"
+ qualifications_officers_peasant_levies: "[GetPopType('officers').GetName] – większość [Concept('concept_pop_qualifications', 'kwalifikacji')] tej zbiorowości bierze się od następującej zbiorowości: [GetPopType('aristocrats').GetName]"

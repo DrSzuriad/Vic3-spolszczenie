@@ -1,0 +1,5 @@
+﻿l_polish:
+ SETTING_VALUE_WARNING:0 "$VALUE|0X$"
+ SETTING_VALUE_PERCENTAGE_WARNING:0 "$VALUE|%0X$"
+ RECOMMENDED_GUI_SCALE_TOO_HIGH:1 "#X Ustawienie skali wyższej niż $VALUE|%0$ spowoduje wyświetlanie się interfejsów poza ekranem.#!"
+ RECOMMENDED_GUI_SCALE:1 "Ustawienie skali wyższej niż $VALUE|%0$ spowoduje wyświetlanie się interfejsów poza ekranem."

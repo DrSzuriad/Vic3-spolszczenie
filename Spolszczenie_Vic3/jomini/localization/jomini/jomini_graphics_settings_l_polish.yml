@@ -1,0 +1,6 @@
+﻿l_polish:
+ SETTING_REFRACTION:0 "Refrakcja"
+ SETTING_REFRACTION_QUALITY:0 "Jakość refrakcji"
+ SETTING_MAPOBJECT_QUALITY:0 "Obiekty na mapie"
+ SETTING_MAP_SSAO:0 "Mapa – SSAO"
+ SETTING_DOF:0 "Głębia ostrości"

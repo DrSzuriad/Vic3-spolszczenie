@@ -1,0 +1,5 @@
+﻿l_polish:
+ JOMINI_MSGRDK_SIGNIN_FAILED_TITLE:0 "Wystąpił błąd"
+ JOMINI_MSGRDK_SIGNIN_FAILED_TEXT:0 "Logowanie za pomocą konta Microsoft się nie powiodło. Niektóre funkcje gry mogą być niedostępne."
+ JOMINI_MSGRDK_NO_PERMISSION_TITLE:0 "Uprawnienia konta"
+ JOMINI_MSGRDK_NO_UGC_TEXT:0 "Nie masz uprawnień dostępu do zawartości tworzonej przez użytkowników. Modyfikacje nie będą dostępne."
