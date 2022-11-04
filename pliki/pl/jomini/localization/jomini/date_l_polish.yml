@@ -1,4 +1,4 @@
 ﻿l_polish:
- DATE_AD_YEAR: "$YEAR$ n.e."
- DATE_BC_YEAR: "$YEAR$ p.n.e."
- DATE_FORMATTING_LONG: "$DAY$ $MONTH$ $YEAR$ r."
+ DATE_AD_YEAR: ""
+ DATE_BC_YEAR: ""
+ DATE_FORMATTING_LONG: ""
