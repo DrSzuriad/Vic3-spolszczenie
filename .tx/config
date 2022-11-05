@@ -744,7 +744,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/achievements/achievements_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
-resource_name = achievements_l_polish
+resource_name = achievements_l_polish_jom
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:credits_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/credits/credits_l_polish.yml
@@ -752,7 +752,7 @@ minimum_perc = 0
 source_file = pliki/en/jomini/localization/credits/credits_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
-resource_name = credits_l_polish
+resource_name = credits_l_polish_jom
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:frontend_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/frontend/frontend_l_polish.yml
