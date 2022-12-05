@@ -23,7 +23,3 @@
  move_capital_lens_option_tooltip: "#header $move_capital_lens_option$#!\n$TOOLTIP_DELIMITER$\n#concept Możesz zmienić swój [concept_capital_state|l], zapewniając mu określone korzyści.#!"
  move_market_capital_lens_option: "Przeniesienie stolicy rynku"
  move_market_capital_lens_option_tooltip: "#header $move_market_capital_lens_option$#!\n$TOOLTIP_DELIMITER$\n#concept Możesz zmienić [Concept('concept_market_capital', 'stolicę')] swojego [Concept('concept_market', 'rynku')] państwowego.#!"
- decree_lens_option: "Wydanie rozporządzenia"
- decree_lens_option_tooltip: "#header [concept_decree]#!\n$TOOLTIP_DELIMITER$\n#concept Możesz wydać [concept_decree|l], które zacznie obowiązywać na terenie twoich obszarów administracyjnych, zapewniając w ten sposób różne korzyści.#!"
- decree_lens_option_decree_road_maintenance: "Wydaj [concept_decree|l]: #variable $decree_road_maintenance$#!"
- decree_lens_option_decree_greener_grass_campaign: "Wydaj [concept_decree|l]: #variable $decree_greener_grass_campaign$#!"

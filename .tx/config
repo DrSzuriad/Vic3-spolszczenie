@@ -386,6 +386,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = laws_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:legitimacy_levels_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/legitimacy_levels_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/legitimacy_levels_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = legitimacy_levels_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:loading_tips_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/loading_tips_l_polish.yml
 minimum_perc = 0

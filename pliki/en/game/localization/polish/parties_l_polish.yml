@@ -321,8 +321,3 @@
  from_command_economy: "Prawo gospodarki sterowanej"
  from_lack_of_private_schools: "Poparcie dla szkół prywatnych"
  from_no_rural_folk_in_party: "Brak wsparcia chłopstwa"
- TEST_SOCIAL_DEMOCRATS: "Socjaldemokraci"
- TEST_CONSERVATIVES: "Konserwatyści"
- TEST_SOCIALISTS: "Socjaliści"
- TEST_TORIES: "Torysi"
- TEST_WIGS: "Wigowie"
