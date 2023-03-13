@@ -29,7 +29,6 @@ java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\credits" "pliki\\en
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\frontend" "pliki\\en\\jomini\\localization\\frontend" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\jomini" "pliki\\en\\jomini\\localization\\jomini" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\jomini\\coat_of_arms" "pliki\\en\\jomini\\localization\\jomini\\coat_of_arms" "%charset%"
-java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\jomini\\map_editor" "pliki\\en\\jomini\\localization\\jomini\\map_editor" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\jomini\\multiplayer_gui" "pliki\\en\\jomini\\localization\\jomini\\multiplayer_gui" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\jomini\\script_system" "pliki\\en\\jomini\\localization\\jomini\\script_system" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\modifiers" "pliki\\en\\jomini\\localization\\modifiers" "%charset%"

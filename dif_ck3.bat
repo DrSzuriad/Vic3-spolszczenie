@@ -67,7 +67,6 @@ java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\social" "nowe\\jomini\\localization\\social" "dif\\jomini\\localization\\social" eu4
 ::jomini\\jomini
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\jomini\\coat_of_arms" "nowe\\jomini\\localization\\jomini\\coat_of_arms" "dif\\jomini\\localization\\jomini\\coat_of_arms" eu4
-java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\jomini\\map_editor" "nowe\\jomini\\localization\\jomini\\map_editor" "dif\\jomini\\localization\\jomini\\map_editor" eu4
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\jomini\\multiplayer_gui" "nowe\\jomini\\localization\\jomini\\multiplayer_gui" "dif\\jomini\\localization\\jomini\\multiplayer_gui" eu4
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\jomini\\script_system" "nowe\\jomini\\localization\\jomini\\script_system" "dif\\jomini\\localization\\jomini\\script_system" eu4
 ::clausewitz

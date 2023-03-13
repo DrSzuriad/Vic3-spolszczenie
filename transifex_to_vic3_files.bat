@@ -28,7 +28,6 @@ java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\credits" "pliki\\
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\frontend" "pliki\\en\\jomini\\localization\\frontend" "temp\\supply\\jomini\\localization\\frontend" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini" "pliki\\en\\jomini\\localization\\jomini" "temp\\supply\\jomini\\localization\\jomini" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\coat_of_arms" "pliki\\en\\jomini\\localization\\jomini\\coat_of_arms" "temp\\supply\\jomini\\localization\\jomini\\coat_of_arms" yaml
-java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\map_editor" "pliki\\en\\jomini\\localization\\jomini\\map_editor" "temp\\supply\\jomini\\localization\\jomini\\map_editor" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\multiplayer_gui" "pliki\\en\\jomini\\localization\\jomini\\multiplayer_gui" "temp\\supply\\jomini\\localization\\jomini\\multiplayer_gui" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\script_system" "pliki\\en\\jomini\\localization\\jomini\\script_system" "temp\\supply\\jomini\\localization\\jomini\\script_system" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\modifiers" "pliki\\en\\jomini\\localization\\modifiers" "temp\\supply\\jomini\\localization\\modifiers" yaml
@@ -56,7 +55,6 @@ java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\credits" "temp
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\frontend" "temp\\vic3\\jomini\\localization\\frontend" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini" "temp\\vic3\\jomini\\localization\\jomini" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\coat_of_arms" "temp\\vic3\\jomini\\localization\\jomini\\coat_of_arms" "%charset%"
-java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\map_editor" "temp\\vic3\\jomini\\localization\\jomini\\map_editor" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\multiplayer_gui" "temp\\vic3\\jomini\\localization\\jomini\\multiplayer_gui" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\script_system" "temp\\vic3\\jomini\\localization\\jomini\\script_system" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\modifiers" "temp\\vic3\\jomini\\localization\\modifiers" "%charset%"

@@ -162,6 +162,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = content_105_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_106_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/content_106_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/content_106_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = content_106_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:core_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/core_l_polish.yml
 minimum_perc = 0
@@ -330,6 +338,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = hub_names_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:input_settings_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/input_settings_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/input_settings_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = input_settings_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:institutions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/institutions_l_polish.yml
 minimum_perc = 0
@@ -433,6 +449,22 @@ source_file = pliki/en/game/localization/polish/modifiers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = modifiers_l_polish_pol
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:music_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/music_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/music_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = music_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:music_l_polish_mp1]
+file_filter = pliki/<lang>/game/localization/polish/music_l_polish_mp1.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/music_l_polish_mp1.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = music_l_polish_mp1
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:names_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/names_l_polish.yml
@@ -746,6 +778,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = loadsave_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:music_player_l_polish]
+file_filter = pliki/<lang>/jomini/localization/music_player_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/music_player_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = music_player_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:achievements_l_polish_jom]
 file_filter = pliki/<lang>/jomini/localization/achievements/achievements_l_polish.yml
 minimum_perc = 0
@@ -826,13 +866,6 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = coat_of_arms_l_polish
 
-[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_editor_gui_l_polish]
-file_filter = pliki/<lang>/jomini/localization/jomini/map_editor/map_editor_gui_l_polish.yml
-minimum_perc = 0
-source_file = pliki/en/jomini/localization/jomini/map_editor/map_editor_gui_l_polish.yml
-source_lang = en
-type = YAML_GENERIC
-resource_name = map_editor_gui_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:multiplayer_gui_l_polish]
 file_filter = pliki/<lang>/jomini/localization/jomini/multiplayer_gui/multiplayer_gui_l_polish.yml

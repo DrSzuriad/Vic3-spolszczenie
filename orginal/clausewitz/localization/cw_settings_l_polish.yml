@@ -144,7 +144,9 @@
  SETTING_AUDIO_OPTION_TV_TOOLTIP:0 "#T $SETTING_AUDIO_OPTION_TV$\n#!Miks dostosowany do urządzenia ($SETTING_AUDIO_OPTION_TV$ i głośniki monitora)."
  SETTING_AUDIO_OPTION_NIGHTMODE:0 "Tryb nocny"
  SETTING_AUDIO_OPTION_NIGHTMODE_TOOLTIP:0 "#T $SETTING_AUDIO_OPTION_NIGHTMODE$\n#!Wybranie tego ustawienia powoduje wyciszenie dźwięków obejmujące przytłumienie wysokich tonów i ograniczenie zakresu dynamicznego, co ułatwia rozgrywkę w nocy."
- 
+ SETTING_MUSIC_DENSITY:0 "Częstotliwość muzyki"
+ SETTING_MUSIC_DENSITY_TOOLTIP:0 "Ta opcja umożliwia kontrolę balansu między kompletnymi utworami, ciszą a nastrojowymi segmentami muzycznymi. \n\nDuża intensywność – jeśli wybierzesz tę opcję, odtwarzane będą głównie utwory, jeden po drugim – jak w radiu. \nŚrednia intensywność – ta opcja zapewnia idealną równowagę między utworami, ciszą i nastrojową oprawą muzyczną. \nMała intensywność – odtwarzane będą głównie relaksujące segmenty muzyczne, które zapewniają bardziej stonowane wrażenia i pozwalają uniknąć powtarzalności po kilku godzinach rozgrywki"
+  
  SETTING_AUTOSAVE:0 "Interwał automatycznego zapisu"
  SETTING_AUTOSAVE_TOOLTIP:3 "#T $SETTING_AUTOSAVE$\n#!Ustawienie to pozwala określić częstotliwość automatycznego zapisu gry."
  SETTING_AUTOSAVE_TO_CLOUD_TOOLTIP:0 "Ustawienie to pozwala określić, czy automatyczne zapisy mają być przechowywane w chmurze."

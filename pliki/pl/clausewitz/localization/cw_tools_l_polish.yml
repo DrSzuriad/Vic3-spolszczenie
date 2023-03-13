@@ -77,3 +77,5 @@
  map_content_editor_content_desc_under_mouse: ""
  map_content_editor_cannot_switch_tool_while_interacting: ""
  gui_animation_tool_dataflow_tooltip: ""
+ TOOLS_ANSWER_YES: ""
+ TOOLS_ANSWER_NO: ""
