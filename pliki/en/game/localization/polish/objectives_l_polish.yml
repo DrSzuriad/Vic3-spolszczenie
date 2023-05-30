@@ -50,5 +50,3 @@
  OBJECTIVE_TYPE_RECOMMENDED_GAME_RULE_DESC: "Zalecane są następujące zasady gry:"
  OBJECTIVE_TYPE_RECOMMENDED_GAME_RULE_ITEM_TEXT: "– [GameRuleSetting.GetGameRule.GetName]: #variable [GameRuleSetting.GetName]#!"
  SELECTED_OBJECTIVE_RECOMMENDED_GAME_RULE_DESC: "[GameRuleSetting.GetDescription]. W przypadku celu „$NAME$” zalecane jest następujące ustawienie: #variable $RULE$#!."
- objective_tutorial_name_SAF: "#v $dyn_c_south_africa$#!"
- objective_tutorial_desc_SAF: "#lore $SAF_FLAVOR_TEXT$#!"

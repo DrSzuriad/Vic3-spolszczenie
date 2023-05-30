@@ -1,5 +1,5 @@
 ﻿l_polish:
- BATTLE_CONDITION_TOOLTIP: "#header [BattleCondition.GetName] ([concept_battle_condition|l])#!\n$TOOLTIP_DELIMITER$\n[BattleCondition.GetModifierDesc]\n#lore [BattleCondition.GetDesc]#!"
+ BATTLE_CONDITION_TOOLTIP: "[BattleCondition.GetModifierDesc]\n\n#lore [BattleCondition.GetDesc]#!"
  BATTLE_CONDITION_ATTACKER_TOOLTIP: "$BATTLE_CONDITION_TOOLTIP$\n\n[Battle.GetAttackerConditionUpdateDesc]"
  BATTLE_CONDITION_DEFENDER_TOOLTIP: "$BATTLE_CONDITION_TOOLTIP$\n\n[Battle.GetDefenderConditionUpdateDesc]"
  BATTLE_CONDITION_EARLIEST_UPDATE: "Najwcześniejsza możliwa data zmiany: [DATE.GetString] (pozostało: $REMAINING$)"

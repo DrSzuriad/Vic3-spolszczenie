@@ -30,7 +30,7 @@
  peasants: "@peasants! $peasants_no_icon$"
  peasants_only_icon: "@peasants!"
  peasants_no_icon: "Chłopi"
- peasants_desc: "Rolnicy samozaopatrzeniowi zatrudniani wyłącznie w [Concept('concept_subsistence_building', 'budynkach samozaopatrzeniowych')], w których zajmują się wytwarzaniem produktów rolniczych i prostych w produkcji artykułów wykorzystywanych przede wszystkim na własne potrzeby. Dla chłopów [concept_subsistence_output|l] to sposób na przetrwanie. Odgrywają oni ograniczoną rolę w gospodarce [Concept('concept_market', 'rynkowej')] i zwykle są [Concept('concept_politically_inactive_involved', 'politycznie nieaktywni')]."
+ peasants_desc: "Rolnicy samozaopatrzeniowi zatrudniani wyłącznie w [Concept('concept_subsistence_building', 'budynkach samozaopatrzeniowych')], w których zajmują się wytwarzaniem produktów rolniczych i prostych w produkcji artykułów wykorzystywanych przede wszystkim na własne potrzeby. Dla chłopów [concept_subsistence_output|l] to sposób na przetrwanie. Odgrywają oni ograniczoną rolę w gospodarce [Concept('concept_market', 'rynkowej')] i zwykle są [Concept('concept_politically_unaligned_aligned', 'politycznie bierni')]."
  laborers: "@laborers! $laborers_no_icon$"
  laborers_only_icon: "@laborers!"
  laborers_no_icon: "Pracownicy fizyczni"

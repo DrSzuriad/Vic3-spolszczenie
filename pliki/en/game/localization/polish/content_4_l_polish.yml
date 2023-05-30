@@ -436,7 +436,7 @@
  egalitarian_society_complete: "Cel Społeczeństwo egalitarne został zrealizowany"
  egalitarian_society_complete_desc: "Dobra robota! Udało ci się zrealizować cel Społeczeństwo egalitarne. Możesz teraz kontynuować grę lub podjąć próbę realizacji innego celu."
  je_liberate_the_slaves_invalid_tooltip: "Jeśli państwo o nazwie [JournalEntry.GetTarget.GetCountry.GetName] już nie istnieje."
- egalitarian_objective_note_loc: "\n\nUWAGA: wycofanie praw ustanowionych podczas realizacji poprzednich wpisów w dzienniku sprawi, że ten dziennik zostanie ukryty, a postęp w realizacji tego celu nie będzie możliwy aż do momentu ponownego wprowadzenia określonych praw."
+ egalitarian_objective_note_loc: "\n\nUWAGA: wycofanie dowolnego prawa wprowadzonego w ramach poprzednich wpisów w dzienniku poskutkuje ukryciem tego dziennika. Do czasu ponownego ustanowienia danego prawa nie będzie można realizować kolejnych celów zawartych w tym dzienniku."
  je_colonization_laws: "Mocarstwo kolonialne"
  je_colonization_laws_reason: "Naszym pierwszym krokiem na drodze do hegemonii powinno być poszerzenie zamorskich granic. Warto zmienić nasze prawa, abyśmy mogli kolonizować tereny – dzięki temu zrealizujemy nasze cele."
  je_african_colonies: "Kolonie afrykańskie"

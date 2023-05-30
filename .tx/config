@@ -26,6 +26,62 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = acw_text_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_1_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/agitators_1_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_1_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_1_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_2_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/agitators_2_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_2_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_2_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_3_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/agitators_3_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_3_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_3_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_4_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/agitators_4_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_4_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_4_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_4_politics_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/agitators_4_politics_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_4_politics_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_4_politics_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_4_revolution_l_polishh]
+file_filter = pliki/<lang>/game/localization/polish/agitators_4_revolution_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_4_revolution_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_4_revolution_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:agitators_6_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/agitators_6_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/agitators_6_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = agitators_6_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:ai_strategies_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/ai_strategies_l_polish.yml
 minimum_perc = 0
@@ -73,6 +129,14 @@ source_file = pliki/en/game/localization/polish/canals_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = canals_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:character_interactions_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/character_interactions_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/character_interactions_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = character_interactions_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:commander_ranks_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/commander_ranks_l_polish.yml
@@ -169,6 +233,14 @@ source_file = pliki/en/game/localization/polish/content_106_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = content_106_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:content_204_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/content_204_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/content_204_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = content_204_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:core_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/core_l_polish.yml
@@ -458,13 +530,13 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = music_l_polish
 
-[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:music_l_polish_mp1]
-file_filter = pliki/<lang>/game/localization/polish/music_l_polish_mp1.yml
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:music_mp1_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/music_mp1_l_polish.yml
 minimum_perc = 0
-source_file = pliki/en/game/localization/polish/music_l_polish_mp1.yml
+source_file = pliki/en/game/localization/polish/music_mp1_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
-resource_name = music_l_polish_mp1
+resource_name = music_mp1_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:names_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/names_l_polish.yml
@@ -569,6 +641,14 @@ source_file = pliki/en/game/localization/polish/shared_event_text_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = shared_event_text_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:state_atheism_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/state_atheism_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/state_atheism_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = state_atheism_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:test_modifiers_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/test_modifiers_l_polish.yml

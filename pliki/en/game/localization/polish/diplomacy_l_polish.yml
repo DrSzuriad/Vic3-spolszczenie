@@ -134,6 +134,8 @@
  WE_OWE_OBLIGATION: "Mamy już wobec nich [concept_obligation|l]."
  EXISTING_PACT: "Wartość istniejącego paktu dyplomatycznego [DIPLOMATIC_PACT.GetName]"
  NO_PACT_TO_TRANSFER: "Brak istniejącego i możliwego do przeniesienia [Concept('concept_diplomatic_pact', 'paktu dyplomatycznego')] tego rodzaju"
+ AI_WILL_ACCEPT_GENERIC: "@green_checkmark! [Country.GetName] – to państwo zgodziłoby się"
+ AI_WILL_NOT_ACCEPT_GENERIC: "@red_cross! [Country.GetName] – to państwo #bold #n NIE#!#! zgodziłoby się"
  AI_WILL_ACCEPT: "@green_checkmark! [DiplomaticAction.GetSecondCountry.GetName] – to państwo zgodziłoby się"
  AI_WILL_ACCEPT_WITH_OWE_OBLIGATION: "@green_checkmark! [DiplomaticAction.GetSecondCountry.GetName] – to państwo zgodziłoby się, jeśli mamy wobec niego [concept_obligation|l]"
  AI_WILL_ACCEPT_WITH_CALL_IN_OBLIGATION: "@green_checkmark! [DiplomaticAction.GetSecondCountry.GetName] – to państwo zgodziłoby się, jeśli powołamy się na jego [concept_obligation|l] wobec nas"
