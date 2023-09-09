@@ -1,5 +1,5 @@
 ﻿l_polish:
-
+ 
  je_the_eastern_border: "Władca Wschodu"
  je_the_eastern_border_reason: "Jeśli chcemy zdobyć przewagę na Pacyfiku i zrealizować cele kolonialne w Azji Środkowej, nasze państwo – [ROOT.GetCountry.GetName] – musi rozstrzygnąć, z korzyścią dla siebie, zadawniony spór dotyczący granic z państwem o nazwie [SCOPE.sCountry('china_scope').GetName]."
  russia_treaty_of_beijing: "Traktat pekiński"
@@ -7,6 +7,7 @@
  obligation_for_outer_manchuria_tt: "Oddamy Przyamurze w zamian za realizację naszego zobowiązania."
  transfer_of_outer_manchuria_tt: "Zażądamy oddania Przyamurza pod władzę rosyjską."
  china_explosion_point_2_tt: "#BOLD Wojny opiumowe#! i #BOLD powstania#! w wystarczającym stopniu #BOLD zdestabilizowały#! Chiny"
+ war_with_china_not_russia_tt: "Nie prowadzi wojny przeciwko Chinom, a Chiny prowadzą [Concept('concept_war', 'wojnę')] przeciwko innemu państwu"
  russo_chinese.1.t: "Traktat pekiński"
  russo_chinese.1.d: "Władza [SCOPE.sCountry('china_scope').GetAdjective|l] znajduje się pod naszą presją. Postanowiliśmy to wykorzystać, proponując traktat, na mocy którego w Mandżurii ma zostać wyznaczona oficjalna granica, a nasze państwo – [ROOT.GetCountry.GetName] – ma objąć władzę nad państwem o nazwie [SCOPE.sState('outer_manchuria_scope').GetName]."
  russo_chinese.1.f: "Zawarte w tym traktacie postanowienia, nienaruszalne i obowiązujące na wieki, wejdą w życie z dniem ich wymiany między przedstawicielami obu państw."

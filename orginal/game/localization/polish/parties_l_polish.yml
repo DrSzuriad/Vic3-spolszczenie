@@ -39,7 +39,7 @@
  party_national_civic_union: "Narodowa Unia Obywatelska"
  party_radical_civic_union: "Radykalna Unia Obywatelska"
  party_labour_party: "Partia Pracy"
-
+ 
  party_fatherland_front: "Front Ojczyźniany"
  integralist_action_party: "Brazylijska Akcja Integralistyczna"
  party_national_socialist_movement: "Ruch Narodowosocjalistyczny"
@@ -65,7 +65,7 @@
  party_freedom_party: "Partia Wolności"
  party_national_fascist_party: "Narodowa Partia Faszystowska"
  party_national_union_of_greece: "Narodowa Unia Grecji"
-
+ 
  party_moderate_party: "Partia Umiarkowana"
  party_regenerator_party: "Partia Regeneratorów"
  party_hoyre: "Høyre"
@@ -88,7 +88,7 @@
  party_russian_party: "Partia Rosyjska"
  party_resistance_party: "Partia Ruchu Oporu"
  party_party_of_order: "Partia Porządku"
-
+ 
  party_historic_party: "Partia Historyczna"
  party_free_minded_venstre: "Liberalna Partia Lewicy"
  party_old_lantmanna_party: "Stara Partia Lantmanna"
@@ -97,7 +97,7 @@
  party_national_party: "Partia Narodowa"
  party_party_of_peaceful_renovation: "Partia Pokojowego Odnowienia"
  party_democratic_alliance: "Sojusz Demokratyczny"
-
+ 
  party_progressive_party: "Partia Postępowa"
  party_liberal_democrats: "Liberalni Demokraci"
  party_venstre: "Partia Lewicy"
@@ -118,7 +118,7 @@
  party_whig_party: "Partia Wigów"
  party_the_left: "Lewica"
  party_english_party: "Partia Angielska"
-
+ 
  party_patriotic_union: "Unia Patriotyczna"
  party_national_peoples_party: "Narodowa Partia Ludowa"
  party_true_peoples_party: "Prawdziwa Partia Ludowa"
@@ -129,7 +129,7 @@
  party_russian_assembly: "Zgromadzenie Rosyjskie"
  party_russian_all_military_union: "Rosyjski Związek Ogólnowojskowy"
  party_union_of_rights: "Związek Praw"
-
+ 
  party_democratic_progressive_party: "Demokratyczna Partia Postępowa"
  party_progressive_dissidence: "Opozycja Postępowa"
  party_chartists: "Partia Czartystów"
@@ -151,7 +151,7 @@
  party_french_party: "Partia Francuska"
  party_trudovik_group: "Trudowicy"
  party_republican_union: "Związek Republikański"
-
+ 
  party_portuguese_catholic_centre: "Portugalskie Centrum Katolickie"
  party_catholic_right: "Katolicka Prawica"
  party_moderate_venstre: "Umiarkowana Partia Lewicy"
@@ -186,7 +186,7 @@
  party_confederate_socialist_party: "Konfederackie Stowarzyszenie Socjalistyczne"
  party_psi: "Włoska Partia Socjalistyczna"
  party_seke: "Socjaldemokratyczna Partia Grecji"
-
+ 
  party_british_socialist_party: "Brytyjska Partia Socjalistyczna"
  party_pcf: "Francuska Partia Komunistyczna"
  party_kps: "Komunistyczna Partia Szwajcarii"
@@ -204,7 +204,7 @@
  party_socialist_workers_party: "Socjalistyczna Partia Robotnicza"
  party_workingmens_party: "Partia Robotników"
  party_kke: "Komunistyczna Partia Grecji"
-
+ 
  party_irish_national_land_league: "Irlandzka Narodowa Liga Ziemska"
  party_independent_agriculture_party: "Niezależna Partia Rolnicza"
  party_farmers_party: "Partia Rolnicza"
@@ -219,14 +219,14 @@
  party_patrons_of_industry: "Patroni Przemysłu"
  party_national_grange: "Folwark Narodowy"
  party_agrarian_and_farmer_party: "Partia Rolnicza"
-
+ 
  party_young_socialists: "Młodzi Socjaliści"
  party_cnt: "Krajowa Konfederacja Pracy"
  party_maximalist_federation: "Federacja Maksymalistów"
  party_socialist_league: "Liga Socjalistyczna"
  party_italian_syndicalist_union: "Włoski Związek Syndykalistyczny"
  party_anarcho_communist_federation: "Federacja Anarchistyczno-Komunistyczna"
-
+ 
  base_value: "Wartość bazowa"
  from_liberal_leader: "Liberalna ideologia przywódcy"
  from_liberalism: "Ideologia liberalna lub leseferystyczna"
@@ -351,3 +351,4 @@
  from_protectionist_leader: "Ideologia przywódcy protekcjonistycznego"
  from_french_monarchist_rival: "Potężni rywale monarchiści"
  from_only_legal_party: "Za sprawą jednej uprawomocnionej partii"
+ from_jacksonian_democrat: "Za sprawą demokraty jacksonowskiego"

@@ -658,6 +658,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = test_modifiers_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:themes_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/themes_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/themes_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = themes_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:ticktask_debugger_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/ticktask_debugger_l_polish.yml
 minimum_perc = 0

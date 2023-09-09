@@ -39,17 +39,17 @@
  ACHIEVEMENT_FILTER_BUTTON_LOCKED: "Niezdobyte"
  ACHIEVEMENT_FILTER_BUTTON_POSSIBLE: "Możliwe do zdobycia"
  ACHIEVEMENT_FILTER_SHOW: "Pokaż osiągnięcia:"
-
+ 
  ACHIEVEMENT_GROUP_easy_group: "Łatwe osiągnięcia"
  ACHIEVEMENT_GROUP_medium_group: "Przeciętne osiągnięcia"
  ACHIEVEMENT_GROUP_hard_group: "Trudne osiągnięcia"
  ACHIEVEMENT_GROUP_very_hard_group: "Bardzo trudne osiągnięcia"
-
-##ACHIEVEMENT_NEW_ACHIEVEMENT_1_0: "Its over 9000!"
-##ACHIEVEMENT_NEW_ACHIEVEMENT_2_0: "Swedish Plutonium"
-
-##ACHIEVEMENT_DESC_NEW_ACHIEVEMENT_1_0: "Have at least 9000 cash reserves"
-##ACHIEVEMENT_DESC_NEW_ACHIEVEMENT_2_0: "As Sweden, own Sjaelland and Denmark must not exist"
+ 
+ ##ACHIEVEMENT_NEW_ACHIEVEMENT_1_0: "Its over 9000!"
+ ##ACHIEVEMENT_NEW_ACHIEVEMENT_2_0: "Swedish Plutonium"
+ 
+ ##ACHIEVEMENT_DESC_NEW_ACHIEVEMENT_1_0: "Have at least 9000 cash reserves"
+ ##ACHIEVEMENT_DESC_NEW_ACHIEVEMENT_2_0: "As Sweden, own Sjaelland and Denmark must not exist"
  ACHIEVEMENT_peccavi: "Peccavi"
  ACHIEVEMENT_perkeletankki: "Fińskie tanki"
  ACHIEVEMENT_luxurious_luxembourg: "Luksusowy Luksemburg"
@@ -115,7 +115,7 @@
  ACHIEVEMENT_DESC_american_territory: "Rozpocznij grę jako Terytorium Indiańskie i uczyń Stany Zjednoczone Ameryki swoim państwem poddańczym obejmującym nie więcej niż trzy obszary administracyjne"
  ACHIEVEMENT_DESC_broken_promises: "Jako Włochy dołącz do posunięcia dyplomatycznego przeciwko co najmniej 2 twoim sojusznikom"
  ACHIEVEMENT_DESC_the_berlin_conference: "Rozpocznij grę jako Prusy, utwórz Niemcy i przejmij pełną kontrolę nad co najmniej 10 obszarami administracyjnymi w Afryce"
- ACHIEVEMENT_DESC_belle_epoque: "Rozpocznij grę jako Francja, osiągnij najwyższą wartość PKB per capita spośród wszystkich państw i generuj najwięcej punktów innowacji na świecie"
+ ACHIEVEMENT_DESC_belle_epoque: "Rozpocznij grę jako Francja, osiągnij najwyższą wartość PKB spośród wszystkich państw i generuj najwięcej punktów innowacji na świecie"
  ACHIEVEMENT_DESC_deeds_not_words: "Ustanów prawo wyborcze kobiet"
  ACHIEVEMENT_DESC_first_flight: "Zostań pierwszym państwem na świecie, którego obywatele wzbiją się w powietrze aeroplanem"
  ACHIEVEMENT_DESC_victorian_century: "Rozegraj całą kampanię od roku 1836 do roku 1936"
@@ -143,7 +143,7 @@
  own_all_gran_colombia_tt: "Kontroluj wszystkie obszary administracyjne w regionie strategicznym Wielka Kolumbia"
  own_all_andes_tt: "Kontroluj wszystkie obszary administracyjne w regionie strategicznym Andy"
  own_all_la_plata_tt: "Kontroluj wszystkie obszary administracyjne w regionie strategicznym La Plata"
-
+ 
  ACHIEVEMENT_achievement_amish_paradise: "Raj Amiszów"
  ACHIEVEMENT_DESC_achievement_amish_paradise: "Grając jako naród jankeski, wprowadź zakaz przemysłu przed rokiem 1846 i utrzymaj przynajmniej następującą uśrednioną wartość poziomu życia: 20"
  achievement_amish_paradise.tt: "Wprowadź zakaz przemysłu przed rokiem 1846"

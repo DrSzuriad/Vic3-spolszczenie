@@ -498,3 +498,507 @@
 2023-05-30 13:54:47 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\social\social_l_polish.yml".
 2023-05-30 13:54:47 [main] INFO  ProcessHelper:53 - Converting locale "social_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
 2023-05-30 13:54:47 [main] INFO  LocaleLoader:77 - Writing locale file "social_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\social\social_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\modifiers\modifiers_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\modifiers\modifiers_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  ProcessHelper:53 - Converting locale "modifiers_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:77 - Writing locale file "modifiers_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\modifiers\modifiers_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\achievements_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\achievements_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\acw_text_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\acw_text_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_1_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_1_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_2_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_2_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_3_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_3_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_4_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_4_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_4_politics_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_4_politics_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_4_revolution_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_4_revolution_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_6_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\agitators_6_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\ai_strategies_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\ai_strategies_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\alerts_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\alerts_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\american_buildings_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\american_buildings_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\battle_conditions_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\battle_conditions_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\buildings_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\buildings_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\canals_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\canals_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\character_interactions_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\character_interactions_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\commander_ranks_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\commander_ranks_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\concepts_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\concepts_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_101_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_101_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_102_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_102_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_103_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_103_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_104_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_104_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_105_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_105_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_106_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_106_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_1_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_1_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_204_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_204_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_2_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_2_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_3_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_3_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_4_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\content_4_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\core_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\core_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\countries_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\countries_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\country_flavor_text_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\country_flavor_text_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\credits_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\credits_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\cultures_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\cultures_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\customized_tooltips_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\customized_tooltips_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\custom_loc_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\custom_loc_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\debug_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\debug_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\decisions_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\decisions_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\diplomacy_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\diplomacy_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\diplomatic_plays_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\diplomatic_plays_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\dlc_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\dlc_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\effects_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\effects_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\encyclopedia_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\encyclopedia_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\ethnicities_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\ethnicities_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\events_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\events_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\event_target_links_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\event_target_links_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\game_rules_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\game_rules_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\goods_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\goods_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\government_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\government_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\hub_names_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\hub_names_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\input_settings_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\input_settings_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\institutions_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\institutions_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interfaces_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interfaces_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interface_labels_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interface_labels_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\inventions_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\inventions_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\journal_entries_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\journal_entries_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\labels_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\labels_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\laws_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\laws_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\legitimacy_levels_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\legitimacy_levels_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\loading_tips_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\loading_tips_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map_editor_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map_editor_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map_modes_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map_modes_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\modifiers_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\modifiers_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\modifier_debugger_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\modifier_debugger_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\music_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\music_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\music_mp1_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\music_mp1_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\names_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\names_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\national_focus_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\national_focus_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\notifications_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\notifications_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\objectives_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\objectives_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\parties_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\parties_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\pl_custom_loc_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\pl_custom_loc_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\politics_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\politics_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\pop_types_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\pop_types_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\production_methods_2_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\production_methods_2_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\production_methods_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\production_methods_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\religion_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\religion_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\settings_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\settings_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\shared_event_text_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\shared_event_text_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\state_atheism_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\state_atheism_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\test_modifiers_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\test_modifiers_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\themes_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\themes_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\ticktask_debugger_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\ticktask_debugger_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\triggers_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\triggers_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\tutorial_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\tutorial_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\units_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\units_l_polish.yml".
+2023-09-09 21:22:58 [main] INFO  ProcessHelper:53 - Converting locale "achievements_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:58 [main] INFO  ProcessHelper:53 - Converting locale "acw_text_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:58 [main] INFO  ProcessHelper:53 - Converting locale "agitators_1_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:58 [main] INFO  ProcessHelper:53 - Converting locale "agitators_2_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:58 [main] INFO  ProcessHelper:53 - Converting locale "agitators_3_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "agitators_4_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "agitators_4_politics_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "agitators_4_revolution_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "agitators_6_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "ai_strategies_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "alerts_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "american_buildings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "battle_conditions_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "buildings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "canals_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "character_interactions_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "commander_ranks_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "concepts_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_101_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_102_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_103_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_104_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_105_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_106_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_1_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_204_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_2_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_3_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "content_4_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "core_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "countries_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "country_flavor_text_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "credits_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "cultures_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "customized_tooltips_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "custom_loc_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "debug_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "decisions_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "diplomacy_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "diplomatic_plays_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "dlc_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "effects_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "encyclopedia_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "ethnicities_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "events_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "event_target_links_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "game_rules_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "goods_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "government_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "hub_names_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "input_settings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "institutions_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "interfaces_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "interface_labels_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "inventions_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "journal_entries_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "labels_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "laws_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "legitimacy_levels_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "loading_tips_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "map_editor_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "map_modes_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "modifiers_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "modifier_debugger_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "music_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "music_mp1_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "names_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "national_focus_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "notifications_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "objectives_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "parties_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "pl_custom_loc_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "politics_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "pop_types_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "production_methods_2_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "production_methods_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "religion_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "settings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "shared_event_text_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "state_atheism_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "test_modifiers_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "themes_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "ticktask_debugger_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "triggers_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "tutorial_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "units_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "achievements_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\achievements_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "acw_text_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\acw_text_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_1_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_1_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_2_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_2_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_3_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_3_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_4_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_4_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_4_politics_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_4_politics_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_4_revolution_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_4_revolution_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "agitators_6_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\agitators_6_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "ai_strategies_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\ai_strategies_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "alerts_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\alerts_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "american_buildings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\american_buildings_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "battle_conditions_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\battle_conditions_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "buildings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\buildings_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "canals_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\canals_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "character_interactions_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\character_interactions_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "commander_ranks_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\commander_ranks_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "concepts_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\concepts_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_101_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_101_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_102_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_102_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_103_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_103_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_104_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_104_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_105_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_105_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_106_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_106_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_1_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_1_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_204_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_204_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_2_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_2_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_3_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_3_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "content_4_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\content_4_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "core_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\core_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "countries_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\countries_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "country_flavor_text_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\country_flavor_text_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "credits_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\credits_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "cultures_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\cultures_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "customized_tooltips_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\customized_tooltips_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "custom_loc_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\custom_loc_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "debug_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\debug_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "decisions_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\decisions_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "diplomacy_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\diplomacy_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "diplomatic_plays_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\diplomatic_plays_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "dlc_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\dlc_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "effects_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\effects_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "encyclopedia_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\encyclopedia_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "ethnicities_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\ethnicities_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "events_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\events_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "event_target_links_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\event_target_links_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "game_rules_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\game_rules_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "goods_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\goods_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "government_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\government_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "hub_names_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\hub_names_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "input_settings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\input_settings_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "institutions_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\institutions_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "interfaces_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\interfaces_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "interface_labels_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\interface_labels_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "inventions_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\inventions_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "journal_entries_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\journal_entries_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "labels_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\labels_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "laws_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\laws_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "legitimacy_levels_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\legitimacy_levels_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "loading_tips_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\loading_tips_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "map_editor_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\map_editor_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "map_modes_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\map_modes_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "modifiers_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\modifiers_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "modifier_debugger_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\modifier_debugger_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "music_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\music_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "music_mp1_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\music_mp1_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "names_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\names_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "national_focus_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\national_focus_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "notifications_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\notifications_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "objectives_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\objectives_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "parties_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\parties_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "pl_custom_loc_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\pl_custom_loc_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "politics_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\politics_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "pop_types_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\pop_types_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "production_methods_2_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\production_methods_2_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "production_methods_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\production_methods_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "religion_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\religion_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "settings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\settings_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "shared_event_text_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\shared_event_text_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "state_atheism_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\state_atheism_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "test_modifiers_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\test_modifiers_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "themes_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\themes_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "ticktask_debugger_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\ticktask_debugger_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "triggers_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\triggers_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "tutorial_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\tutorial_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "units_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\units_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\character\character_traits_l_polish.yml" of type "EUIV".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\character\character_traits_l_polish.yml".
+2023-09-09 21:22:59 [main] INFO  ProcessHelper:53 - Converting locale "character_traits_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:22:59 [main] INFO  LocaleLoader:77 - Writing locale file "character_traits_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\character\character_traits_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\common_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\common_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\core_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\core_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\frontend_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\frontend_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\frontend_mp_game_setup_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\frontend_mp_game_setup_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\multiplayer_lobby_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\frontend\multiplayer_lobby_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  ProcessHelper:53 - Converting locale "common_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:00 [main] INFO  ProcessHelper:53 - Converting locale "core_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:00 [main] INFO  ProcessHelper:53 - Converting locale "frontend_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:00 [main] INFO  ProcessHelper:53 - Converting locale "frontend_mp_game_setup_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:00 [main] INFO  ProcessHelper:53 - Converting locale "multiplayer_lobby_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:77 - Writing locale file "common_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\frontend\common_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:77 - Writing locale file "core_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\frontend\core_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:77 - Writing locale file "frontend_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\frontend\frontend_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:77 - Writing locale file "frontend_mp_game_setup_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\frontend\frontend_mp_game_setup_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:77 - Writing locale file "multiplayer_lobby_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\frontend\multiplayer_lobby_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\historical\texan_war_of_independence_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\historical\texan_war_of_independence_l_polish.yml".
+2023-09-09 21:23:00 [main] INFO  ProcessHelper:53 - Converting locale "texan_war_of_independence_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:00 [main] INFO  LocaleLoader:77 - Writing locale file "texan_war_of_independence_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\historical\texan_war_of_independence_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interest_groups\interest_groups_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interest_groups\interest_groups_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interest_groups\interest_group_traits_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\interest_groups\interest_group_traits_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "interest_groups_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "interest_group_traits_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "interest_groups_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\interest_groups\interest_groups_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "interest_group_traits_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\interest_groups\interest_group_traits_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\seas_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\seas_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\states_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\states_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\state_traits_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\state_traits_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\strategic_regions_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\game\localization\polish\map\strategic_regions_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "seas_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "states_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "state_traits_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "strategic_regions_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "seas_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\map\seas_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "states_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\map\states_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "state_traits_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\map\state_traits_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "strategic_regions_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\game\localization\polish\map\strategic_regions_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_date_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_date_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_localize_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_localize_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_settings_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_settings_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_settings_warnings_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_settings_warnings_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_tools_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\cw_tools_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\languages.yml" of type "EUIV".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\languages.yml".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "cw_date_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "cw_localize_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "cw_settings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "cw_settings_warnings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "cw_tools_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  ProcessHelper:53 - Converting locale "languages.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "cw_date_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\cw_date_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "cw_localize_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\cw_localize_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "cw_settings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\cw_settings_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "cw_settings_warnings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\cw_settings_warnings_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "cw_tools_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\cw_tools_l_polish.yml".
+2023-09-09 21:23:01 [main] INFO  LocaleLoader:77 - Writing locale file "languages.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\languages.yml".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\text_utils\cw_text_utils_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\clausewitz\localization\text_utils\cw_text_utils_l_polish.yml".
+2023-09-09 21:23:02 [main] INFO  ProcessHelper:53 - Converting locale "cw_text_utils_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:77 - Writing locale file "cw_text_utils_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\clausewitz\localization\text_utils\cw_text_utils_l_polish.yml".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\loadsave_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\loadsave_l_polish.yml".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\music_player_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\music_player_l_polish.yml".
+2023-09-09 21:23:02 [main] INFO  ProcessHelper:53 - Converting locale "loadsave_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:02 [main] INFO  ProcessHelper:53 - Converting locale "music_player_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:77 - Writing locale file "loadsave_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\loadsave_l_polish.yml".
+2023-09-09 21:23:02 [main] INFO  LocaleLoader:77 - Writing locale file "music_player_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\music_player_l_polish.yml".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\achievements\achievements_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\achievements\achievements_l_polish.yml".
+2023-09-09 21:23:03 [main] INFO  ProcessHelper:53 - Converting locale "achievements_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:77 - Writing locale file "achievements_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\achievements\achievements_l_polish.yml".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\credits\credits_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\credits\credits_l_polish.yml".
+2023-09-09 21:23:03 [main] INFO  ProcessHelper:53 - Converting locale "credits_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:77 - Writing locale file "credits_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\credits\credits_l_polish.yml".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\frontend\frontend_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\frontend\frontend_l_polish.yml".
+2023-09-09 21:23:03 [main] INFO  ProcessHelper:53 - Converting locale "frontend_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:03 [main] INFO  LocaleLoader:77 - Writing locale file "frontend_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\frontend\frontend_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\date_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\date_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\errors_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\errors_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\formatting_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\formatting_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\jomini_graphics_settings_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\jomini_graphics_settings_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\jomini_portraits_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\jomini_portraits_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\notifications_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\notifications_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "date_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "errors_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "formatting_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "jomini_graphics_settings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "jomini_portraits_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "notifications_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "date_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\date_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "errors_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\errors_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "formatting_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\formatting_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "jomini_graphics_settings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\jomini_graphics_settings_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "jomini_portraits_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\jomini_portraits_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "notifications_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\notifications_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\coat_of_arms\coat_of_arms_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\coat_of_arms\coat_of_arms_l_polish.yml".
+2023-09-09 21:23:04 [main] INFO  ProcessHelper:53 - Converting locale "coat_of_arms_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:04 [main] INFO  LocaleLoader:77 - Writing locale file "coat_of_arms_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\coat_of_arms\coat_of_arms_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\multiplayer_gui\multiplayer_gui_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\multiplayer_gui\multiplayer_gui_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  ProcessHelper:53 - Converting locale "multiplayer_gui_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:77 - Writing locale file "multiplayer_gui_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\multiplayer_gui\multiplayer_gui_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\script_system\script_system_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\script_system\script_system_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\script_system\trigger_system_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\jomini\script_system\trigger_system_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  ProcessHelper:53 - Converting locale "script_system_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:05 [main] INFO  ProcessHelper:53 - Converting locale "trigger_system_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:77 - Writing locale file "script_system_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\script_system\script_system_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:77 - Writing locale file "trigger_system_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\jomini\script_system\trigger_system_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\modifiers\modifiers_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\modifiers\modifiers_l_polish.yml".
+2023-09-09 21:23:05 [main] INFO  ProcessHelper:53 - Converting locale "modifiers_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:05 [main] INFO  LocaleLoader:77 - Writing locale file "modifiers_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\modifiers\modifiers_l_polish.yml".
+2023-09-09 21:23:06 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\pops\pops_gui_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:06 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\pops\pops_gui_l_polish.yml".
+2023-09-09 21:23:06 [main] INFO  ProcessHelper:53 - Converting locale "pops_gui_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:06 [main] INFO  LocaleLoader:77 - Writing locale file "pops_gui_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\pops\pops_gui_l_polish.yml".
+2023-09-09 21:23:06 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\settings\settings_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:06 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\settings\settings_l_polish.yml".
+2023-09-09 21:23:06 [main] INFO  ProcessHelper:53 - Converting locale "settings_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:06 [main] INFO  LocaleLoader:77 - Writing locale file "settings_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\settings\settings_l_polish.yml".
+2023-09-09 21:23:07 [main] INFO  LocaleLoader:23 - Loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\social\social_l_polish.yml" of type "EUIV".
+2023-09-09 21:23:07 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\KorektaGIT\Vic3-spolszczenie\orginal\jomini\localization\social\social_l_polish.yml".
+2023-09-09 21:23:07 [main] INFO  ProcessHelper:53 - Converting locale "social_l_polish.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2023-09-09 21:23:07 [main] INFO  LocaleLoader:77 - Writing locale file "social_l_polish.yml" to file "D:\KorektaGIT\Vic3-spolszczenie\pliki\en\jomini\localization\social\social_l_polish.yml".

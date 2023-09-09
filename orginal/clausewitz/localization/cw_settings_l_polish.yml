@@ -79,6 +79,7 @@
  OPTION_CAP_144:0 "144"
  OPTION_CAP_165:0 "165"
  SETTING_TEXTURE_STREAMING:0 "Przesyłanie tekstur"
+ SETTING_TEXTURE_STREAMING_TOOLTIP: "#T $SETTING_TEXTURE_STREAMING$#!\nTekstury są wczytywane w zależności od potrzeb.\n\nZmniejsza zużycie pamięci karty graficznej kosztem czasu pracy procesora. Może zwiększyć wydajność w przypadku kart graficznych o małej ilości pamięci."
  SETTING_TEXTURE_STREAMING_CACHE:0 "Przesyłanie tekstur – ilość miejsca w pamięci podręcznej"
  SETTING_VALUE_MB:0 "$VALUE$ MB"
  
