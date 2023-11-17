@@ -4,3 +4,5 @@
  SETTING_MAPOBJECT_QUALITY: "Obiekty na mapie"
  SETTING_MAP_SSAO: "Mapa – SSAO"
  SETTING_DOF: "Głębia ostrości"
+ SETTING_LENS_FLARE: "Flara obiektywu"
+ SETTING_SECONDARY_LENS_FLARE: "Dodatkowa flara obiektywu"

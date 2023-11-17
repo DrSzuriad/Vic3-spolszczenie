@@ -23,6 +23,7 @@ java -jar "%parser%" "%sup%" "pliki\\pl\\clausewitz\\localization" "pliki\\en\\c
 java -jar "%parser%" "%sup%" "pliki\\pl\\clausewitz\\localization\\text_utils" "pliki\\en\\clausewitz\\localization\\text_utils" "temp\\supply\\clausewitz\\localization\\text_utils" yaml
 ::jomini
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization" "pliki\\en\\jomini\\localization" "temp\\supply\\jomini\\localization" yaml
+java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\account" "pliki\\en\\jomini\\localization\\account" "temp\\supply\\jomini\\localization\\account" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\achievements" "pliki\\en\\jomini\\localization\\achievements" "temp\\supply\\jomini\\localization\\achievements" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\credits" "pliki\\en\\jomini\\localization\\credits" "temp\\supply\\jomini\\localization\\credits" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\frontend" "pliki\\en\\jomini\\localization\\frontend" "temp\\supply\\jomini\\localization\\frontend" yaml
@@ -50,6 +51,7 @@ java -jar "%parser%" "%fte%" "temp\\supply\\clausewitz\\localization" "temp\\vic
 java -jar "%parser%" "%fte%" "temp\\supply\\clausewitz\\localization\\text_utils" "temp\\vic3\\clausewitz\\localization\\text_utils" "%charset%"
 ::jomini
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization" "temp\\vic3\\jomini\\localization" "%charset%"
+java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\account" "temp\\vic3\\jomini\\localization\\account" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\achievements" "temp\\vic3\\jomini\\localization\\achievements" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\credits" "temp\\vic3\\jomini\\localization\\credits" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\frontend" "temp\\vic3\\jomini\\localization\\frontend" "%charset%"

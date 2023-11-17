@@ -79,3 +79,7 @@
  gui_animation_tool_dataflow_tooltip: "Kierunek przepływu danych dotyczących własności.\n^ – Pierwsza klatka kluczowa jest ignorowana, a zamiast niej wykorzystywane są dane z widżetu (kierunek domyślny).\nv – Pierwsza klatka kluczowa nie jest ignorowana, więc to jej dane zostaną wykorzystane do rozpoczęcia animacji."
  TOOLS_ANSWER_YES: "Tak#!"
  TOOLS_ANSWER_NO: "Nie#!"
+ pdxns_math_AbsF_desc: "Uzyskaj dodatnią reprezentację dowolnej poprawnej liczby zmiennoprzecinkowej"
+ pdxns_math_AddF_desc: "Dodaj do siebie dwie liczby zmiennoprzecinkowe"
+ pdxns_particle_CalcLodFactor_desc: "Oblicz współczynnik poziomu szczegółowości dla cząsteczki. Daną wejściową jest dowolny „rozmiar”. Następnie na ekranie wyświetlony zostaje przybliżony rozmiar w formie wartości procentowej (0,0 – 1,0)"
+ pdxns_ecs_AudioEventNode_desc: "Wybór instancji zdarzenia audio\nWyjście może być połączone np. z węzłem Create Component typu „Audio Emitter”.\nW przypadku zdarzeń Wwise ze źródłami zewnętrznymi do wartości „audio_event_name” w pliku .schematic należy dodać człon „:<source path>” w celu wskazania pliku źródłowego .wem"

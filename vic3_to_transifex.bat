@@ -24,6 +24,7 @@ java -jar "%parser%" "%fty%" "orginal\\clausewitz\\localization" "pliki\\en\\cla
 java -jar "%parser%" "%fty%" "orginal\\clausewitz\\localization\\text_utils" "pliki\\en\\clausewitz\\localization\\text_utils" "%charset%"
 ::jomini
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization" "pliki\\en\\jomini\\localization" "%charset%"
+java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\account" "pliki\\en\\jomini\\localization\\account" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\achievements" "pliki\\en\\jomini\\localization\\achievements" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\credits" "pliki\\en\\jomini\\localization\\credits" "%charset%"
 java -jar "%parser%" "%fty%" "orginal\\jomini\\localization\\frontend" "pliki\\en\\jomini\\localization\\frontend" "%charset%"

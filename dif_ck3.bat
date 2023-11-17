@@ -58,6 +58,7 @@ java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar"
 
 ::jomini
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization" "nowe\\jomini\\localization" "dif\\jomini\\localization" eu4
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\account" "nowe\\jomini\\localization\\account" "dif\\jomini\\localization\\account" eu4
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\achievements" "nowe\\jomini\\localization\\achievements" "dif\\jomini\\localization\\achievements" eu4
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\credits" "nowe\\jomini\\localization\\credits" "dif\\jomini\\localization\\credits" eu4
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_diff" "orginal\\jomini\\localization\\frontend" "nowe\\jomini\\localization\\frontend" "dif\\jomini\\localization\\frontend" eu4

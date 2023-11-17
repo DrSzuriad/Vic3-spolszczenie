@@ -1,6 +1,5 @@
 ﻿l_polish:
- SETTING_ANIMATED_PORTRAITS:0 "Animowane postacie"
- SETTING_ANIMATED_PORTRAITS_TOOLTIP:0 "#T $SETTING_ANIMATED_PORTRAITS$\n#!Ustawienie to umożliwia włączenie lub wyłączenie animacji najważniejszych postaci.\n\nWyłączenie go może zwiększyć wydajność."
- SETTING_PORTRAITS_SSAO:0 "Postacie – SSAO"
- SETTING_PORTRAITS_SSAO_TOOLTIP:0 "#T $SETTING_PORTRAITS_SSAO$\n#!Ustawienie to umożliwia włączenie lub wyłączenie funkcji okluzji otoczenia w przestrzeni ekranu w przypadku portretów.\n\nWyłączenie go może zwiększyć wydajność."
- 
+ SETTING_ANIMATED_PORTRAITS: "Animowane postacie"
+ SETTING_ANIMATED_PORTRAITS_TOOLTIP: "#T $SETTING_ANIMATED_PORTRAITS$\n#!Ustawienie to umożliwia włączenie lub wyłączenie animacji najważniejszych postaci.\n\nWyłączenie go może zwiększyć wydajność."
+ SETTING_PORTRAITS_SSAO: "Postacie – SSAO"
+ SETTING_PORTRAITS_SSAO_TOOLTIP: "#T $SETTING_PORTRAITS_SSAO$\n#!Ustawienie to umożliwia włączenie lub wyłączenie funkcji okluzji otoczenia w przestrzeni ekranu w przypadku portretów.\n\nWyłączenie go może zwiększyć wydajność."

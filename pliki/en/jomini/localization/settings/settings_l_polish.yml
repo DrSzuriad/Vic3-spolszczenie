@@ -25,6 +25,7 @@
  SETTINGS_CATEGORY_GUI: "Graficzny interfejs użytkownika"
  SETTINGS_CATEGORY_INPUT_BINDINGS: "Ustawienia sterowania"
  DISCARD: "Odrzuć"
+ APPLY: "Zastosuj"
  SAVE_AND_CLOSE: "OK"
  SETTINGS: "Ustawienia"
  REQUIRES_RESTART: "Wymagane ponowne uruchomienie"
@@ -38,3 +39,4 @@
  SETTINGS_INPUT_RESET_INPUT_PROFILE: "Przywróć ustawienia domyślne"
  SETTINGS_INPUT_BINDING_TEXT: "Przypisz klawisz lub przycisk do czynności „$INPUT_ACTION$”:\n\n$INPUT_NAME$"
  SETTINGS_INPUT_BINDING_WARNING_TEXT: "Ostrzeżenie: do czynności „$INPUT_ACTION$” przypisano już inny klawisz lub przycisk.\nNaciśnięcie klawisza lub przycisku „$SETTINGS_INPUT_CONFIRM$” spowoduje usunięcie pierwotnego przypisania."
+ SETTINGS_INPUT_BINDING_MODIFIERS_WARNING_TEXT: "Ostrzeżenie: przypisane klawisze lub przyciski nie mogą obejmować tylko klawiszy modyfikatorów"
