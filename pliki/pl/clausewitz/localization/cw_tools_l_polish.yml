@@ -79,3 +79,7 @@
  gui_animation_tool_dataflow_tooltip: ""
  TOOLS_ANSWER_YES: ""
  TOOLS_ANSWER_NO: ""
+ pdxns_math_AbsF_desc: ""
+ pdxns_math_AddF_desc: ""
+ pdxns_particle_CalcLodFactor_desc: ""
+ pdxns_ecs_AudioEventNode_desc: ""
