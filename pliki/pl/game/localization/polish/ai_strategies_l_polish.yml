@@ -112,6 +112,8 @@
  ai_strategy_world_revolution_desc: ""
  ai_strategy_anti_imperialism: ""
  ai_strategy_anti_imperialism_desc: ""
+ ai_strategy_restore_natural_borders: ""
+ ai_strategy_restore_natural_borders_desc: ""
  ATTITUDE_DETAILS: ""
  ai_attitude_human: ""
  ai_attitude_human_desc: ""
