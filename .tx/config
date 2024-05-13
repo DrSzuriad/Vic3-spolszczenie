@@ -530,6 +530,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = map_editor_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_list_panel_in_one_point_six_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/map_list_panel_in_one_point_six_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/map_list_panel_in_one_point_six_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = map_list_panel_in_one_point_six_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_modes_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map_modes_l_polish.yml
 minimum_perc = 0
