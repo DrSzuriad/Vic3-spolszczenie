@@ -106,6 +106,7 @@
  pmg_canning: ""
  pm_disabled_canning: ""
  pm_cannery: ""
+ pm_cannery_fish: ""
  pm_disabled_cannery: ""
  pm_vacuum_canning: ""
  pmg_distillery: ""

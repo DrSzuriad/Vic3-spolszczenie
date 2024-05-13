@@ -138,6 +138,7 @@
  plague.1.f: ""
  plague.1.a: ""
  plague_decisions_available.tt: ""
+ plague_state_mortality.tt: ""
  plague.2.t: "[SCOPE.sCountry('plague_originator_country').GetAltAdjectiveNoFormatting('PL_FEM')|U] grypa rozprzestrzenia się"
  plague.2.d: "[SCOPE.sCountry('plague_originator_country').GetAltAdjective('PL_FEM')|U] grypa o wyjątkowo wysokim współczynniku umieralności dotarła do obszaru administracyjnego o nazwie [SCOPE.sState('plague_spread_target').GetName]. Pandemia szybko przeradza się w ogólnoświatowy kryzys."
  plague.2.f: ""
