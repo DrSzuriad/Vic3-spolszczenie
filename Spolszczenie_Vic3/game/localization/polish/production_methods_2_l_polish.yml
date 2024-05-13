@@ -12,6 +12,7 @@
  pm_apple_orchards:0 "Sady jabłoniowe"
  pm_citrus_orchards:0 "Sady cytrusowe"
  pm_fig_orchards:0 "Sady figowe"
+ pm_fig_orchards_building_rice_farm:0 "Sady figowe"
  pm_mulberry_groves:0 "Zagajniki morwowe"
  pmg_automation:0 "Automatyzacja"
  pmg_automation_building_food_industry:0 "Automatyzacja"

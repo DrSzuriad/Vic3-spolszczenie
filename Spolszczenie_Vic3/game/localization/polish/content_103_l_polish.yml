@@ -1,9 +1,9 @@
 ﻿l_polish:
  LOU:0 "Luizjana"
- LOU_ADJ:0 "Luizjańska"
+ LOU_ADJ:0 "luizjański"
  dyn_c_louisiana:0 "$LOU$"
  dyn_c_new_france:0 "Nowa Francja"
- dyn_c_new_france_adj:0 "Nowofrancuska"
+ dyn_c_new_france_adj:0 "nowofrancuski"
  dyn_c_louisiana_commune:0 "Komuna luizjańska"
  dyn_c_archbishopric_of_st_louis:0 "Saint Louis"
  cajun:0 "Cajun"
