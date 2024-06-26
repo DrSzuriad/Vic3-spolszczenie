@@ -1,3 +1,11 @@
 ﻿l_polish:
  JOMINI_LOAD_GAME_FAILED_TITLE:0 "Nie udało się wczytać zapisu gry"
  JOMINI_LOAD_GAME_FAILED_DESC:0 "Nie udało się wczytać zapisu gry. Powód może być następujący:\n#indent_newline:2 • Zapis gry został wykonany w niekompatybilnej wersji gry.\n• W zapisie gry wykorzystywany jest inny zestaw zawartości do pobrania.\n• Plik zapisu jest uszkodzony.#!"
+ JOMINI_LOAD_INCOMPATIBLE_GAME_TITLE:0 "Zapis gry może być niekompatybilny"
+ JOMINI_LOAD_INCOMPATIBLE_GAME_DESC:0 "Zapis gry może nie zostać wczytany. Powód:\n\n$REASON$\n\nCzy chcesz kontynuować wczytywanie?"
+ JOMINI_DELETE_PLAYTHROUGH_CONFIRMATION_TITLE:0 "Usuwanie rozgrywki"
+ JOMINI_DELETE_PLAYTHROUGH_CONFIRMATION_DESC:0 "Rozgrywka ($NAME$) i związane z nią zapisy gry zostaną usunięte.\n\nCzy na pewno chcesz to zrobić?"
+ JOMINI_DELETE_SAVEGAME_CONFIRMATION_TITLE:0 "Usuwanie zapisu gry"
+ JOMINI_DELETE_SAVEGAME_CONFIRMATION_DESC:0 "Zapis gry ($NAME$) zostanie usunięty.\n\nCzy na pewno chcesz to zrobić?"
+ JOMINI_OVERWRITE_SAVEGAME_CONFIRMATION_TITLE:0 "Nadpisywanie zapisu gry"
+ JOMINI_OVERWRITE_SAVEGAME_CONFIRMATION_DESC:0 "Zapis gry ($NAME$) zostanie nadpisany.\n\nCzy na pewno chcesz to zrobić?"

@@ -100,6 +100,8 @@
  expedition_events.550.b:0 "Nie możemy się zatrzymywać. Niech weźmie ten nóż."
  sir_loc:0 "Proszę pana"
  madam_loc:0 "Proszę pani"
+ mr_loc:0 "Pan"
+ ms_loc:0 "Pani"
  expedition_event_delayed_tt:0 "Ekspedycja trochę się opóźniła."
  expedition_events.560.t:0 "[SCOPE.sCharacter('expedition_leader').GetCustom('drug_type')] się kończy"
  expedition_events.560.d:0 "[SCOPE.sCharacter('expedition_leader').GetCustom('drug_type')] jest na wyczerpaniu, w związku z czym [SCOPE.sCharacter('expedition_leader').GetFullName] żąda, abyśmy wstrzymali ekspedycję i zaczekali na dostawę zapasów. "
