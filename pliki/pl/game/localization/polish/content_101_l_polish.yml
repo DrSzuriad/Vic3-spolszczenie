@@ -100,6 +100,8 @@
  expedition_events.550.b: ""
  sir_loc: ""
  madam_loc: ""
+ mr_loc: ""
+ ms_loc: ""
  expedition_event_delayed_tt: ""
  expedition_events.560.t: ""
  expedition_events.560.d: ""

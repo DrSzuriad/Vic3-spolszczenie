@@ -130,6 +130,7 @@
  modifier_risorgimento_support: ""
  modifier_risorgimento_opponents: ""
  modifier_risorgimento_opposition: ""
+ risorgimento_support: ""
  unlock_national_agitation_tt: ""
  risorgimento_unifying_stance_tt: ""
  risorgimento_unifying_stance_set_tt: ""
@@ -294,3 +295,5 @@
  government_collapse.1.f: ""
  government_collapse.1.a: ""
  government_collapse.1.b: ""
+ is_in_other_market_tt: ""
+ is_not_in_other_market_tt: ""

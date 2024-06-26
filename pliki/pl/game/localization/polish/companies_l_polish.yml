@@ -9,6 +9,7 @@
  POTENTIAL_COMPANIES_OVERVIEW: ""
  BUTTON_COMPANIES_OVERVIEW: ""
  COMPANY_MISSING_TECHNOLOGY_FOR_BUILDINGS: ""
+ COMPANY_MISSING_PRINCIPLE_FOR_BUILDINGS: ""
  COMPANIES_AMOUNT_HEADER: ""
  TOOLTIP_MAX_COMPANIES: ""
  CAN_ESTABLISH_ADDITIONAL_COMPANY: ""
@@ -256,3 +257,4 @@
  company_sudamericana_de_vapores: ""
  company_electricidad_de_caracas: ""
  company_eea: ""
+ company_construction_power_bloc: ""
