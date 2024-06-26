@@ -10,6 +10,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = modifiers_l_polish_mod
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_v2_l_polish]
+file_filter = pliki/<lang>/game/localization/modifiers/modifiers_v2_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/modifiers/modifiers_v2_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = modifiers_v2_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:achievements_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/achievements_l_polish.yml
 minimum_perc = 0
@@ -146,6 +154,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = canals_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:catalysts_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/catalysts_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/catalysts_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = catalysts_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:character_interactions_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/character_interactions_l_polish.yml
 minimum_perc = 0
@@ -153,6 +169,14 @@ source_file = pliki/en/game/localization/polish/character_interactions_l_polish.
 source_lang = en
 type = YAML_GENERIC
 resource_name = character_interactions_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:cohesion_levels_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/cohesion_levels_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/cohesion_levels_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = cohesion_levels_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:commander_ranks_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/commander_ranks_l_polish.yml
@@ -514,6 +538,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = legitimacy_levels_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:liberty_desire_levels_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/liberty_desire_levels_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/liberty_desire_levels_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = liberty_desire_levels_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:loading_tips_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/loading_tips_l_polish.yml
 minimum_perc = 0
@@ -522,6 +554,22 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = loading_tips_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:lobbies_03_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/lobbies_03_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/lobbies_03_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = lobbies_03_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:lobbies_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/lobbies_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/lobbies_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = lobbies_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_editor_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map_editor_l_polish.yml
 minimum_perc = 0
@@ -529,14 +577,6 @@ source_file = pliki/en/game/localization/polish/map_editor_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = map_editor_l_polish
-
-[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_list_panel_in_one_point_six_l_polish]
-file_filter = pliki/<lang>/game/localization/polish/map_list_panel_in_one_point_six_l_polish.yml
-minimum_perc = 0
-source_file = pliki/en/game/localization/polish/map_list_panel_in_one_point_six_l_polish.yml
-source_lang = en
-type = YAML_GENERIC
-resource_name = map_list_panel_in_one_point_six_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:map_modes_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/map_modes_l_polish.yml
@@ -650,6 +690,14 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = pop_types_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:power_blocs_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/power_blocs_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/power_blocs_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = power_blocs_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:production_methods_2_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/production_methods_2_l_polish.yml
 minimum_perc = 0
@@ -690,6 +738,30 @@ source_lang = en
 type = YAML_GENERIC
 resource_name = shared_event_text_l_polish
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:sphere_of_influence_1_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/sphere_of_influence_1_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/sphere_of_influence_1_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = sphere_of_influence_1_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:sphere_of_influence_2_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/sphere_of_influence_2_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/sphere_of_influence_2_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = sphere_of_influence_2_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:sphere_of_influence_4_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/sphere_of_influence_4_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/sphere_of_influence_4_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = sphere_of_influence_4_l_polish
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:state_atheism_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/state_atheism_l_polish.yml
 minimum_perc = 0
@@ -697,6 +769,14 @@ source_file = pliki/en/game/localization/polish/state_atheism_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = state_atheism_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:statues_l_polish]
+file_filter = pliki/<lang>/game/localization/polish/statues_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/polish/statues_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = statues_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:test_modifiers_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/test_modifiers_l_polish.yml
@@ -1058,6 +1138,14 @@ source_file = pliki/en/jomini/localization/modifiers/modifiers_l_polish.yml
 source_lang = en
 type = YAML_GENERIC
 resource_name = modifiers_l_polish
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_v2_l_polish]
+file_filter = pliki/<lang>/jomini/localization/modifiers/modifiers_v2_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/modifiers/modifiers_v2_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = modifiers_v2_l_polish
 
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:pops_gui_l_polish]
 file_filter = pliki/<lang>/jomini/localization/pops/pops_gui_l_polish.yml

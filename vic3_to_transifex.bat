@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 rd /s /q translations_temp
 md translations_temp
-set /p source="Podaj sciezke do folderu localisation z V3 (ścieżka z \ na końcu): "
+set /p source="Podaj sciezke do folderu localisation z V3 (sciezka z \ na koncu): "
 echo Konwertowanie plikow...
 
 

@@ -11,4 +11,4 @@
  ACHIEVEMENT_GROUP_TOOLTIP: "Zdobyto #V [Group.CalcNumberOfUnlockedVisibleAchievements]#! z #V [Group.GetNumberOfVisibleAchievements]#! osiągnięć z następującej grupy: [Group.GetName]"
  ACHIEVEMENT_FILTER_ALL: "Pokaż wszystkie osiągnięcia"
  ACHIEVEMENT_UNAVAILABLE_TT: "Nie udało się wczytać osiągnięć. Sprawdź połączenie z Internetem."
- ACHIEVEMENT_UNAVAILABLE_PLAZA_TT: "Nie udało się wczytać osiągnięć. Zaloguj się na konto Paradox Plaza."
+ ACHIEVEMENT_UNAVAILABLE_PLAZA_TT: "Nie udało się wczytać osiągnięć. Zaloguj się na konto Paradox"

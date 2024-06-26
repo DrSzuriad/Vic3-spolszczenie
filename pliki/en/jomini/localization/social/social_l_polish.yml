@@ -38,3 +38,7 @@
  JOMINI_SOCIAL_CONNECT_FAIL_DESC: "Nie udało się połączyć z usługą Paradox Social. Połączenie z tą usługą jest wymagane do korzystania z funkcji sieciowych."
  JOMINI_SOCIAL_CONNECT_FAIL_RETRY: "Ponów"
  JOMINI_SOCIAL_CONNECT_FAIL_CANCEL: "Anuluj"
+ JOMINI_SOCIAL_CONNECT_FAIL_NOT_SET: "Nie znaleziono profilu społecznościowego"
+ JOMINI_SOCIAL_CONNECT_FAIL_NOT_SET_DESC: "Twoje konto nie ma profilu społecznościowego Paradox, który jest wymagany do korzystania z funkcji sieciowych. Utwórz profil i spróbuj ponownie."
+ JOMINI_SOCIAL_CONNECT_FAIL_NOT_SET_RETRY: "Ponów"
+ JOMINI_SOCIAL_CONNECT_FAIL_NOT_SET_CANCEL: "Anuluj"
