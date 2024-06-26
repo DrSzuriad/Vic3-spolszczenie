@@ -1,5 +1,6 @@
 ﻿l_polish:
- 
+ #This used to be the nihilism file but is now just the Victoria file.
+ #Nihilism
  je_nihilist_movement: "Ruch nihilistów"
  je_nihilist_movement_goal: "Jeden z poniższych warunków:\n[SCOPE.GetRootScope.GetCountry.GetName] – to państwo ustanowiło jedno z praw ([GetLawType('law_censorship').GetName|l] lub [GetLawType('law_outlawed_dissent').GetName|l]) oraz piętnowało wszystkie nihilistyczne grupy interesu przez ponad 5 lat\n[SCOPE.GetRootScope.GetCountry.GetName] – to państwo utrzymywało #bold pozytywne#! poparcie dla grupy interesu o nazwie [GetInterestGroupVariant('ig_intelligentsia',GetPlayer).GetName|l] lub marginalizowało ją przez ponad 5 lat"
  je_nihilist_movement_trigger_tt_1: "[SCOPE.GetRootScope.GetCountry.GetName] – to państwo ustanowiło prawo o nazwie [GetLawType('law_censorship').GetName|l] lub [GetLawType('law_outlawed_dissent').GetName|l], a wszystkie nihilistyczne grupy interesu są piętnowane przez ponad 5 lat."
@@ -40,25 +41,25 @@
  modifier_defeated_in_forum: "Porażka na forum"
  modifier_triumphant_in_forum: "Triumf na forum"
  modifier_dashing_character: "Wyidealizowany nihilizm"
- 
+ #nihilism.1 and all attached things are in content_1.
  nihilism.2.t: "Koniec z nicością"
  nihilism.2.d: "Rygorystyczne piętnowanie ruchu nihilistycznego w końcu przyniosło skutek: słowo „nihilizm” znów stało się zwykłą nieprzyzwoitością."
- nihilism.2.f: "– Waszym najgorszym grzechem jest to, że zniszczyliście i zdradziliście siebie samych za nic." 
+ nihilism.2.f: "– Waszym najgorszym grzechem jest to, że zniszczyliście i zdradziliście siebie samych za nic." #-Dostoevsky
  nihilism.2.a: "Sprawiali więcej kłopotów, niż można się było po nich spodziewać."
  nihilism.2.b: "Wykorzystajmy to do umocnienia naszej kontroli nad środowiskiem akademickim."
  nihilism.3.t: "W zapomnienie"
  nihilism.3.d: "Konflikt wewnątrz ruchu nihilistycznego wreszcie zgasł, lecz duch radykalizmu nie zniknął. Dawni nihiliści zaczęli masowo dołączać do innych radykalnych ruchów."
- nihilism.3.f: "– Myślisz, że ja ich atakuję, bo wygadują bzdury? W żadnym wypadku! Lubię, gdy bredzą. To właśnie przywilej, który podkreśla wyższość człowieka nad wszelkim innym stworzeniem. Popełniając błędy, można dojść do prawdy! Popełniam błędy, więc jestem człowiekiem! Nie da się poznać prawdy, nie popełniwszy wcześniej czternastu, a może nawet stu czternastu błędów. I nie ma w tym nic złego. Ale my nie możemy nawet popełniać tych błędów na własny rachunek! Jak chcesz gadać bzdury, to niech to będą twoje własne bzdury – wówczas cię ucałuję. Lepiej jest mylić się przez własne przekonania, niż mieć rację, wyznając cudze wartości." 
+ nihilism.3.f: "– Myślisz, że ja ich atakuję, bo wygadują bzdury? W żadnym wypadku! Lubię, gdy bredzą. To właśnie przywilej, który podkreśla wyższość człowieka nad wszelkim innym stworzeniem. Popełniając błędy, można dojść do prawdy! Popełniam błędy, więc jestem człowiekiem! Nie da się poznać prawdy, nie popełniwszy wcześniej czternastu, a może nawet stu czternastu błędów. I nie ma w tym nic złego. Ale my nie możemy nawet popełniać tych błędów na własny rachunek! Jak chcesz gadać bzdury, to niech to będą twoje własne bzdury – wówczas cię ucałuję. Lepiej jest mylić się przez własne przekonania, niż mieć rację, wyznając cudze wartości." #- Also Dostoevsky
  nihilism.3.a: "To tylko przedsmak szykującego się konfliktu."
  nihilism.3.b: "Niech odejdą w zapomnienie."
  nihilism.4.t: "Potępienie dzieci"
  nihilism.4.d: "[ROOT.GetCountry.GetName] – pewna ciesząca się popularnością osoba z grupy interesu o nazwie [SCOPE.gsInterestGroup('intelligentsia_ig').GetName|l] wydała powieść potępiającą nihilistyczne zapędy młodzieży. Główny bohater dzieła, który głośno wyraża nihilistyczne poglądy, kogoś przypomina. Tym kimś jest [SCOPE.sCharacter('nihilist_scope').GetFullName]."
- nihilism.4.f: "– Prawda jest taka, że wcześniej byli zwykłymi błaznami, a teraz nagle stali się nihilistami." 
+ nihilism.4.f: "– Prawda jest taka, że wcześniej byli zwykłymi błaznami, a teraz nagle stali się nihilistami." #-Also Turgenev
  nihilism.4.a: "Przynajmniej ktoś z nich ma trochę oleju w głowie."
  nihilism.4.b: "Ale czyż ten główny bohater nie jest dziarski?"
  nihilism.5.t: "Czarne płaszcze i Feuerbach"
  nihilism.5.d: "[SCOPE.sBuilding('university_nihilist_affected_building').GetName] w regionie administracyjnym o nazwie [SCOPE.sState('university_nihilist_affected_state').GetStateRegion.GetName] – coraz więcej studentów tej uczelni zwraca się ku estetyce i postawie nihilistycznej. Z różnych stron płyną obawy dotyczące obecności radykałów w środowisku akademickim."
- nihilism.5.f: "– Malutka przestrzeń, którą zajmuję, jest nieskończenie mała w porównaniu z resztą przestrzeni, w której mnie nie ma i która nie ma ze mną nic wspólnego. Zaś czas przeznaczony na mój żywot jest niczym, jeśli porówna się go z wiecznością, w której nie żyłem i żyć nie będę… A w tym atomie, w tym matematycznym punkcie, krąży krew. Mózg pracuje i czegoś łaknie… Czyż to nie odrażające? Czyż to nie błahe?" 
+ nihilism.5.f: "– Niewielka przestrzeń, którą zajmuję, jest nieskończenie mała w porównaniu z resztą przestrzeni, w której mnie nie ma i która nie ma ze mną nic wspólnego; zaś czas przeznaczony na mój żywot jest niczym, jeśli porówna się go z wiecznością, w której nie żyłem i żyć nie będę… A w tym atomie, w tym matematycznym punkcie, krąży krew. Mózg pracuje i czegoś łaknie… Czyż to nie odrażające? Czyż to nie błahe?" #Turgenev, Fathers and Sons
  nihilism.5.a: "Jedyna wiedza, na jaką zasługują ci ludzie, to ta przekazywana pięścią!"
  nihilism.5.b: "Tą sprawą powinny się zająć władze uniwersytetu."
  nihilism.6.t: "Brak szacunku"
@@ -83,7 +84,7 @@
  nihilism.9.b: "Na czas odbudowy budynku sale lekcyjne zostaną zasłonięte."
  nihilism.10.t: "Klin w środowisku akademickim"
  nihilism.10.d: "Wśród członków środowiska akademickiego rośnie niezadowolenie. Na pierwszym planie znalazła się dumna osoba stojąca od niedawna na czele grupy interesu znanej jako [SCOPE.gsInterestGroup('intelligentsia_ig').GetName|l]. Wyznaje ona następującą ideologię: [SCOPE.gsInterestGroup('intelligentsia_ig').GetLeader.GetIdeology.GetName|l]."
- nihilism.10.f: "– Życie człowieka ograniczonego jest zawsze bardziej bezproblemowe i znacznie przyjemniejsze niż życie geniusza czy nawet osoby inteligentnej. Ludzie mądrzy nie tolerują tych zjawisk, do których masy bez trudu przywykły. Ludzie inteligentni, w zależności od ich temperamentu i stopnia rozwoju, mają wobec tych zjawisk najbardziej heterogeniczny stosunek." 
+ nihilism.10.f: "– Życie człowieka ograniczonego jest zawsze bardziej bezproblemowe i znacznie przyjemniejsze niż życie geniusza czy nawet osoby inteligentnej. Ludzie mądrzy nie tolerują tych zjawisk, do których masy bez trudu przywykły. Ludzie inteligentni, w zależności od ich temperamentu i stopnia rozwoju, mają wobec tych zjawisk najbardziej heterogeniczny stosunek." #- Dmitry Pisarev
  nihilism.10.a: "[SCOPE.sCharacter('nihilist_leader').GetFullName] musi być pod ścisłą obserwacją."
  nihilism.10.b: "Być może [SCOPE.sCharacter('nihilist_leader').GetSheHe] jest po prostu produktem naszych działań."
  nihilism.11.t: "Kłótnia na forum"
@@ -99,10 +100,10 @@
  nihilism.12.b: "[SCOPE.gsInterestGroup('communist_ig').GetName] to grupa, która na pewno nie zjednoczyłaby się w tak absurdalnym celu."
  nihilism.13.t: "Spirala wznosząca"
  nihilism.13.d: "Coraz to popularniejsi sympatycy nihilizmu zasiadający w rządzie wymyślili podstęp, w ramach którego zniosą i siłą zlikwidują całą własność grupy interesu znanej jako [SCOPE.gsInterestGroup('devout_ig').GetName|l], by natychmiast wprowadzić nowe prawo ([SCOPE.sLaw('current_law_scope').GetName|l])."
- nihilism.13.f: "– Jeśli coś można zmiażdżyć, trzeba to zrobić. Temu, co wytrzyma cios, pisane było przetrwanie. To zaś, co rozpadnie się na kawałki, jest bezwartościowe. Trzeba więc atakować na prawo i lewo, bo i tak nie będzie z tego żadnej krzywdy." 
+ nihilism.13.f: "– Jeśli coś można zmiażdżyć, trzeba to zrobić. Temu, co wytrzyma cios, pisane było przetrwanie. To zaś, co rozpadnie się na kawałki, jest bezwartościowe. Trzeba więc atakować na prawo i lewo, bo i tak nie będzie z tego żadnej krzywdy." #-Pisarev
  nihilism.13.a: "[SCOPE.gsInterestGroup('devout_ig').GetName] to grupa, której pisana jest zagłada, bo stoi ona w sprzeczności z samą rzeczywistością!"
  nihilism.13.b: "Ta strategia jest skazana na porażkę!"
- 
+ #Coup
  modifier_persecuted_general: "Prześladowany generał"
  modifier_uncertain_loyalties_country: "Wątpliwa lojalność wojska"
  modifier_conflicted_about_coup: "Spór lojalnościowy"
@@ -152,7 +153,7 @@
  coup_advance_50_tt: "Postęp #bold zamachu stanu#! #bold zwiększy się#! o #bold 50%#!"
  coup_retreat_50_tt: "Postęp #bold zamachu stanu#! #bold zmniejszy się#! o #bold 50%#!"
  coup_sponsor_tt: "Po udanym #bold zamachu stanu#! zostanie utworzone #bold zobowiązanie#! wobec następującego państwa: [SCOPE.sCountry('coup_sponsor_country').GetName]."
- 
+ #Coup Pulse Events
  coup_pulse_events.1.t: "Generał oskarżony o spisek"
  coup_pulse_events.1.d: "[SCOPE.sCharacter('accused_general').GetFullName], generał powiązany z grupą interesu o nazwie [SCOPE.gsInterestGroup('accused_general_ig').GetName|l], został oskarżony o poważną nielojalność. Twierdzi jednak, że to sprawka wywrotowców, którzy chcą w ten usunąć przeszkodę na swojej drodze do władzy."
  coup_pulse_events.1.f: "– Zapewniam was, panowie, że nic mi nie wiadomo o żadnych działaniach opisanych w listach, które rzekomo napisałem. Jeżeli musicie przejrzeć moje rzeczy osobiste, aby mnie uniewinnić, to nie mam nic przeciwko temu."
@@ -166,7 +167,7 @@
  coup_pulse_events.2.b: "Wcale nie potrzebujemy ich miłości. Wystarczy, że będą wobec nas ulegli."
  coup_pulse_events.3.t: "Krytyczne poparcie"
  coup_pulse_events.3.d: "Pewne grono reprezentujące siły opozycyjne w grupie interesu o nazwie [SCOPE.gsInterestGroup('critical_support_ig').GetName|l] zaproponowało rządowi współpracę przeciwko „siłom, za sprawą których rząd państwa o nazwie [ROOT.GetCountry.GetName] mógłby zostać obalony”."
- coup_pulse_events.3.f: "– W rzeczy samej, musimy trzymać się razem, bo inaczej z całą pewnością każdy z nas zawiśnie osobno." 
+ coup_pulse_events.3.f: "– W rzeczy samej, musimy trzymać się razem, bo inaczej z całą pewnością każdy z nas zawiśnie osobno." #- Benjamin Franklin
  coup_pulse_events.3.a: "Przyjmijmy ich życzliwość… na jakiś czas."
  coup_pulse_events.3.b: "Nie pomożemy im w spisku przeciwko nam samym."
  coup_pulse_events.4.t: "Strach wśród inwestorów"
@@ -211,12 +212,12 @@
  coup_pulse_events.11.b: "Bezpieczeństwo regionu administracyjnego o nazwie [SCOPE.sState('military_exercises_state').GetName] jest najważniejsze, nawet jeśli ta sytuacja jest niecodzienna."
  coup_pulse_events.12.t: "Działacze państwowi zaproszeni do udziału w nabożeństwie"
  coup_pulse_events.12.d: "Liczni wybitni działacze państwowi zostali zaproszeni na nabożeństwo zorganizowane przez grupę interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l]. Owo zaproszenie przyszło nagle i pokrzyżowało plany niektórych z działaczy."
- coup_pulse_events.12.f: "– A zatem każdy nowy przypadek udanego oddzielenia spraw kościelnych od państwowych jest ważny. Nie mam wątpliwości, iż każdy taki nowy przypadek, tak jak i wszystkie poprzednie, udowodni nam, że religia i rząd mogą współistnieć w największej czystości, o ile jak najrzadziej się je miesza." 
+ coup_pulse_events.12.f: "– A zatem każdy nowy przypadek udanego oddzielenia spraw kościelnych od państwowych jest ważny. Nie mam wątpliwości, iż każdy taki nowy przypadek, tak jak i wszystkie poprzednie, udowodni nam, że religia i rząd mogą współistnieć w największej czystości, o ile jak najrzadziej się je miesza." #- James Madison
  coup_pulse_events.12.a: "Będziemy się trzymać naszych planów."
  coup_pulse_events.12.b: "Na modlitwę zawsze znajdzie się czas."
  coup_pulse_events.13.t: "Armie prywatne"
  coup_pulse_events.13.d: "Niektórzy członkowie grupy interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l] złożyli wnioski o pozwolenie na powiększenie swojej uzbrojonej służby bezpieczeństwa. Argumentują to wzmożoną aktywnością przestępczą i ryzykiem wybuchu zamieszek wśród robotników."
- coup_pulse_events.13.f: "– Żal mi człowieka, który pragnie płaszcza tak taniego, że produkujący go mężczyźni lub kobiety umrą z głodu, zanim utkają potrzebną tkaninę." 
+ coup_pulse_events.13.f: "– Żal mi człowieka, który pragnie płaszcza tak taniego, że produkujący go mężczyźni lub kobiety umrą z głodu, zanim utkają potrzebną tkaninę." #- Benjamin Harrison
  coup_pulse_events.13.a: "Państwo musi mieć monopol na przemoc."
  coup_pulse_events.13.b: "Przedsiębiorstwa są zarówno tarczą, jak i mieczem państwa o nazwie [ROOT.GetCountry.GetName]."
  coup_pulse_events.14.t: "Wywieranie nacisku"
@@ -226,18 +227,18 @@
  coup_pulse_events.14.b: "Zdążyli udowodnić, że są niezastąpieni."
  coup_pulse_events.15.t: "Sprawa, którą warto poprzeć?"
  coup_pulse_events.15.d: "Zauważono, że wielu policjantów, nawet podczas służby, popiera polityczne dążenia przedstawicieli grupy interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l]. Miejscowi komisarze policji posunęli się o krok dalej – nawołują do przywrócenia porządku w państwie, nawet gdyby miało się to wiązać z użyciem siły."
- coup_pulse_events.15.f: "– Występek może przez pewien czas tryumfować, podobnie jak zbrodnia może chełpić się swoimi zwycięstwami na oczach uczciwych robotników. Jednak ostatecznie prawo dosięgnie wszystkich złoczyńców, a hańba i kara spadnie na tych, którzy zgrzeszyli." 
+ coup_pulse_events.15.f: "– Występek może przez pewien czas tryumfować, podobnie jak zbrodnia może chełpić się swoimi zwycięstwami na oczach uczciwych robotników. Jednak ostatecznie prawo dosięgnie wszystkich złoczyńców, a hańba i kara spadnie na tych, którzy zgrzeszyli." #- Allan Pinkerton
  coup_pulse_events.15.a: "Ich zadaniem jest egzekwowanie prawa, a nie jego ustanawianie."
  coup_pulse_events.15.b: "Kimże jesteśmy, skoro nawet nasza własna policja nam nie ufa?"
  state_radicals_increase_coup_tt: "W [Concept('concept_pop', 'zbiorowościach')] w obszarach administracyjnych, w których grupa interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l] stanowi ponad 20% siły politycznej, pojawi się więcej [Concept('concept_radical', 'radykałów')]"
  coup_pulse_events.16.t: "Nowy Prometeusz"
  coup_pulse_events.16.d: "[SCOPE.sCharacter('enlightened_despot_scope').GetFullName] – ta wpływowa osoba z grupy interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l] wydała manifest polityczny, w którym przepowiada rychły upadek społeczeństwa. Zapobiec katastrofie może jedynie ustanowienie oświeconego ustroju."
- coup_pulse_events.16.f: "– Celem naszej instytucji jest zdobywanie wiedzy na temat przyczyn i tajemnych mechanizmów, a także – w miarę możliwości – poszerzanie granic panowania ludzkości nad tymi zagadnieniami." 
+ coup_pulse_events.16.f: "– Celem naszej instytucji jest zdobywanie wiedzy na temat przyczyn i tajemnych mechanizmów, a także – w miarę możliwości – poszerzanie granic panowania ludzkości nad tymi zagadnieniami." #- Francis Bacon
  coup_pulse_events.16.a: "[SCOPE.sCharacter('enlightened_despot_scope').GetFullName], wbrew temu, co uważa, nie jest królem-filozofem."
  coup_pulse_events.16.b: "To nasi najbardziej kompetentni obywatele powinni prowadzić nas przez trudne czasy."
  coup_pulse_events.17.t: "Armia robotników"
  coup_pulse_events.17.d: "[SCOPE.gsInterestGroup('coup_ig').GetName] – przedstawiciele tej grupy interesu ogłosili, że zamierzają zorganizować strajk generalny, jeśli nie zostaną spełnione ich żądania. Do postulatów zalicza się, między innymi, stłamszenie ich przeciwników politycznych."
- coup_pulse_events.17.f: "– Jedno jest jednak pewne: natura nie stworzyła takiego porządku, w którym po jednej stronie znajdują się właściciele pieniędzy i dóbr, a po drugiej ludzie, którzy nie mają niczego poza własnymi rękami gotowymi do pracy." 
+ coup_pulse_events.17.f: "– Jedno jest jednak pewne: natura nie stworzyła takiego porządku, w którym po jednej stronie znajdują się właściciele pieniędzy i dóbr, a po drugiej ludzie, którzy nie mają niczego poza własnymi rękami gotowymi do pracy." #- Karl Marx
  coup_pulse_events.17.a: "Maszyny można zbudować na nowo, jednak zmarłych nie da się przywrócić do życia."
  coup_pulse_events.17.b: "Należy pójść na ustępstwa, aby uniknąć katastrofy."
  coup_pulse_events.18.t: "Sierpy i pochodnie"
@@ -245,7 +246,7 @@
  coup_pulse_events.18.f: "– Patrzcie na nich! Te tłuste świnie ze stolicy rozkazują nam na lewo i prawo, jakbyśmy byli jakimiś niewolnikami!\n\nZaniedbany mężczyzna zwrócił wzrok pełen nieskrywanej pogardy ku mijającemu go powozowi.\n\n– Mówią, że jeśli coś nam się nie podoba, możemy zagłosować na kogoś innego, ale co za różnica, kto piastuje urząd, jeśli wszyscy z nich chcą nas zagłodzić?"
  coup_pulse_events.18.a: "Władza motłochu nie jest alternatywą dla właściwie funkcjonującego społeczeństwa."
  coup_pulse_events.18.b: "Ci, którzy nas karmią, mogą robić na naszych ulicach, co chcą."
- 
+ #Coup Aftermath Events
  coup_aftermath_events.1.t: "Dziedzictwo demokracji"
  coup_aftermath_events.1.d: "[SCOPE.sState('legacy_of_democracy_state').GetStateRegion.GetName] – w tym regionie administracyjnym wybuchł gwałtowny protest rzekomo zorganizowany przez przedstawicieli grupy interesu o nazwie [SCOPE.gsInterestGroup('legacy_of_democracy_ig').GetName|l]. Protestujący domagają się przywrócenia demokracji w państwie o nazwie [ROOT.GetCountry.GetName] oraz zakończenia absolutnych rządów następującej osoby: [SCOPE.sCharacter('coup_leader').GetFullName]."
  coup_aftermath_events.1.f: "Gdy dostrzegła, że plac powoli wypełnia się ludźmi o jasnych spojrzeniach, w których mieszkała bodaj cała nadzieja i wściekłość tego świata, nie mogła powstrzymać uczucia niepokoju.\n\nJak wielu z nich pozostanie jeszcze przy życiu i na wolności, nim trwający tydzień dobiegnie końca?"
@@ -266,7 +267,7 @@
  coup_aftermath_events.4.f: "– Wolności nie da się utrzymać bez zapewnienia ogólnej wiedzy obywatelom, którzy mają prawo… i chęci do zdobywania tej wiedzy. Oprócz tego mają też prawo, niepodważalne, niezbywalne i nienaruszalne boskie prawo, do najbardziej pożądanej i budzącej największą grozę wiedzy – wiedzy na temat tego, kim są i co czynią ich władcy."
  coup_aftermath_events.4.a: "[SCOPE.sBuilding('university_state_building').GetName] – trzeba zamknąć tę placówkę w regionie administracyjnym o nazwie [SCOPE.sState('university_state').GetStateRegion.GetName] do czasu, aż sprawcy przyznają się do winy."
  coup_aftermath_events.4.b: "Trzeba skonfiskować wszystkie znalezione broszury."
- 
+ #Agitators Law Events
  modifier_appearance_of_cooperation: "Argumenty dla partnerów z koalicji"
  modifier_strongarmed_us: "Przymus współpracy"
  modifier_coalition_loyalty: "Koalicja ważniejsza od polityki"
@@ -419,7 +420,7 @@
  agitators_law_events.12.b: "Wsparcie i lojalność przejawiane przez przedstawicieli grupy interesu o nazwie [SCOPE.gsInterestGroup('poet_ig').GetName|l] zasługują na nagrodę."
  agitators_law_events.13.t: "Agitacja wśród prostego ludu"
  agitators_law_events.13.d: "[SCOPE.sCharacter('supporting_agitator').GetFullName] wyrusza na tygodniową wyprawę na wieś, aby opowiedzieć przedstawicielom grupy interesu o nazwie [SCOPE.gsInterestGroup('peasants_ig').GetName|l] o tym, jak istotne jest prawo o nazwie [SCOPE.sLaw('current_law_scope').GetName|l]."
- agitators_law_events.13.f: "– Jakież to szczęście, że moje serce potrafi odczuwać te same proste i niewinne przyjemności co serce chłopa, którego stół ugina się od pokarmów będących efektem jego własnej pracy. Potrafi on docenić spożywany posiłek, ale wspomina też z uśmiechem na twarzy szczęśliwe dni i słoneczne poranki, podczas których sadził uprawy, spokojne wieczory, podczas których je podlewał, a także radość, jaką czerpał z codziennego doglądania procesu ich wzrostu." 
+ agitators_law_events.13.f: "– Jakież to szczęście, że moje serce potrafi odczuwać te same proste i niewinne przyjemności co serce chłopa, którego stół ugina się od pokarmów będących efektem jego własnej pracy. Potrafi on docenić spożywany posiłek, ale wspomina też z uśmiechem na twarzy szczęśliwe dni i słoneczne poranki, podczas których sadził uprawy, spokojne wieczory, podczas których je podlewał, a także radość, jaką czerpał z codziennego doglądania procesu ich wzrostu." #- Johann Wolfgang von Goethe
  agitators_law_events.13.a: "Szlachetna wyprawa, która, przy odrobinie szczęścia, zapewni tej osobie popularność."
  agitators_law_events.13.b: "Gdy [SCOPE.sCharacter('supporting_agitator').GetFullName] wyciąga rękę do ludu, lud wyciąga rękę do [SCOPE.sCharacter('supporting_agitator').GetCustom('PL_niego_niej')]."
  agitators_law_events.13.c: "Po co przejmować się obcą osobą, która ma do zaoferowania jedynie puste słowa?"
@@ -431,7 +432,7 @@
  agitators_law_events.14.b: "Scenę polityczną zasilą pokaźne sumy pieniędzy, tak?"
  agitators_law_events.15.t: "Poparcie mediów"
  agitators_law_events.15.d: "W gazecie „[SCOPE.sState('newspaper_scope').GetStateRegion.GetCityHubName] Codziennie”, którą chętnie czytają przedstawiciele grupy interesu o nazwie [SCOPE.gsInterestGroup('newspaper_ig').GetName|l] w państwie o nazwie [ROOT.GetCountry.GetName], opublikowano artykuł, w którym [SCOPE.sCharacter('supporting_agitator').GetFullName] nawołuje do ustanowienia prawa o nazwie [SCOPE.sLaw('current_law_scope').GetName|l]."
- agitators_law_events.15.f: "Wydawanie gazety bez korzystania z zasięgów, jakie oferuje, jest równie bezcelowe jak puszczanie oka do dziewczyny w ciemnym pomieszczeniu." 
+ agitators_law_events.15.f: "Wydawanie gazety bez korzystania z zasięgów, jakie oferuje, jest równie bezcelowe jak puszczanie oka do dziewczyny w ciemnym pomieszczeniu." #- William Randolph Hearst
  agitators_law_events.15.a: "Kim jesteśmy, by walczyć z głosem ludu?"
  agitators_law_events.15.b: "Przekażmy wydawcy nasze podziękowania."
  agitators_law_events.16.t: "Opozycja w prasie"
@@ -441,12 +442,12 @@
  agitators_law_events.16.b: "Zachęćmy naszych zwolenników do publikowania kontrartykułów."
  agitators_law_events.17.t: "Pozory powszechności"
  agitators_law_events.17.d: "Dzięki donosowi byłego wydawcy gazety rząd dowiedział się, że wszystkie niedawno opublikowane artykuły wymierzone przeciwko prawu o nazwie [SCOPE.sLaw('current_law_scope').GetName|l] napisała tak naprawdę jedna osoba – [SCOPE.sCharacter('opposing_agitator').GetFullName] – która korzystała po prostu z różnych pseudonimów i stylów pisania."
- agitators_law_events.17.f: "– Uważamy, że żadna osoba lub grupa osób nie może właściwie ustanowić norm wyrażania własnych opinii przez innych." 
+ agitators_law_events.17.f: "– Uważamy, że żadna osoba lub grupa osób nie może właściwie ustanowić norm wyrażania własnych opinii przez innych." #- William Randolph Hearst
  agitators_law_events.17.a: "Wygląda na to, że opozycja jest jednocześnie bardziej i mniej jednolita, niż mogło się wydawać."
  agitators_law_events.17.b: "Opinia publiczna z przyjemnością dowiedziałaby się o szczegółach tej sprawy."
  agitators_law_events.18.t: "Przerzedzanie opozycji"
  agitators_law_events.18.d: "Przeciwnicy rządu nie potrafią utworzyć jednolitego frontu, czego doskonałym przykładem jest fakt, że w broszurze, którą wydaje [SCOPE.sCharacter('opposing_agitator').GetFullName], opublikowano nazwiska rywali tej osoby, którzy są jednocześnie opozycjonistami. Ujawnienie ich tożsamości jest niemal równoznaczne z nasłaniem na nich policji."
- agitators_law_events.18.f: "– Bez silnej organizacji biegłej w radzeniu sobie z politycznymi przeciwnościami bez względu na okoliczności nie może być mowy o żadnej taktyce rozumianej jako systematyczny plan działania, za którym stoją jasno określone zasady i który wykonywany jest bez wahania." 
+ agitators_law_events.18.f: "– Bez silnej organizacji biegłej w radzeniu sobie z politycznymi przeciwnościami bez względu na okoliczności nie może być mowy o żadnej taktyce rozumianej jako systematyczny plan działania, za którym stoją jasno określone zasady i który wykonywany jest bez wahania." #- Vladimir Lenin, quoting an Iskra article.
  agitators_law_events.18.a: "Doskonale się złożyło."
  agitators_law_events.18.b: "Nie będziemy brać udziału w [SCOPE.sCharacter('supporting_agitator').GetCustom('PL_jego_jej')] dziecinnych gierkach."
  agitators_law_events.19.t: "Sprawy rodzinne"
@@ -463,7 +464,7 @@
  agitators_law_events.20.b: "Kimże jesteśmy, żeby sprzeciwiać się wydaniu tak wspaniałego dzieła?"
  agitators_law_events.21.t: "Dziedzictwo oświecenia"
  agitators_law_events.21.d: "[SCOPE.sCharacter('supporting_agitator').GetFullName] wydaje wyjątkowo przekonującą publikację popierającą prawo o nazwie [SCOPE.sLaw('current_law_scope').GetName|l], która jednocześnie promuje ideały egalitarystyczne i zawiera cytaty z literatury antyrojalistycznej."
- agitators_law_events.21.f: "– Jeśli chcemy, by republika była trwała, musimy najpierw zbudować jej fundamenty. Nie ma potrzeby szukać ich poza granicami naszego państwa – wystarczy, że zajrzymy w serca wszystkich przedstawicieli naszego narodu." 
+ agitators_law_events.21.f: "– Jeśli chcemy, by republika była trwała, musimy najpierw zbudować jej fundamenty. Nie ma potrzeby szukać ich poza granicami naszego państwa – wystarczy, że zajrzymy w serca wszystkich przedstawicieli naszego narodu." #- Sun Yat-Sen
  agitators_law_events.21.a: "Wspaniałe dzieło!"
  agitators_law_events.21.b: "Żadne słowa nie są w stanie obalić boskiego porządku."
  agitators_law_events.22.t: "Obraza majestatu"
@@ -501,7 +502,7 @@
  agitators_law_events.27.b: "Opinia ogółu nie ma tu znaczenia."
  agitators_law_events.28.t: "Romans w urzędzie cenzury"
  agitators_law_events.28.d: "[SCOPE.sCharacter('supporting_agitator').GetFullName] – tej osobie udało się zwieść cenzorów i w wyjątkowo nudnej powieści romantycznej przemycić starannie ukryte antyrządowe treści. W utworze można doszukać się ustępów popierających wolność słowa i odrzucających to, co na kartach powieści opisywane jest jako „despotyzm”."
- agitators_law_events.28.f: "– Czy tak nie jest zawsze? Jeśli ktoś chce się czegoś doszukać, znajdzie to, gdziekolwiek by nie spojrzał. Nawet jeśli nie ma ku temu najmniejszych podstaw, ten ktoś zawsze znajdzie niepodważalne dowody na poparcie swojej tezy. Nawet jeśli nie istnieje choćby cień tego, czego szuka, znajdzie nie tylko cień, ale i wszystko to, czego się spodziewa. Widzi to nawet w zwrotach, które są precyzyjne i jednoznaczne, bowiem dla niego, z każdym spojrzeniem i każdą myślą, znaczenie, którego się doszukuje, staje się coraz bardziej oczywiste." 
+ agitators_law_events.28.f: "– Czy tak nie jest zawsze? Jeśli ktoś chce się czegoś doszukać, znajdzie to, gdziekolwiek by nie spojrzał. Nawet jeśli nie ma ku temu najmniejszych podstaw, ten ktoś zawsze znajdzie niepodważalne dowody na poparcie swojej tezy. Nawet jeśli nie istnieje choćby cień tego, czego szuka, znajdzie nie tylko cień, ale i wszystko to, czego się spodziewa. Widzi to nawet w zwrotach, które są precyzyjne i jednoznaczne, bowiem dla niego, z każdym spojrzeniem i każdą myślą, znaczenie, którego się doszukuje, staje się coraz bardziej oczywiste." #- Nikolai Chernyshevsky, What Is To Be Done?
  agitators_law_events.28.a: "Nie będziemy na nowo weryfikować pięćsetstronicowej książki z powodu czyjegoś kaprysu!"
  agitators_law_events.28.b: "Musimy wycofać powieść ze sprzedaży i zażądać zwrotu zakupionych już egzemplarzy."
  agitators_law_events.29.t: "Bierne organy ścigania"
@@ -514,7 +515,7 @@
  agitators_law_events.30.f: "Pomimo zmęczenia wywołanego nieprzespaną nocą kierownik dostrzegł ponure wyrazy twarzy swoich pracowników natychmiast po wejściu do biura. Jeden rzut oka na nagłówek strony z gazety przypiętej do tablicy wystarczył, by poznać źródło niepokoju reszty zespołu.\n\nKWESTIA DO PRZEMYŚLENIA: ARGUMENTY ZA WOLNOŚCIĄ SŁOWA."
  agitators_law_events.30.a: "Nawet niektórzy z nas uważają, że artykuł zawiera sporo racji."
  agitators_law_events.30.b: "Jeśli to zignorujemy, będzie tylko gorzej."
- 
+ #Silkworm Diseases
  je_silkworm_diseases: "Epidemia pebryny"
  je_silkworm_diseases_goal: "[ROOT.GetCountry.GetName] – w tym państwie wprowadzono rozporządzenie o nazwie [GetDecreeType('decree_encourage_agricultural_industry').GetName|l] w co najmniej 75% obszarów administracyjnych, w których występuje #BOLD pebryna#!. Rozporządzenie będzie obowiązywało przez rok od znalezienia rozwiązania problemu.\n\nRozwiązaniem problemu epidemii może być opracowanie technologii #BOLD pasteryzacji#! lub otrzymanie informacji na jej temat od państwa, któremu udało się już ją opracować."
  je_silkworm_diseases_reason: "[ROOT.GetCountry.GetAdjective] produkcja jedwabiu mierzy się z poważnym problemem – epidemia #BOLD pebryny#! może doprowadzić nasze hodowle jedwabników do upadku. Konieczne jest działanie."
@@ -563,18 +564,18 @@
  silkworm_diseases.5.b: "Nie możemy stawiać przed naszym przemysłem jedwabniczym kolejnych wyzwań."
  silkworm_diseases.6.t: "Pomoc dla osób hodujących jedwabniki"
  silkworm_diseases.6.d: "[SCOPE.sBuilding('pebrine_building').GetName] – zbiorowość o nazwie [GetPopType('laborers').GetName|l] z tego budynku znajdującego się w regionie administracyjnym o nazwie [SCOPE.sState('pebrine_state').GetStateRegion.GetName] boleśnie odczuła straty związane ze spowodowaną pebryną śmiercią jedwabników. Przedstawiciele tej zbiorowości zwrócili się do rządu z prośbą o wsparcie finansowe, które miałoby zrekompensować utracone przez nich wynagrodzenia."
- silkworm_diseases.6.f: "– Człowiek staje się tak wielki, jak wielki wysiłek wkłada w pracę na rzecz dobra ogółu." 
+ silkworm_diseases.6.f: "– Człowiek staje się tak wielki, jak wielki wysiłek wkłada w pracę na rzecz dobra ogółu." #- Mahatma Gandhi
  silkworm_diseases.6.a: "Kimże jesteśmy, żeby odmówić im wsparcia?"
  silkworm_diseases.6.b: "Wkrótce znajdą sobie inne zatrudnienie."
  silkworm_diseases.7.t: "Źródło problemu"
  silkworm_diseases.7.d: "Dzięki badaniom poświęconym pebrynie udało nam się odkryć zarówno grzyba, który jest odpowiedzialny za tę chorobę, jak i sposób na hamowanie jego rozprzestrzeniania się. Możemy teraz wykorzystać zdobytą wiedzę do wyplewienia choroby z naszych hodowli jedwabników."
- silkworm_diseases.7.f: "– …jest ponownie tam tworzone przy pomocy zainfekowanego materiału, który został przygotowany lub dostarczony, a w dniu, w którym pozwolimy rozwinąć się w warunkach bogatej kultury materiałom pozbawionym korpuskuł, niemal wszystkie pokolenia będą odporne na pebrynę i będą mogły, nie bacząc na ryzyko wystąpienia choroby, znów się rozmnażać." 
+ silkworm_diseases.7.f: "– …jest ponownie tam tworzone przy pomocy zainfekowanego materiału, który został przygotowany lub dostarczony, a w dniu, w którym pozwolimy rozwinąć się w warunkach bogatej kultury materiałom pozbawionym korpuskuł, niemal wszystkie pokolenia będą odporne na pebrynę i będą mogły, nie bacząc na ryzyko wystąpienia choroby, znów się rozmnażać." #- Pasteur
  silkworm_diseases.7.a: "Znów okazaliśmy się światowymi pionierami rozwoju nauki."
  silkworm_diseases.7.b: "Musimy podzielić się tym lekarstwem z innymi narodami, w których panuje epidemia."
  pebrine_foreign_aid_tt: "Wszystkie państwa dotknięte #bold pebryną#! otrzymają środki, które pomogą im zwalczyć epidemię, w zamian za poprawę [Concept('concept_relations', 'stosunków')] oraz możliwość nałożenia na nie [Concept('concept_obligation', 'zobowiązań')]"
  silkworm_diseases.8.t: "[SCOPE.sCountry('cure_sponsor_scope').GetName] – to państwo dzieli się rozwiązaniem problemu pebryny"
  silkworm_diseases.8.d: "[SCOPE.sCountry('cure_sponsor_scope').GetName] – naukowcy z tego państwa opracowali skuteczną metodę identyfikowania jaj jedwabników zainfekowanych pebryną i udostępnili tę wiedzę na arenie międzynarodowej. Podążając za instrukcjami zawartymi w opublikowanych pracach naukowych, jesteśmy w stanie osiągnąć równie wspaniałe rezultaty, co mieszkańcy państwa o nazwie [SCOPE.sCountry('cure_sponsor_scope').GetName]."
- silkworm_diseases.8.f: "– Między godziną szesnastą a osiemnastą wszystkie pary umieszcza się osobno na niewielkich kawałkach tkaniny. Natychmiast po wszystkim samce – bez względu na ich mniej lub bardziej korpuskularny stan – zostają odrzucone. Gdy samice złożą jaja, każda z nich unieruchamiana jest w rogu tkaniny za pomocą szpilki, którą najlepiej jest przebić skrzydła, aby uniemożliwić jedwabnikowi przemieszczanie się." 
+ silkworm_diseases.8.f: "– Między godziną szesnastą a osiemnastą wszystkie pary umieszcza się osobno na niewielkich kawałkach tkaniny. Natychmiast po wszystkim samce – bez względu na ich mniej lub bardziej korpuskularny stan – zostają odrzucone. Gdy samice złożą jaja, każda z nich unieruchamiana jest w rogu tkaniny za pomocą szpilki, którą najlepiej jest przebić skrzydła, aby uniemożliwić jedwabnikowi przemieszczanie się." #- Pasteur
  silkworm_diseases.8.a: "Wyślijcie ich badaczom podziękowania."
  silkworm_diseases.8.b: "Nie postawimy się w sytuacji, w której będziemy ich dłużnikami."
  silkworm_diseases.9.t: "Koniec epidemii pebryny"
@@ -582,7 +583,7 @@
  silkworm_diseases.9.f: "Wreszcie komórki na powrót wypełniły się kokonami, a znajdujące się w środku larwy przechodziły, nieświadome niczego, metamorfozę, która wkrótce miała zakończyć się kąpielą we wrzątku. Pracownik przeszedł między regałami pełnymi drewnianych pojemników; po stresie malującym się na jego twarzy nie było już niemal śladu.\n\nLista zadań, rzecz jasna, została wydłużona, a wynagrodzenie wzrosło tylko nieznacznie, ale to z pewnością lepsze niż brak pracy."
  silkworm_diseases.9.a: "Wznieśmy toast za naszych badaczy!"
  silkworm_diseases.9.b: "Trzeba wznowić działanie przemysłu jedwabniczego. Nie ma czasu do stracenia!"
- 
+ #Exiles Events
  modifier_agitator_left: "Odejście przyjaciół"
  modifier_agitator_hopeless: "Śmierć nadziei"
  modifier_exile_ig_empowered: "Nowa, bystra twarz"
@@ -606,7 +607,7 @@
  ig_type_matches_former_tt: "[SCOPE.sCharacter('exile_temp').GetFullName] ma taki sam typ grupy interesu jak [SCOPE.gsInterestGroup('exile_ig_scope').GetName|l]"
  exiles_events.1.t: "Ludzie bez nadziei"
  exiles_events.1.d: "Po zderzeniu z brakiem ogólnego poparcia dla swoich idei [SCOPE.sCharacter('agitator_scope').GetFullName] stwierdza, że nasze państwo – [ROOT.GetCountry.GetName] – nie jest miejscem dla [SCOPE.sCharacter('agitator_scope').GetCustom('PL_niego_niej')], i postanawia wyjechać za granicę."
- exiles_events.1.f: "– Bardziej wnikliwa analiza przekonała mnie, że jest wprost przeciwnie. [ROOT.GetCountry.GetAdjectiveNoFormatting] klasa robotnicza nigdy niczego nie osiągnie." 
+ exiles_events.1.f: "– Bardziej wnikliwa analiza przekonała mnie, że jest wprost przeciwnie. [ROOT.GetCountry.GetAdjectiveNoFormatting] klasa robotnicza nigdy niczego nie osiągnie." #- Karl Marx
  exiles_events.1.a: "Może pewnego dnia sytuacja zmieni się na lepsze."
  exiles_events.1.b: "Nadzieja to pierwszy krok do rozczarowania."
  exiles_events.2.t: "Słynna kawiarnia"
@@ -655,7 +656,7 @@
  exiles_events.10.a: "Niech zmierzy się z konsekwencjami swoich działań."
  exiles_events.10.b: "Możemy pozwolić sobie na akt łaski wobec osoby dotkniętej chorobą."
  exiles_events.10.c: "Może tu zostać, gdy już [SCOPE.sCharacter('exile_scope').GetCustom('PL_go_ja')] wyleczymy."
- 
+ #Agitators Law Events
  modifier_pro_democracy_ig: "Zatwierdzenie praw wyborczych"
  modifier_preferred_in_party: "Protekcja partii"
  modifier_fair_dealer: "Uczciwy broker"
@@ -776,7 +777,7 @@
  agitators_election_events.10.c: "Przecież znamy tożsamość napastników. To my."
  agitators_election_events.11.t: "Głosowanie albo śmierć"
  agitators_election_events.11.d: "Szczególnie skuteczna agitacja, jaką prowadzi [SCOPE.sCharacter('agitator_scope').GetFullName] w obszarze administracyjnym [SCOPE.sState('communist_agitation_state').GetName], zrodziła pytania o rzeczywisty cel partii [SCOPE.sParty('agitator_party_scope').GetName] w tym cyklu wyborczym."
- agitators_election_events.11.f: "– Głównym zadaniem partii komunistycznej jest nakłanianie klasy robotniczej do rewolucji ukierunkowanej na zdobycie władzy. Opracowując swoją taktykę, musi ona brać pod uwagę konkretną sytuację w obrębie kraju i poza jego granicami, wzajemne zależności pomiędzy siłami poszczególnych klas, poziom stabilności i wpływy burżuazji, stopień gotowości proletariatu, pozycje zajmowane w danym kraju przez rozmaite warstwy pośrednie itd. W zależności od rzeczonych okoliczności partia ustala stosowne hasła i metody, mając na uwadze zorganizowanie i zmobilizowanie mas na możliwie największą skalę i na najwyższym możliwym poziomie zaangażowania w walkę." 
+ agitators_election_events.11.f: "– Głównym zadaniem partii komunistycznej jest nakłanianie klasy robotniczej do rewolucji ukierunkowanej na zdobycie władzy. Opracowując swoją taktykę, musi ona brać pod uwagę konkretną sytuację w obrębie kraju i poza jego granicami, wzajemne zależności pomiędzy siłami poszczególnych klas, poziom stabilności i wpływy burżuazji, stopień gotowości proletariatu, pozycje zajmowane w danym kraju przez rozmaite warstwy pośrednie itd. W zależności od rzeczonych okoliczności partia ustala stosowne hasła i metody, mając na uwadze zorganizowanie i zmobilizowanie mas na możliwie największą skalę i na najwyższym możliwym poziomie zaangażowania w walkę." #- Programme of the Communist International, 1929
  agitators_election_events.11.a: "Wybór partii [SCOPE.sParty('agitator_party_scope').GetName] to pierwszy krok w stronę rewolucji."
  agitators_election_events.11.b: "Robotnicy zdobędą wpływy, gdy partia [SCOPE.sParty('agitator_party_scope').GetName] znajdzie się w parlamencie."
  agitators_election_events.11.c: "Partia [SCOPE.sParty('agitator_party_scope').GetName] nie reprezentuje klasy robotniczej."
@@ -810,7 +811,7 @@
  agitators_election_events.16.c: "Przemocą doprowadzimy tylko do upadku demokracji!"
  agitators_election_events.17.t: "Współpraca ze stolicą"
  agitators_election_events.17.d: "Aby pozyskać dodatkowe poparcie dla partii o nazwie [SCOPE.sParty('agitator_party_scope').GetName], kilku jej wysoko postawionych członków i [SCOPE.sCharacter('agitator_scope').GetFullName] zwraca się do grupy interesu znanej jako [SCOPE.gsInterestGroup('industrialists_scope').GetName|l]. Zależy im na promowaniu polityki, która ma zapewnić współpracę między stolicą a kierowanym przez wspomnianą partię rządem."
- agitators_election_events.17.f: "– Faszyzm powinno właściwie nazywać się korporacjonizmem, łączy on bowiem władzę państwową i korporacyjną." 
+ agitators_election_events.17.f: "– Faszyzm powinno właściwie nazywać się korporacjonizmem, łączy on bowiem władzę państwową i korporacyjną." #- Benito Mussolini
  agitators_election_events.17.a: "Partia o nazwie [SCOPE.sParty('agitator_party_scope').GetName] będzie doskonałym sprzymierzeńcem."
  agitators_election_events.17.b: "[SCOPE.gsInterestGroup('industrialists_scope').GetName] – ta grupa interesu nie potrzebuje ich obietnic."
  agitators_election_events.18.t: "Zjednoczyć naród"
@@ -1032,7 +1033,7 @@
  single_party_state.1.b: "Niech grupa interesu znana jako [SCOPE.gsInterestGroup('party_switch_ig').GetName|l] będzie przykładem dla nas wszystkich."
  single_party_state.2.t: "Lud i partia"
  single_party_state.2.d: "W trakcie prac nad jednym z praw ([SCOPE.sLaw('current_law_scope').GetName|l]) wielu członków partii o nazwie [SCOPE.sParty('ruling_party').GetName] zaczyna zastanawiać się nad najlepszym sposobem na zwiększenie udziału ludności w działaniach partyjnych."
- single_party_state.2.f: "– Trzeba nam wiary w ludzi i wiary w partię. To dwie podstawowe zasady. Jeśli w nie zwątpimy, nic nie osiągniemy." 
+ single_party_state.2.f: "– Trzeba nam wiary w ludzi i wiary w partię. To dwie podstawowe zasady. Jeśli w nie zwątpimy, nic nie osiągniemy." #- Mao Zedong
  single_party_state.2.a: "Zanim będziemy mogli wzmocnić nasze szeregi, musimy opracować podstawy."
  single_party_state.2.b: "Partia musi uwzględniać cały naród."
  single_party_state.3.t: "Tłumy na ulicach"
@@ -1061,7 +1062,7 @@
  single_party_state.7.f: "Ustęp 1:\nPoza procedurą przewidzianą w konstytucji prawo do uchwalania ustaw w państwie o nazwie [ROOT.GetCountry.GetNameNoFormatting] przyznaje się również rządowi.\n\nUstęp 2:\nUstawy uchwalane przez rząd mogą odbiegać od konstytucji, o ile instytucja parlamentu pozostaje nienaruszona. [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] zachowuje swoje prawa."
  single_party_state.7.a: "[SCOPE.sParty('fascist_party_scope').GetName] to jedyna partia, dzięki której nasze państwo – [ROOT.GetCountry.GetName] – może przetrwać."
  single_party_state.7.b: "Do licha z konsekwencjami. To żadna demokracja!"
- 
+ #Historical Agitators
  modifier_lenin_in_exile: "Lenin na wygnaniu"
  modifier_lenin_harassed_by_spies: "Nękanie ze strony szpiegów policyjnych"
  modifier_lenin_popularity: "Człowiek znad Leny"
@@ -1226,10 +1227,10 @@
  historical_agitators.22.b: "Wygnajmy go z Brytanii."
  historical_agitators.22.c: "Ziemia van Diemena leży dość daleko."
  jaroslaw_in_prison_tt: "[SCOPE.sCharacter('historic_agitator_scope').GetFullName] trafi do więzienia o znacznie ostrzejszym rygorze"
- 
+ #The Paris Commune
  paris_commune.1.t: "Komuna Paryska"
  paris_commune.1.d: "Długi okres niezadowolenia z wymagań rządu względem grupy interesu o nazwie [SCOPE.gsInterestGroup('national_guard_scope').GetName|l] doprowadził w mieście [SCOPE.sState('paris_scope').GetStateRegion.GetCityHubName] do wybuchu otwartego buntu. Rewolucjoniści zabili kilku oficerów i ogłosili utworzenie własnego rządu o nazwie „[SCOPE.sCountry('paris_commune_scope').GetName]”."
- paris_commune.1.f: "– Paryscy proletariusze, w obliczu porażek i zdrad przedstawicieli klasy rządzącej, zrozumieli, że nadszedł czas wziąć sprawy publiczne w swoje ręce. Pojęli, że mają obowiązek i jednocześnie absolutne prawo ogłosić się kowalami swoich losów, przejmując władzę rządową." 
+ paris_commune.1.f: "– Paryscy proletariusze, w obliczu porażek i zdrad przedstawicieli klasy rządzącej, zrozumieli, że nadszedł czas wziąć sprawy publiczne w swoje ręce. Pojęli, że mają obowiązek i jednocześnie absolutne prawo ogłosić się kowalami swoich losów, przejmując władzę rządową." #- Karl Marx
  paris_commune.1.a: "Trzeba położyć kres temu szaleństwu!"
  paris_commune.1.b: "Uzbrojony Paryż to uzbrojona rewolucja!"
  commune_progress_start_at_40: "Staniemy po stronie rządu, na którego czele stoi [SCOPE.sCharacter('ruler_scope').GetLastName]\n#bold Komuna Paryska#! rozpocznie działanie w nieco gorszej sytuacji"
@@ -1237,18 +1238,18 @@
  paris_commune_on_cooldown_tt: "Nie podjęto tej decyzji w ciągu ostatnich #bold trzech miesięcy#!"
  paris_commune.2.t: "Krwawy tydzień"
  paris_commune.2.d: "Siły lojalne wobec rządu, któremu przewodzi [ROOT.GetCountry.GetRuler.GetLastName], przeprowadziły marsz na Paryż. W ciągu tygodnia pełnego toczących się na terenie miasta walk [SCOPE.sCountry('paris_commune_scope').GetName] upadła. Już mówi się o masowych egzekucjach stojących po stronie Komuny członków Gwardii Narodowej."
- paris_commune.2.f: "– Otoczona ze wszystkich stron Komuna widziała na horyzoncie tylko śmierć. Jedyne, co pozostało tym ludziom, to wykazać się odwagą. Co też uczynili. Śmierć Komuny otworzyła na oścież drzwi prowadzące do przyszłości. Było jej to pisane." 
+ paris_commune.2.f: "– Otoczona ze wszystkich stron Komuna widziała na horyzoncie tylko śmierć. Jedyne, co pozostało tym ludziom, to wykazać się odwagą. Co też uczynili. Śmierć Komuny otworzyła na oścież drzwi prowadzące do przyszłości. Było jej to pisane." #- Louise Michel
  paris_commune.2.a: "Nie ma litości dla Komuny pełnej morderców."
  paris_commune.2.b: "Musimy się zachowywać przyzwoicie, bo inaczej Paryż nam nie wybaczy."
  paris_commune.3.t: "Marsz na Wersal"
  paris_commune.3.d: "[SCOPE.sCountry('paris_commune_scope').GetName] ma wielu zwolenników, wśród których znajdują się też członkowie Gwardii Narodowej. Licząca kilka tysięcy z nich grupa przeprowadziła marsz na pałac wersalski i pojmała ministrów rządu, na czele którego stoi [ROOT.GetCountry.GetRuler.GetLastName]. Nad głównym bastionem oporu konserwatystów powiewa teraz flaga Komuny."
- paris_commune.3.f: "– Zrodzona z powszechnej inicjatywy rewolucja Komuny daje początek nowej erze eksperymentalnej i pozytywnej polityki opartej na nauce.\n\n– To koniec starego świata rządowo-duchownego. Koniec militaryzmu i funkcjonalizmu. Koniec wyzysku, spekulacji, monopoli i przywilejów, którym proletariat zawdzięcza swoją niewolę, a ojczyzna nieszczęścia i katastrofy." 
+ paris_commune.3.f: "– Zrodzona z powszechnej inicjatywy rewolucja Komuny daje początek nowej erze eksperymentalnej i pozytywnej polityki opartej na nauce.\n\n– To koniec starego świata rządowo-duchownego. Koniec militaryzmu i funkcjonalizmu. Koniec wyzysku, spekulacji, monopoli i przywilejów, którym proletariat zawdzięcza swoją niewolę, a ojczyzna nieszczęścia i katastrofy." #- Manifesto of the Paris Commune
  paris_commune.3.a: "Członkowie rządu wersalskiego będą sądzeni jak przestępcy."
  paris_commune.3.b: "Musimy uczcić nasze zwycięstwo i pogodzić się ze sobą."
  communards_seize_power_tt: "Organizacja znana jako [SCOPE.sCountry('paris_commune_scope').GetName] przejmie kontrolę nad #bold Francją#!"
  paris_commune.4.t: "Rewolucja komunardów"
  paris_commune.4.d: "Długotrwały spór, którego jedną stroną jest ludność [ROOT.GetCountry.GetAdjective|l], a drugą [ROOT.GetCountry.GetRuler.GetLastName] i rząd, osiągnął punkt krytyczny. Rewolucjoniści w całym państwie deklarują, że w ich sercu jest [SCOPE.sCountry('paris_commune_scope').GetName], i maszerują w stronę osaczonego rządu centralnego."
- paris_commune.4.f: "– Zrobić przejście dla ludu, dla wojowników o odkrytych ramionach! Wybiła godzina wojny rewolucjonistów! Do broni, obywatele! Do broni!" 
+ paris_commune.4.f: "– Zrobić przejście dla ludu, dla wojowników o odkrytych ramionach! Wybiła godzina wojny rewolucjonistów! Do broni, obywatele! Do broni!" #- Louis Delescluze
  paris_commune.4.a: "Śmierć zdrajcom!"
  paris_commune.4.b: "Niech żyje Komuna!"
  commune_progress_subtract_10: "Postęp #bold Komuny Paryskiej#! #bold zmniejszy się#! o #bold 10#!"
@@ -1343,7 +1344,7 @@
  luddite_law_events.6.c: "Pieniądze naoliwią wszystkie tryby."
  belle_epoque_fail_tt: "[concept_front] wroga przeniósł się aż do obszaru administracyjnego o nazwie [SCOPE.sState('belle_epoque_state').GetName]"
  belle_epoque_invalid_tt: "Obszar administracyjny o nazwie [SCOPE.sState('belle_epoque_state').GetName] nie znajduje się pod kontrolą tego kraju"
- 
+ #REVOLUTION EVENTS
  modifier_minority_self_defense_tolerated: "Tolerowanie samoobrony członków mniejszości etnicznych"
  modifier_subversion_of_monopoly_on_violence: "Legitymizacja samoobrony członków mniejszości etnicznych"
  modifier_tarred_with_terrorist_brush: "Oskarżenia dotyczące terroryzmu"
@@ -1454,15 +1455,15 @@
  modifier_new_bedfellows: "Pozytywne partnerstwo"
  modifier_backfired_defection: "Dezercja przynosi skutki odwrotne do zamierzonych"
  modifier_embarrassed_by_judgement_failure: "Sądowe porażki"
- 
+ #Events
  revolution_pulse_events.1.t: "Samoobrona narodowa"
  revolution_pulse_events.1.d: "[ROOT.GetCountry.GetName] – członkowie grupy interesu o nazwie [SCOPE.gsInterestGroup('self_defense_threat_ig').GetName|l] w tym kraju są coraz bardziej agresywni. Kilka społeczności, których kulturą jest kultura [SCOPE.sCulture('self_defense_threat_culture').GetName|l], zaczęło tworzyć uzbrojone milicje, chcąc zadbać o bezpieczeństwo swoich populacji."
- revolution_pulse_events.1.f: "– My, ludność [SCOPE.sCulture('self_defense_threat_culture').GetNameNoFormatting|l], mamy powód do radości! Tułające się po ogarniętym chaosem świecie dusze naszych dawnych bohaterów nareszcie znalazły swoje miejsce." 
+ revolution_pulse_events.1.f: "– My, ludność [SCOPE.sCulture('self_defense_threat_culture').GetNameNoFormatting|l], mamy powód do radości! Tułające się po ogarniętym chaosem świecie dusze naszych dawnych bohaterów nareszcie znalazły swoje miejsce." #- Anonymous Jewish Bundist, 1906
  revolution_pulse_events.1.a: "Władze mają teraz na głowie znacznie ważniejsze rzeczy niż to."
  revolution_pulse_events.1.b: "Ludność [SCOPE.sCulture('self_defense_threat_culture').GetName|l] nas nie słucha. Trzeba ją zdyscyplinować."
  revolution_pulse_events.2.t: "Stochastyczny terror"
  revolution_pulse_events.2.d: "[SCOPE.sState('blatant_fedposting_state').GetStateRegion.GetName] – w tym regionie administracyjnym miał niedawno miejsce zamach bombowy przeprowadzony przez pewnego radykalnego zwolennika grupy interesu o nazwie [SCOPE.gsInterestGroup('blatant_fedposting_ig').GetName|l]. Po ataku odkryto, że odpowiedzialne za niego strony są w posiadaniu dzieł napisanych przez pewną osobę. Jest nią [SCOPE.sCharacter('fedposting_agitator').GetFullName]."
- revolution_pulse_events.2.f: "„…a gdy wybije ta tragiczna godzina i będziemy musieli stanąć na wysokości zadania, świadomość naszego obowiązku wzmocni nas i doda nam sił. Nie możemy odmówić. Z pełnym przekonaniem deklarujemy, żeśmy gotowi poświęcić wszystko, co konieczne”." 
+ revolution_pulse_events.2.f: "„…a gdy wybije ta tragiczna godzina i będziemy musieli stanąć na wysokości zadania, świadomość naszego obowiązku wzmocni nas i doda nam sił. Nie możemy odmówić. Z pełnym przekonaniem deklarujemy, żeśmy gotowi poświęcić wszystko, co konieczne”." #- Jean Jaurès
  revolution_pulse_events.2.a: "[SCOPE.gsInterestGroup('blatant_fedposting_ig').GetName] to zmora porządnego społeczeństwa."
  revolution_pulse_events.2.b: "Trzeba nagłośnić ten incydent i ogłosić, że [SCOPE.sCharacter('fedposting_agitator').GetFullName] nawołuje do terroryzmu przeciwko niewinnym."
  revolution_pulse_events.3.t: "Podwójna władza"
@@ -1479,7 +1480,7 @@
  revolution_pulse_events.4.b: "[GetPopType('soldiers').GetName] to zaradni ludzie. Powinni być w stanie samodzielnie bronić swoich interesów."
  revolution_pulse_events.5.t: "Samoorganizacja"
  revolution_pulse_events.5.d: "Sympatycy rewolucji z grupy interesu o nazwie [SCOPE.gsInterestGroup('rural_folk_ig').GetName|l] w regionie administracyjnym [SCOPE.sState('self_organization_state').GetStateRegion.GetName] zaczęli tworzyć rady chłopskie, aby sprzeciwić się innej grupie interesu o nazwie [SCOPE.gsInterestGroup('landowners_ig').GetName|l]."
- revolution_pulse_events.5.f: "– Chcę obciążyć sumienie zamożnych brzemieniem, którym są wielkie cierpienie oraz skryte, gorzkie łzy." 
+ revolution_pulse_events.5.f: "– Chcę obciążyć sumienie zamożnych brzemieniem, którym są wielkie cierpienie oraz skryte, gorzkie łzy." #- Rosa Luxemburg
  revolution_pulse_events.5.a: "[SCOPE.gsInterestGroup('rural_folk_ig').GetName] to grupa, która musi znać swoje miejsce."
  revolution_pulse_events.5.b: "[SCOPE.gsInterestGroup('landowners_ig').GetName] to grupa, która musi zgodzić się na ustępstwa, aby utrzymać pokój."
  revolution_pulse_events.6.t: "Pancernik [SCOPE.sState('ship_name_state').GetStateRegion.GetCityHubName] ucieka"
@@ -1489,7 +1490,7 @@
  revolution_pulse_events.6.b: "Strona [SCOPE.sCountry('potemkin_final_destination').GetAdjective|l] współpracuje ze zdrajcami!"
  revolution_pulse_events.7.t: "Marsz w sprawie petycji"
  revolution_pulse_events.7.d: "[SCOPE.sState('petition_march_state').GetStateRegion.GetCityHubName] – zwolennicy podpisania petycji reprezentujący grupę interesu o nazwie [SCOPE.gsInterestGroup('petition_march_ig').GetName|l], której przewodzi [SCOPE.sCharacter('petition_march_leader').GetFullName], przeprowadzili marsz na pustą rezydencję, której właścicielem jest [SCOPE.sCharacter('petition_march_ruler').GetPrimaryRoleTitle]. Uczestnicy marszu nie zamierzają opuścić budynku, dopóki [SCOPE.sCharacter('petition_march_ruler').GetPrimaryRoleTitle] nie zgodzi się na spotkanie."
- revolution_pulse_events.7.f: "Z tym się mierzymy i dlatego zebraliśmy się pod murami twojego pałacu, wasza wysokość. To nasza ostatnia szansa. Nie odmawiaj swojemu ludowi pomocy. Uwolnij go od skrajnego ubóstwa, ignorancji i braku praw. Daj mu możliwość decydowania o własnym losie i wydostań spod nieznośnego jarzma biurokratów." 
+ revolution_pulse_events.7.f: "Z tym się mierzymy i dlatego zebraliśmy się pod murami twojego pałacu, wasza wysokość. To nasza ostatnia szansa. Nie odmawiaj swojemu ludowi pomocy. Uwolnij go od skrajnego ubóstwa, ignorancji i braku praw. Daj mu możliwość decydowania o własnym losie i wydostań spod nieznośnego jarzma biurokratów." #-1905 Petition to the Tsar
  revolution_pulse_events.7.a: "Wyślij przedstawiciela rodziny królewskiej, aby ich udobruchać."
  revolution_pulse_events.7.b: "[SCOPE.sCharacter('petition_march_ruler').GetPrimaryRoleTitle] jest w niebezpieczeństwie! Usunąć to zagrożenie siłą!"
  revolution_pulse_events.7.c: "[SCOPE.sCharacter('petition_march_ruler').GetPrimaryRoleTitle] wyruszy pociągiem pospiesznym do innego miasta. Cel podróży: [SCOPE.sState('petition_march_state').GetStateRegion.GetCityHubName]."
@@ -1507,18 +1508,18 @@
  revolution_pulse_events.9.b: "Kto kontroluje wojskowych, kontroluje cały naród."
  revolution_pulse_events.10.t: "Reformy na muszce"
  revolution_pulse_events.10.d: "Nastroje rewolucjonistyczne w całym państwie nasilają się. [SCOPE.sCharacter('reforms_at_gunpoint_ruler').GetPrimaryRoleTitle] [SCOPE.sCharacter('reforms_at_gunpoint_ruler').GetFullName] ma swoich doradców wśród grupy interesu o nazwie [SCOPE.gsInterestGroup('reforms_at_gunpoint_ig').GetName|l], a ci zalecają wprowadzenie pakietu reform, które miałyby usatysfakcjonować rewolucjonistów."
- revolution_pulse_events.10.f: "– Sytuacja jest poważna. W stolicy panuje anarchia, a rząd jest sparaliżowany. Transport został zakłócony, a łańcuch dostaw żywności i paliwa całkowicie przerwany. Ogólne niezadowolenie społeczeństwa rośnie… Nie można zwlekać. Jakiekolwiek opóźnienie w działaniu oznacza śmierć." 
+ revolution_pulse_events.10.f: "– Sytuacja jest poważna. W stolicy panuje anarchia, a rząd jest sparaliżowany. Transport został zakłócony, a łańcuch dostaw żywności i paliwa całkowicie przerwany. Ogólne niezadowolenie społeczeństwa rośnie… Nie można zwlekać. Jakiekolwiek opóźnienie w działaniu oznacza śmierć." #- Mikhail Rodzianko
  revolution_pulse_events.10.a: "Dzięki tej propozycji nasze państwo, [ROOT.GetCountry.GetNameNoFormatting], uniknie grabieży ze strony radykałów."
  revolution_pulse_events.10.b: "Członkowie grupy interesu o nazwie [SCOPE.gsInterestGroup('reforms_at_gunpoint_ig').GetName|l] będą naszymi największymi obrońcami w obliczu rewolucji."
  revolution_pulse_events.10.c: "Z rewolucjonistami się nie negocjuje. Rewolucjonistów się miażdży."
  revolution_pulse_events.11.t: "Okopokracja"
  revolution_pulse_events.11.d: "[SCOPE.gsInterestGroup('armed_forces_ig').GetName] – rozczarowani członkowie tej grupy interesu zaczęli pisać wiersze i opowiadania na cześć braterstwa, którego doświadczyli podczas ostatniej wojny toczonej przez nasze państwo i przez państwo o nazwie [SCOPE.sCountry('most_recent_opponent_scope').GetName]. Ludzie ci uważają tego wspólnego ducha walki za rozwiązanie problemu aktualnych zawirowań społecznych."
- revolution_pulse_events.11.f: "– Brutalne i krwawe okopy w końcu będą coś znaczyć: więcej odwagi, więcej wiary i więcej uporu." 
+ revolution_pulse_events.11.f: "– Brutalne i krwawe okopy w końcu będą coś znaczyć: więcej odwagi, więcej wiary i więcej uporu." #- Benito Mussolini
  revolution_pulse_events.11.a: "Takiego ducha walki nam trzeba, aby stawić czoła wrogom."
  revolution_pulse_events.11.b: "To tylko brednie głoszone przez tych, którym wojna rzuciła się na mózg."
  revolution_pulse_events.12.t: "Żółta międzynarodówka"
  revolution_pulse_events.12.d: "Choć [SCOPE.sCharacter('communist_agitator_scope').GetFullName] nawołuje do rewolucji, wśród członków grupy interesu o nazwie [SCOPE.gsInterestGroup('trade_union_ig').GetName|l] wciąż są przywódcy o silnym przekonaniu co do słuszności reform. Udzielenie im pomocy w przejęciu kontroli nad grupą interesu, do której należą, przysłuży się walce z rewolucjonistami."
- revolution_pulse_events.12.f: "– Żaden wysoko rozwinięty proletariat nie uzna dyktatury, choćby nie wiem jak bardzo proletariacka była, za narzędzie emancypacji." 
+ revolution_pulse_events.12.f: "– Żaden wysoko rozwinięty proletariat nie uzna dyktatury, choćby nie wiem jak bardzo proletariacka była, za narzędzie emancypacji." #- Karl 'Renegade' Kautsky
  revolution_pulse_events.12.a: "Dobrze, że nasi wrogowie dążą do reform, a nie do rewolucji."
  revolution_pulse_events.12.a1: "[SCOPE.gsInterestGroup('trade_union_ig').GetLeader.GetIdeology.GetName] – tę ideologię będzie wyznawał przywódca grupy interesu o nazwie [SCOPE.gsInterestGroup('trade_union_ig').GetName|l]."
  revolution_pulse_events.12.b: "Socjalista zawsze będzie socjalistą – bez względu na to, jak serdeczny się zdaje."
@@ -1540,17 +1541,17 @@
  revolution_pulse_events.15.b: "Nie potrzebujemy pomocy podżegaczy."
  revolution_pulse_events.16.t: "Innowacja i lojalność"
  revolution_pulse_events.16.d: "Wśród przeciwników rewolucji klarują się różne poglądy dotyczące przyszłości ich ruchu. Radykałowie z grupy interesu o nazwie [SCOPE.gsInterestGroup('reactionary_agitator_ig').GetName|l] zaczęli nawoływać do utworzenia nowego, nacjonalistycznego rządu totalitarnego, aby chronić się przed zagrożeniem ze strony komunistów."
- revolution_pulse_events.16.f: "– Gazety potrafią w zaledwie dwa tygodnie tak omamić uległe masy, aby te wpadły w furię i były gotowe włożyć mundury i zabijać, a nawet samemu zginąć. A wszystko to w imię brudnych interesów kilku zaangażowanych stron." 
+ revolution_pulse_events.16.f: "– Gazety potrafią w zaledwie dwa tygodnie tak omamić uległe masy, aby te wpadły w furię i były gotowe włożyć mundury i zabijać, a nawet samemu zginąć. A wszystko to w imię brudnych interesów kilku zaangażowanych stron." #- Albert Einstein
  revolution_pulse_events.16.a: "Należy unowocześnić obrońców naszego kraju."
  revolution_pulse_events.16.b: "Te idee to po prostu kolejna modernistyczna aberracja."
  revolution_pulse_events.17.t: "Potworna okazja"
  revolution_pulse_events.17.d: "[SCOPE.sCharacter('reactionary_agitator').GetFullName] ma wśród członków grupy interesu znanej jako [SCOPE.gsInterestGroup('pogrom_ig').GetName|l] zwolenników, którzy twierdzą, że to społeczność [SCOPE.sCulture('pogrom_culture').GetName|l] ponosi winę za obecne zawirowania rewolucjonistyczne. Członkowie tej społeczności padli ofiarą masowych aktów przemocy w regionie administracyjnym o nazwie [SCOPE.sState('pogrom_state').GetStateRegion.GetName] oraz w sąsiadujących z nim regionach."
- revolution_pulse_events.17.f: "– Jakaż to bestia zmienia zwykłych obywateli w motłoch, używając strachu jako przynęty? W prawdziwym świecie nie jest to cecha potworów, tylko ludzi dążących do objęcia władzy." 
+ revolution_pulse_events.17.f: "– Jakaż to bestia zmienia zwykłych obywateli w motłoch, używając strachu jako przynęty? W prawdziwym świecie nie jest to cecha potworów, tylko ludzi dążących do objęcia władzy." #- GennaRose Nethercott
  revolution_pulse_events.17.a: "Istotnie, kultura [SCOPE.sCulture('pogrom_culture').GetName|l] stanowi zagrożenie dla państwa takiego jak [ROOT.GetCountry.GetName]."
  revolution_pulse_events.17.b: "Te bezprawne działania straciły jakikolwiek sens."
  revolution_pulse_events.18.t: "Broń wroga"
  revolution_pulse_events.18.d: "Ruch nacjonalistyczny, na czele którego stoi [SCOPE.sCharacter('fascist_agitator').GetFullName], coraz bardziej zyskuje na popularności. Dawni socjaliści, których rozczarowały przejawiane przez członków grupy interesu o nazwie [SCOPE.gsInterestGroup('internationalist_ig').GetName|l] tendencje „antynarodowe”, zaczęli przyłączać się do nacjonalistów. W państwie o nazwie [ROOT.GetCountry.GetName] wśród przeciwników rewolucji jeszcze bardziej ugruntowały się zatem wartości faszystowskie."
- revolution_pulse_events.18.f: "– Prawa państwa służą oddawaniu prawdziwej istoty jednostki. Jeśli wolność ma być cechą żywych ludzi, a nie zmyślonych kukieł stworzonych przez indywidualny liberalizm, wówczas faszyzm znaczy wolność. To jedyna wolność, do której warto dążyć. Wolność państwa, jak również jednostki w państwie. Koncepcja państwa faszystowskiego jest wszechogarniająca. Bez niej żadne wartości ludzkie czy duchowe nie istnieją i nie mają żadnego sensu." 
+ revolution_pulse_events.18.f: "– Prawa państwa służą oddawaniu prawdziwej istoty jednostki. Jeśli wolność ma być cechą żywych ludzi, a nie zmyślonych kukieł stworzonych przez indywidualny liberalizm, wówczas faszyzm znaczy wolność. To jedyna wolność, do której warto dążyć. Wolność państwa, jak również jednostki w państwie. Koncepcja państwa faszystowskiego jest wszechogarniająca. Bez niej żadne wartości ludzkie czy duchowe nie istnieją i nie mają żadnego sensu." #- Benito Mussolini
  revolution_pulse_events.18.a: "Faszystów można kontrolować, socjalistów – nie."
  revolution_pulse_events.18.b: "Faszyzm jest przyszłością państwa o nazwie [ROOT.GetCountry.GetName]."
  revolution_pulse_events.19.t: "Współczesne metody"
@@ -1588,7 +1589,7 @@
  revolution_pulse_events.24.b: "Doskonale wiemy, kto stał za tym zamachem i kto musi zginąć."
  revolution_pulse_events.25.t: "Śmierć w mgnieniu oka"
  revolution_pulse_events.25.d: "Oto przebieg wydarzeń. [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName] podróżuje w powozie z miasta o nazwie [SCOPE.sState('capital_scope').GetCityHubName] do jednej ze swoich wiejskich posiadłości. Nagle jakiś rewolucjonista rzuca się pod powóz z odbezpieczonym granatem. [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] oraz zamachowiec giną na miejscu."
- revolution_pulse_events.25.f: "Wtem, jak w jakimś śnie czy we mgle, dostrzegam młodego mężczyznę skromnej postury. Szybkim krokiem schodzi z chodnika na bruk w kierunku powozu i rzuca się ku niemu, a po chwili rozlega się ogłuszający wybuch. Zaraz po nim wszystkie podróżujące powozem osoby i postronni obserwatorzy znajdujący się na chodniku padają na ziemię otoczeni kłębami białego dymu." 
+ revolution_pulse_events.25.f: "Wtem, jak w jakimś śnie czy we mgle, dostrzegam młodego mężczyznę skromnej postury. Szybkim krokiem schodzi z chodnika na bruk w kierunku powozu i rzuca się ku niemu, a po chwili rozlega się ogłuszający wybuch. Zaraz po nim wszystkie podróżujące powozem osoby i postronni obserwatorzy znajdujący się na chodniku padają na ziemię otoczeni kłębami białego dymu." #- Edited testimony of Vasily Gorokhov
  revolution_pulse_events.25.a: "Niech [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] zazna spokoju w zaświatach. Zarządzić żałobę, a prochy zamachowca wrzucić do rzeki."
  revolution_pulse_events.25.b: "[SCOPE.sCharacter('heir_scope').GetFullName] zemści się na mordercach swojego rodzica."
  custom_father: "ojciec"
@@ -1687,7 +1688,7 @@
  provisional_government_events.1.e: "To nie [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')] jest naszym wrogiem, tylko poprzednia władza."
  provisional_government_events.1.g: "Tylko poprzedni rządzący zdradzili robotników."
  retain_presidents_power_tt: "Nasze państwo pozostanie przy dotychczasowym ustroju. [GetLawType('law_presidential_republic').GetName|l] to najlepsza możliwa opcja."
- 
+ #LAND OWNERSHIP LAW EVENTS
  modifier_collectivisation_protests: "Protesty przeciwko kolektywizacji"
  modifier_destruction_of_grain: "Zniszczenie zboża"
  modifier_collectivisation_protests_capitulated: "Kapitulacja wobec protestów przeciwko kolektywizacji"
@@ -1752,7 +1753,7 @@
  land_ownership_law_events.14.a: "Nie zmieniajmy kursu."
  land_ownership_law_events.14.b: "Przyda się kolejna beczka atramentu…"
  land_ownership_law_events.15.t: "Przejmowanie zagranicznych gospodarstw"
- land_ownership_law_events.15.d: "[SCOPE.gsInterestGroup('landowners_ig').GetName] i [SCOPE.gsInterestGroup('industrialists_ig').GetName|l] toczą debatę, o której wie już cała [ROOT.GetCountry.GetAdjective|l] opinia publiczna. Głównym tematem dyskusji są zagraniczne inwestycje związane z następującym prawem: [SCOPE.sLaw('current_law_scope').GetName|l]."
+ land_ownership_law_events.15.d: "[SCOPE.gsInterestGroup('landowners_ig').GetName] i [SCOPE.gsInterestGroup('industrialists_ig').GetName|l] toczą debatę, o której wie już cała [ROOT.GetCountry.GetAdjective|l] opinia publiczna. Głównym tematem dyskusji są inwestycje zagraniczne związane z następującym prawem: [SCOPE.sLaw('current_law_scope').GetName|l]."
  land_ownership_law_events.15.f: "– Biorąc pod uwagę eksterytorialność, jaką mamy prawną gwarancję tego, że mieszkająca tutaj społeczność [SCOPE.sCountry('neighbour_country').GetAdjectiveNoFormatting|l] będzie objęta prawami, które ustanowiła władza [ROOT.GetCountry.GetAdjectiveNoFormatting|l]?\n\n– Należy raczej spytać, kto pracuje na tej ziemi. To [ROOT.GetCountry.GetAdjectiveNoFormatting|l] ziemia, więc powinna na niej pracować ludność [ROOT.GetCountry.GetAdjectiveNoFormatting|l]!\n\n– Ale jeśli oni przywiozą ze sobą własną siłę roboczą i własne prawa, lepiej przysłużą się rynkom krajowym…"
  land_ownership_law_events.15.a: "Wszyscy zagraniczni inwestorzy będą się stosować do prawa cywilnego, które ustanowiła władza [ROOT.GetCountry.GetAdjective|l]."
  land_ownership_law_events.15.b: "Im znane są tylko prawa, które ustanowiła władza [SCOPE.sCountry('neighbour_country').GetAdjective|l]."
@@ -1775,7 +1776,7 @@
  land_ownership_law_events.18.a: "Być może trzeba wprowadzić pewne zmiany."
  land_ownership_law_events.18.b: "Ludzie będą pracować za tyle, ile są warci."
  land_ownership_law_events.18.c: "Ustępstwa nie mogą oddalić rewolucji."
- 
+ ### Government Petitions
  je_government_petition: "Petycja do rządu"
  je_government_petition_status: "Przedstawiciele grupy interesu znanej jako [SCOPE.gsInterestGroup('government_petition_ig').GetName|l] złożyli petycję, w której apelują o wdrożenie następującego prawa: [SCOPE.sLaw('government_petition_law').GetName|l]."
  je_government_petition_reason: "Jako lojalni przedstawiciele rządu, na którego czele stoi [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle], członkowie grupy interesu o nazwie [SCOPE.gsInterestGroup('government_petition_ig').GetName|l] składają petycję o uchwalenie następującego prawa: [SCOPE.sLaw('government_petition_law').GetName|l].\n\nJeśli zdołamy wdrożyć to prawo, bardzo zadowolimy rzeczoną grupę interesu; jeśli natomiast zignorujemy petycję, naród będzie narażony na kary aż do wycofania się tej grupy z rządu."
@@ -1800,7 +1801,7 @@
  government_petition_blown_off_2_tt: "Petycja zostanie #bold odrzucona#!, co pociągnie za sobą duży koszt polityczny. Wielokrotne wykonanie tego działania względem tej samej [Concept('concept_interest_group', 'grupy interesu')] będzie miało poważniejsze konsekwencje."
  modifier_petition_rejected_legitimacy: "Obojętny rząd"
  modifier_petition_rejected_ig_opinion: "Odrzucenie petycji"
- 
+ ### Divided Monarchist Rework
  modifier_reasonable_monarchist_partisan: "Szanowane stronnictwo"
  modifier_monarchist_partisan_popularity: "Agitacja monarchistów"
  modifier_popular_french_monarch: "Popularny monarcha"
@@ -1881,7 +1882,7 @@
  pretenders_7_orleanist_tt: "[SCOPE.sCountry('reflexive_reference_france').GetName] – tron tego państwa zostanie powierzony pretendentowi kierującemu się ideologią o nazwie [SCOPE.sCharacter('orleanist_character').GetIdeology.GetName|l]"
  pretenders_7_bonapartist_tt: "[SCOPE.sCountry('reflexive_reference_france').GetName] – tron tego państwa zostanie powierzony pretendentowi kierującemu się ideologią o nazwie [SCOPE.sCharacter('bonapartist_character').GetIdeology.GetName|l]"
  pretenders_7_fourth_way_tt: "Zostawimy stare dynastie za sobą – na tronie państwa o nazwie [SCOPE.sCountry('reflexive_reference_france').GetName] zasiądzie [SCOPE.sCharacter('prospective_monarch_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('prospective_monarch_scope').GetFullName]"
- 
+ #Paris Commune rework
  notification_paris_commune_automation_pulse_1_a_name: "Komunardzi zamykają paryskie kościoły"
  notification_paris_commune_automation_pulse_1_a_desc: "Organizacja o nazwie [SCOPE.sCountry('paris_commune_nation_scope').GetName] przejęła i siłą zamknęła wiele kościołów, potęgując w Paryżu nastroje sprzyjające światopoglądowi znanemu jako [SCOPE.sReligion('atheist_scope').GetName|l].\n\nPostęp #bold Komuny Paryskiej#! #bold zwiększył się#! o #variable 10#!."
  notification_paris_commune_automation_pulse_1_a_tooltip: "#header $notification_paris_commune_automation_pulse_1_a_name$#!\n$TOOLTIP_DELIMITER$\n$notification_paris_commune_automation_pulse_1_a_desc$"
@@ -2041,7 +2042,7 @@
  fra_paris_commune_drain: "Cios w serce"
  paris_commune.5.t: "Kryzys w Paryżu"
  paris_commune.5.d: "Panujące w państwie o nazwie [SCOPE.sCountry('france_scope').GetName] powszechne niezadowolenie doprowadziło do zajęcia Paryża przez rewolucjonistów. Francja jest teraz podzielona między dwa rywalizujące ze sobą rządy: paryski i wersalski."
- paris_commune.5.f: "Dochodziło południe i komuś, kto nie był przywykły do wznoszenia barykad, wszystkie te wydarzenia mogły wydawać się dziwne. Zaledwie kilka godzin wcześniej ulice były zablokowane przez rząd. Teraz każda z nich znajdowała się na celowniku dział wroga." 
+ paris_commune.5.f: "Dochodziło południe i komuś, kto nie był przywykły do wznoszenia barykad, wszystkie te wydarzenia mogły wydawać się dziwne. Zaledwie kilka godzin wcześniej ulice były zablokowane przez rząd. Teraz każda z nich znajdowała się na celowniku dział wroga." #- Times of London correspondent in Paris
  paris_commune.5.a: "Ten cały „rząd” paryski to jakaś farsa."
  paris_commune.5.b: "Nasze państwo, [SCOPE.sCountry('france_scope').GetNameNoFormatting], skorzystałoby na zmianie rządu."
  paris_commune.5.c: "Nie będziemy w to wnikać."

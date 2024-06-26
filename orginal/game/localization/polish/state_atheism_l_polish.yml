@@ -5,7 +5,7 @@
  pm_no_urban_clergy: "Ateizm państwowy"
  state_atheism.1.t: "Opium dla mas"
  state_atheism.1.d: "W trakcie wdrażania jednego z praw ([SCOPE.sLaw('current_law_scope').GetName|l]) pojawiły się obawy, że bez religii, jaką jest [ROOT.GetCountry.GetStateReligion.GetName|l], masy popadną w rozpacz w związku z brakiem duchowego spełnienia."
- state_atheism.1.f: "Religia jest westchnieniem uciśnionych; sercem pozbawionego serca świata i duszą bezduszności. To opium dla mas." 
+ state_atheism.1.f: "Religia jest westchnieniem uciśnionych; sercem pozbawionego serca świata i duszą bezduszności. To opium dla mas." #Karl Marx
  state_atheism.1.a: "Bóg jest martwy."
  state_atheism.1.b: "Nakarmimy ich ciała, a nie dusze."
  state_atheism.1.c: "Opium to opium dla mas."

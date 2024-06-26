@@ -44,19 +44,19 @@
  culture_brazil.2.b: "Ta Brazylia może być wasza!"
  culture_brazil.3.t: "Integracja ludu Paulistas"
  culture_brazil.3.d: "Kultura [SCOPE.sCulture('paulista_culture').GetName|l] – ludność tej kultury (mieszkańcy São Paulo i przedstawiciele ludu Caipiras zamieszkujący tereny położone w głębi kraju) pojednała się z rządem centralnym i dołączyła do ruchu narodowego dążącego do szerzenia tożsamości, którą jest kultura [SCOPE.sCulture('brazilian_culture').GetName|l]."
- culture_brazil.3.f: "#italic Łagodne brzegi Ipirangi usłyszały\nDonośny zew bohaterskiego ludu,\nA słońce wolności jasnymi promieniami\nOświetliło wraz niebo ojczyzny.#!" 
+ culture_brazil.3.f: "#italic Łagodne brzegi Ipirangi usłyszały\nDonośny zew bohaterskiego ludu,\nA słońce wolności jasnymi promieniami\nOświetliło wraz niebo ojczyzny.#!" #from the national anthem of Brazil
  culture_brazil.3.a: "Kochana, wspaniała ojczyzno. Wiwat ci, wiwat!"
  culture_brazil.4.t: "Integracja ludu Sulistas"
  culture_brazil.4.d: "Kultura [SCOPE.sCulture('sulista_culture').GetName|l] – ludność tej kultury (mieszkańcy okolic rzek Paraná i Iguazú oraz hodowcy bydła z południa) pojednała się z rządem centralnym i dołączyła do ruchu narodowego dążącego do szerzenia tożsamości, którą jest kultura [SCOPE.sCulture('brazilian_culture').GetName|l]."
- culture_brazil.4.f: "– Niebo, słońce, ziemia i kolory to najpiękniejsze elementy naszego państwa. W dodatku to one sprawiają, że wszystko, co zasadzi się w Brazylii, wzrasta tak wspaniale.\n\n– Ale ojcze, dlaczego nie możemy zachować zebranych w pocie czoła plonów dla siebie? Byłoby to uczciwe, skoro tak ciężko na nie pracowaliśmy.\n\n– A kto twoim zdaniem wytworzył używane przez ciebie narzędzia? Moje buty? Ubrania mamy? Brazylia potrzebuje naszej bawełny i kawy tak samo, jak my potrzebujemy jej żelaza i mleka. Razem jesteśmy silniejsi, synu." 
+ culture_brazil.4.f: "– Niebo, słońce, ziemia i kolory to najpiękniejsze elementy naszego państwa. W dodatku to one sprawiają, że wszystko, co zasadzi się w Brazylii, wzrasta tak wspaniale.\n\n– Ale ojcze, dlaczego nie możemy zachować zebranych w pocie czoła plonów dla siebie? Byłoby to uczciwe, skoro tak ciężko na nie pracowaliśmy.\n\n– A kto twoim zdaniem wytworzył używane przez ciebie narzędzia? Moje buty? Ubrania mamy? Brazylia potrzebuje naszej bawełny i kawy tak samo, jak my potrzebujemy jej żelaza i mleka. Razem jesteśmy silniejsi, synu." #Céu, sol, sul, terra e cor
  culture_brazil.4.a: "Kochana, wspaniała ojczyzno. Wiwat ci, wiwat!"
  culture_brazil.5.t: "Integracja ludów Amazonii"
  culture_brazil.5.d: "Kultura [SCOPE.sCulture('amazonic_culture').GetName|l] – ludność tej kultury (mieszkańcy północy i koloniści z dzikich terenów Amazonii) pojednała się z rządem centralnym i dołączyła do ruchu narodowego dążącego do szerzenia tożsamości, którą jest kultura [SCOPE.sCulture('brazilian_culture').GetName|l]."
- culture_brazil.5.f: "– Północne stany wspierają nas i za nami podążą!\n\nOd zgromadzonych biło coś więcej niż rozradowanie. Ulga siostry martwiącej się o brata? Duma ojca z odzyskania dobrego imienia po tym, jak okazało się, że miał rację? Może to nie miało znaczenia – cała rodzina zbliżyła się bowiem do jedności." 
+ culture_brazil.5.f: "– Północne stany wspierają nas i za nami podążą!\n\nOd zgromadzonych biło coś więcej niż rozradowanie. Ulga siostry martwiącej się o brata? Duma ojca z odzyskania dobrego imienia po tym, jak okazało się, że miał rację? Może to nie miało znaczenia – cała rodzina zbliżyła się bowiem do jedności." #Motto of Belém
  culture_brazil.5.a: "Kochana, wspaniała ojczyzno. Wiwat ci, wiwat!"
  culture_brazil.6.t: "Integracja ludu Nordestinos"
  culture_brazil.6.d: "[SCOPE.sCulture('nordestino_culture').GetName] – ludność tej kultury (mieszkańcy obszarów Bahia, Pernambuco i całego północnego wschodu) pojednała się z rządem centralnym i dołączyła do ruchu narodowego dążącego do szerzenia tożsamości, którą jest kultura [SCOPE.sCulture('brazilian_culture').GetName|l]."
- culture_brazil.6.f: "– Religia, niepodległość, jedność, wolność – oto najwyższe wartości w Brazylii. Z pewnością jesteście wszyscy ciekawi, skąd wzięli się tutaj ksiądz i pracownik plantacji kawy. Ktoś wie?\n\n– Jesteśmy Brazylijczykami. Tego wymaga od nas państwo.\n\n– To nie do końca poprawna odpowiedź. Tak, wszyscy jesteśmy Brazylijczykami, ale nie, państwo tego od nas nie wymaga. Każe nam natomiast cenić wszystko, co mamy, a to właśnie my tym #italic wszystkim#! jesteśmy." 
+ culture_brazil.6.f: "– Religia, niepodległość, jedność, wolność – oto najwyższe wartości w Brazylii. Z pewnością jesteście wszyscy ciekawi, skąd wzięli się tutaj ksiądz i pracownik plantacji kawy. Ktoś wie?\n\n– Jesteśmy Brazylijczykami. Tego wymaga od nas państwo.\n\n– To nie do końca poprawna odpowiedź. Tak, wszyscy jesteśmy Brazylijczykami, ale nie, państwo tego od nas nie wymaga. Każe nam natomiast cenić wszystko, co mamy, a to właśnie my tym #italic wszystkim#! jesteśmy." #First part is the motto of the Confederation of the Equator
  culture_brazil.6.a: "Kochana, wspaniała ojczyzno. Wiwat ci, wiwat!"
  brz_perfido: "Pérfido"
  brz_brasil_brasileiro: "Brasil Brasileiro"
@@ -68,7 +68,7 @@
  new_culture_has_25_percent_tt: "Populacja tego obszaru administracyjnego to w co najmniej #variable 25%#! ludność [SCOPE.sCulture('new_national_culture').GetName|l]"
  culture_south_america.1.t: "Narodowe fundamenty"
  culture_south_america.1.d: "Przebudzenie narodu w naszym państwie sprawiło, że wśród czołowych nacjonalistów zrodziła się odrębna tożsamość [SCOPE.sCulture('new_national_culture').GetName|l]."
- culture_south_america.1.f: "– Nasz święty krzyk należy tylko do nas! Usłyszcie dźwięk pękających łańcuchów i ujrzyjcie błogosławioną świątynię wzniesioną ku czci prawa, pokoju i jedności! Jakże błękitne jest niebo i jakże wspaniała ojczyzna!" 
+ culture_south_america.1.f: "– Nasz święty krzyk należy tylko do nas! Usłyszcie dźwięk pękających łańcuchów i ujrzyjcie błogosławioną świątynię wzniesioną ku czci prawa, pokoju i jedności! Jakże błękitne jest niebo i jakże wspaniała ojczyzna!" #this is, like, five national anthems slammed together
  culture_south_america.1.a: "Kultura [SCOPE.sCulture('old_south_american_culture').GetName|l] to przeszłość. Teraz wyraża nas kultura [SCOPE.sCulture('new_national_culture').GetName|l]."
  culture_south_america.1.b: "Jesteśmy spadkobiercami wspanialszego ideału!"
  culture_south_america.2.t: "Wartości narodowe"

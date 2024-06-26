@@ -1,5 +1,5 @@
 ﻿l_polish:
- 
+ #Generic Law Passing Events
  generic_laws.1.t: "Ekscytująca przemowa porywa słuchaczy"
  generic_laws.1.d: "Tego popołudnia przywódca grupy interesu o nazwie [SCOPE.gsInterestGroup('orator_ig_scope').GetName|l] ([SCOPE.sCharacter('orator_ig_leader_scope').GetFullName]) wygłosił porywającą przemowę, przedstawiając argumenty za ustanowieniem nowego prawa ([SCOPE.sLaw('current_law_scope').GetName|l])."
  generic_laws.1.f: "[SCOPE.sCharacter('orator_ig_leader_scope').GetFullNameNoFormatting] potrafi wygłaszać wspaniałe przemowy. Ostatnio jedna z nich miała miejsce na głównym placu w mieście o nazwie [SCOPE.sCharacter('orator_ig_leader_scope').GetCountry.GetCapital.GetCityHubName]. Wszyscy, nawet najbardziej rozgoryczeni polityczni przeciwnicy mówcy, byli pod wrażeniem. A co na to [ROOT.GetCountry.GetNameNoFormatting]? W całym państwie zaczęły już krążyć fragmenty wystąpienia, dolewając oliwy do ognia hucznej debaty."
@@ -21,7 +21,7 @@
  dealing_with_corruption: "Zwalczanie korupcji"
  generic_laws.3.t: "Członkowie opozycji przedstawiają żądania"
  generic_laws.3.d: "Nieco bardziej pragmatyczni przedstawiciele grupy interesu o nazwie [SCOPE.gsInterestGroup('opposition_demands_ig_scope').GetName|l], aktualnie sprzeciwiający się ustanowieniu nowego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]), zadeklarowali, że zmienią stanowisko pod jednym warunkiem. Chcą, aby zastosować wobec nich pewne polityczne ustępstwa. Z drugiej strony przedstawiciele innej grupy interesu – [SCOPE.gsInterestGroup('opposition_demands_supporting_ig_scope').GetName|l] – nie byliby zadowoleni z takiego rozwiązania."
- generic_laws.3.f: "– Kompromis to dobry parasol, ale słaby dach. To taki środek doraźny. Owszem, jest on często roztropny z punktu widzenia polityki partyjnej, ale nie przystoi żadnemu mężowi stanu." 
+ generic_laws.3.f: "– Kompromis to dobry parasol, ale słaby dach. To taki środek doraźny. Owszem, jest on często roztropny z punktu widzenia polityki partyjnej, ale nie przystoi żadnemu mężowi stanu." #James Russell Lowell
  generic_laws.3.a: "Zgódźmy się na ich żądania. Ustawa musi przejść."
  generic_laws.3.b: "Tylko słabeusze idą na kompromisy."
  generic_laws.3.c: "To doskonała okazja, aby przerwać impas, w jakim utknęła ustawa."
@@ -41,7 +41,7 @@
  renowned_playwright: "Uznany dramaturg"
  generic_laws.5.t: "Biurokratyczne nieporozumienie"
  generic_laws.5.d: "Ustawodawcy pracujący nad wprowadzeniem nowego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]) uwikłali się w niezwykle skomplikowane sprawy natury biurokratycznej, co niemal całkowicie wstrzymało pracę nad reformą."
- generic_laws.5.f: "W pełni rozwinięty aparat biurokracji ma się do innych organizacji dokładnie tak, jak zmechanizowane modele produkcji mają się do tych niezmechanizowanych. Znaczy to tyle, że trybiki muszą się zazębiać – w przeciwnym razie będą zgrzytać, aż w końcu maszyna się zepsuje." 
+ generic_laws.5.f: "W pełni rozwinięty aparat biurokracji ma się do innych organizacji dokładnie tak, jak zmechanizowane modele produkcji mają się do tych niezmechanizowanych. Znaczy to tyle, że trybiki muszą się zazębiać – w przeciwnym razie będą zgrzytać, aż w końcu maszyna się zepsuje." #Partially Max Weber
  generic_laws.5.a: "Do licha z tym zagmatwanym systemem prawnym!"
  generic_laws.5.b: "Ogranicz biurokrację choć w małym stopniu."
  mired_in_bureaucracy: "Uwikłani w biurokracji"
@@ -112,7 +112,7 @@
  dishonest_methods: "Nieuczciwe metody"
  underhanded_tactics: "Podstępne taktyki"
  by_the_book: "Zgodnie z zasadami"
- 
+ #Tanzimat Events
  je_sick_man_bureaucracy: "Tanzimat: reforma biurokratyczna"
  sick_man.2.e: "Filarem naszego imperium jest papier."
  je_sick_man_bureaucracy_reason: "Nasza biurokracja to mieszanina przestarzałych praw i systemów, a skorumpowani niezależni bejowie ledwo rządzą prowincjami naszego imperium. Jeśli chcemy przezwyciężyć liczne wyzwania, z którymi zmaga się nasza władza, musimy zmodernizować system administracyjny."
@@ -172,7 +172,7 @@
  deploying_the_army: "Interwencja armii"
  tanzimat_events.7.t: "[SCOPE.sState('massacre_state_scope').GetCityHubName] – masakra w mieście"
  tanzimat_events.7.d: "O zgrozo! Tłum zbuntowanych przedstawicieli społeczności wyznającej [SCOPE.sReligion('sunni_religion').GetName|l] w akcie bezlitosnej furii zaatakował swoich sąsiadów – wyznawców religii o nazwie [SCOPE.sReligion('massacre_victims').GetName|l]. [SCOPE.sState('massacre_state_scope').GetCityHubName] to teraz miasto o ulicach czerwonych od krwi. Wiele z jego dzielnic płonie."
- tanzimat_events.7.f: "– Kto umyślnie zabije innego wierzącego, tego czeka piekło, gdzie trafi na wieki. Bóg potępi go i odtrąci, skazując na wielkie cierpienie." 
+ tanzimat_events.7.f: "– Kto umyślnie zabije innego wierzącego, tego czeka piekło, gdzie trafi na wieki. Bóg potępi go i odtrąci, skazując na wielkie cierpienie." #An-Nisa 4:93, al-Quran
  tanzimat_events.7.a: "Rozpędź tłumy. Jeśli trzeba będzie do nich strzelać – strzelaj."
  tanzimat_events.7.b: "To powinno ostudzić zapędy tych niedoszłych zdrajców."
  tanzimat_events.8.t: "W obszarze administracyjnym o nazwie [SCOPE.sState('orderrestored_state_scope').GetName] znów nastał pokój"
@@ -193,21 +193,21 @@
  tanzimat_events.10.a: "Ci, których na to stać, mogą płacić podatek od zwolnienia ze służby wojskowej."
  tanzimat_events.10.b: "Obowiązek odbycia służby wojskowej obejmuje wszystkich poddanych, niezależnie od ich wyznania."
  draft_exemption_tax: "Bedel-i Askeri (podatek od zwolnienia ze służby wojskowej)"
- 
+ ##################### Production Events
  notification_country_shared_plastics_tech_name: "[SCOPE.sCountry('plastic_origin').GetName] – dzięki temu państwu dowiedzieliśmy się, czym jest plastik"
  notification_country_shared_plastics_tech_desc: "[SCOPE.sCountry('plastic_neighbor').GetCapital.GetCityHubName] – do miasta przybyła delegacja naukowców z państwa o nazwie [SCOPE.sCountry('plastic_origin').GetNameNoFormatting]. Uczeni przywieźli ze sobą schematy umożliwiające produkcję wyrobów plastikowych i rozwój tej gałęzi przemysłu."
  notification_country_shared_plastics_tech_tooltip: "#header $notification_country_shared_plastics_tech_name$#!\n$TOOLTIP_DELIMITER$\n$notification_country_shared_plastics_tech_desc$"
  notification_country_shared_radio_tech_name: "[SCOPE.sCountry('radio_production_origin').GetName] – dzięki temu państwu dowiedzieliśmy się, czym są odbiorniki radiowe"
  notification_country_shared_radio_tech_desc: "[SCOPE.sCountry('radio_production_neighbor').GetCapital.GetCityHubName] – do miasta przybyła delegacja naukowców z państwa o nazwie [SCOPE.sCountry('radio_production_origin').GetNameNoFormatting]. Uczeni przywieźli ze sobą schematy umożliwiające produkcję odbiorników radiowych i rozwój tej gałęzi przemysłu."
  notification_country_shared_radio_tech_tooltip: "#header $notification_country_shared_radio_tech_name$#!\n$TOOLTIP_DELIMITER$\n$notification_country_shared_radio_tech_desc$"
- 
- notification_warlord_china_explosion_point_add_name: "[SCOPE.GetRootScope.GetCountry.GetName] – destabilizacja."
- notification_warlord_china_explosion_point_add_desc: "Niewłaściwe podejście do spraw dotyczących naszego państwa doprowadziło do delegitymizacji naszej władzy, przez co nasze państwo – [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] – jest o krok od całkowitego załamania."
+ ##################### Warlord China
+ notification_warlord_china_explosion_point_add_name: "[SCOPE.GetRootScope.GetCountry.GetName] – stabilizacja."
+ notification_warlord_china_explosion_point_add_desc: "Umiejętne kierowanie państwem zagwarantowało nam legitymizację władzy w oczach narodu, dzięki czemu państwo stopniowo oddala się od widma załamania."
  notification_warlord_china_explosion_point_add_tooltip: "#header $notification_warlord_china_explosion_point_add_name$#!\n$TOOLTIP_DELIMITER$\n$notification_warlord_china_explosion_point_add_desc$"
- notification_warlord_china_explosion_point_remove_name: "[SCOPE.GetRootScope.GetCountry.GetName] – stabilizacja."
- notification_warlord_china_explosion_point_remove_desc: "Umiejętne kierowanie państwem zagwarantowało nam legitymizację władzy w oczach narodu, dzięki czemu państwo stopniowo oddala się od widma załamania."
+ notification_warlord_china_explosion_point_remove_name: "[SCOPE.GetRootScope.GetCountry.GetName] – destabilizacja."
+ notification_warlord_china_explosion_point_remove_desc: "Niewłaściwe podejście do spraw dotyczących naszego państwa doprowadziło do delegitymizacji naszej władzy, przez co nasze państwo – [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] – jest o krok od całkowitego załamania."
  notification_warlord_china_explosion_point_remove_tooltip: "#header $notification_warlord_china_explosion_point_remove_name$#!\n$TOOLTIP_DELIMITER$\n$notification_warlord_china_explosion_point_remove_desc$"
- 
+ ##################### Boxer Rebellion
  je_boxer_rebellion: "Powstanie bokserów"
  je_boxer_rebellion_reason: "Kompromitująca utrata chińskich ziem na rzecz zagranicznych „barbarzyńców” doprowadziła do powstania licznych milicji inspirujących się sztukami walki. Członkowie tych milicji chcą oczyścić państwo z zagranicznych wpływów.\n\nNiewykluczone, że jeśli nie uda nam się zrealizować wizji milicji, nasze państwo – [ROOT.GetCountry.GetName] – będzie musiało liczyć się z drastycznymi konsekwencjami."
  qing_owns_all_han_states_tt: "Posiada wszystkie [Concept('concept_homeland', '$concept_homelands$')|l], z których wywodzi się kultura [GetCulture('han').GetName|l], przy czym żadna z tych [Concept('concept_homeland', 'ojczyzn')] nie jest [Concept('concept_split_state', 'regionem podzielonym')]"
@@ -215,41 +215,41 @@
  dyn_c_empire_of_china_adj: "Chińskie"
  boxer_rebellion_events.1.t: "Ruch Yihetuan"
  boxer_rebellion_events.1.d: "Kultura [SCOPE.sCulture('han_culture').GetName|l] – przedstawiciele tej kultury są niezadowoleni, ponieważ nasze państwo, [ROOT.GetCountry.GetName], stało się miejscem, w którym zamieszkuje coraz więcej cudzoziemców. Wobec zaistniałej sytuacji tworzą oni milicje, których zadaniem ma być wygnanie „barbarzyńców” z powrotem za morze. Wiele osób twierdzi, że jeśli [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName] nie wesprze tego ruchu, kultura [SCOPE.sCulture('manchu_culture').GetName|l] straci poparcie, jakim cieszy się u władzy."
- boxer_rebellion_events.1.f: "– Gdy zagraniczni barbarzyńcy głoszą kazania o swojej religii, twierdzą, że zachęcają ludzi do czynienia dobra. W rzeczywistości jednak zakłócają pracę naszego rządu, powodują zamęt, niszczą nasze zwyczaje i oszukują nasz naród. Innymi słowy chcą, aby i Chińczycy stali się barbarzyńcami." 
+ boxer_rebellion_events.1.f: "– Gdy zagraniczni barbarzyńcy głoszą kazania o swojej religii, twierdzą, że zachęcają ludzi do czynienia dobra. W rzeczywistości jednak zakłócają pracę naszego rządu, powodują zamęt, niszczą nasze zwyczaje i oszukują nasz naród. Innymi słowy chcą, aby i Chińczycy stali się barbarzyńcami." #Boxer era Han school teacher
  boxer_rebellion_events.1.a: "Przywrócić dynastię Qing! Zniszczyć obcych!"
  boxer_rebellion_events.1.b: "Ci fanatycy zwiastują naszą zagładę."
  boxer_rebellion_events.2.t: "Mandat niebios"
  boxer_rebellion_events.2.d: "Żółta flaga z wizerunkiem smoka ponownie powiewa na dachach w całych Chinach. Od błyszczących pereł wzdłuż południowej delty aż po wielkie metropolie nad Morzem Wschodniochińskim – skaza imperializmu na dobre zniknęła z naszych brzegów."
- boxer_rebellion_events.2.f: "Wszystkie obce diabły\n\nCo do ostatniego wygnamy\n\n[ROOT.GetCountry.GetNameNoFormatting] to jedność\n\nPokoju wreszcie zaznamy" 
+ boxer_rebellion_events.2.f: "Wszystkie obce diabły\n\nCo do ostatniego wygnamy\n\n[ROOT.GetCountry.GetNameNoFormatting] to jedność\n\nPokoju wreszcie zaznamy" #Boxer poem
  boxer_rebellion_events.2.a: "Niech [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName] rządzi nawet i dziesięć tysięcy lat!"
  boxer_rebellion_events.2.b: "Niech nasze państwo – [ROOT.GetCountry.GetName] – przetrwa nawet i dziesięć tysięcy lat!"
  revere_the_emperor: "Chwała cesarzowi"
  united_in_righteousness: "Zjednoczeni w prawości"
  boxer_rebellion_events.3.t: "Qing i Han"
  boxer_rebellion_events.3.d: "Tam, gdzie dawniej było słychać żarliwe okrzyki nawołujące do przywrócenia dynastii Qing, teraz wybrzmiewają slogany przeciwko zbiorowości, jaką stanowi kultura [SCOPE.sCulture('manchu_culture').GetName|l]. Nie udało nam się zrealizować wizji bokserów, przez co ludność [SCOPE.sCulture('han_culture').GetName|l] nie jest już nam bliska – i nigdy więcej już nie będzie."
- boxer_rebellion_events.3.f: "– Ciągle powtarzam, że tak naprawdę jesteśmy niewolnikami Mandżurów cierpiącymi z powodu ich tyranii. Jednocześnie nękają nas zagraniczne mocarstwa, a zatem jesteśmy niewolnikami po dwakroć." 
+ boxer_rebellion_events.3.f: "– Ciągle powtarzam, że tak naprawdę jesteśmy niewolnikami Mandżurów cierpiącymi z powodu ich tyranii. Jednocześnie nękają nas zagraniczne mocarstwa, a zatem jesteśmy niewolnikami po dwakroć." #Zou Rong
  boxer_rebellion_events.3.a: "Czy te upokorzenia kiedyś się skończą?"
  boxer_rebellion_events.3.b: "Miasto [ROOT.GetCountry.GetCapital.GetNameNoFormatting] zbroi się, buntuje i przeprowadza szturm na Zakazane Miasto."
  boxer_rebellion_events.3.tt1: "Mandżurowie zostali pozbawieni władzy, a książę Yansheng – bezpośredni potomek Konfucjusza – zasiada na cesarskim tronie."
  boxer_rebellion_events.4.t: "Upadek dynastii Qing"
  boxer_rebellion_events.4.d: "Jednym pociągnięciem pióra zakończono dwa tysiąclecia cesarskich rządów. Podczas gdy ostatni cesarz reprezentujący zbiorowość, jaką stanowi kultura [SCOPE.sCulture('manchu_culture').GetName|l], jest eskortowany z Zakazanego Miasta, świat zwraca wzrok na wschód. Jak nasze państwo, [ROOT.GetCountry.GetName], będzie funkcjonować w nowej epoce?"
- boxer_rebellion_events.4.f: "– Aby odzyskać niepodległość, najpierw musimy odbudować naród chiński. Aby odbudować naród chiński, musimy wypędzić mandżurskich barbarzyńców z powrotem w Góry Wschodniomandżurskie. Aby zaś wypędzić barbarzyńców, musimy obalić tyraniczny, dyktatorski, paskudny i skorumpowany rząd dynastii Qing." 
+ boxer_rebellion_events.4.f: "– Aby odzyskać niepodległość, najpierw musimy odbudować naród chiński. Aby odbudować naród chiński, musimy wypędzić mandżurskich barbarzyńców z powrotem w Góry Wschodniomandżurskie. Aby zaś wypędzić barbarzyńców, musimy obalić tyraniczny, dyktatorski, paskudny i skorumpowany rząd dynastii Qing." #Sun Yat Sen
  boxer_rebellion_events.4.a: "[SCOPE.sCulture('manchu_culture').GetName] tyrania w końcu ustała."
  boxer_rebellion_events.4.b: "Teraz nadszedł czas na pojednanie."
- 
- election_contextual_events.1.t: "Żywność a wybory" 
+ ##################### Contextual Election Events
+ election_contextual_events.1.t: "Żywność a wybory" #High Food Prices
  election_contextual_events.1.d: "W obliczu gwałtownego wzrostu cen obejmującego towary rodzaju [SCOPE.sGoods('basic_foodstuff').GetName|l] jedna z partii – [SCOPE.sParty('high_food_price_party').GetName] – zmaga się z bezwzględnym naciskiem ze strony opozycji, która oskarża ją o bezmyślne szkodzenie interesowi społecznemu."
  election_contextual_events.1.f: "– [SCOPE.sGoods('basic_foodstuff').GetNameNoFormatting] to towar zbyt drogi? Nonsens! W czasach mojej młodości radziliśmy sobie, mając jeszcze mniej niż wy, a pracowaliśmy dwa razy ciężej! Te „skandaliczne” rzekomo ceny żywności są tylko wymysłem rozhisteryzowanych gospodyń domowych!"
  election_contextual_events.1.a: "Niech jedzą coś innego."
  election_contextual_events.1.b: "Sfinansujmy jadłodajnie dla ubogich. Człowiek z pełnym brzuchem popełnia mniej błędów."
  alms_for_the_poor: "Jałmużna dla ubogich"
- election_contextual_events.2.t: "Przyszłość w długach" 
+ election_contextual_events.2.t: "Przyszłość w długach" #High Debts
  election_contextual_events.2.d: "Za sprawą twierdzeń, że [SCOPE.sParty('public_debt_party').GetName] to partia, która przez swoją politykę opartą na nadmiernym zaciąganiu pożyczek pogrążyła kolejne pokolenia w długach, ugrupowanie to straciło wiele głosów."
- election_contextual_events.2.f: "– Błogosławieni niech będą młodzi, albowiem to oni odziedziczą dług publiczny." 
+ election_contextual_events.2.f: "– Błogosławieni niech będą młodzi, albowiem to oni odziedziczą dług publiczny." #Herbert Hoover (Might remove this one because of slight anachronism, but the quote IS quite funny)
  election_contextual_events.2.a: "Pożyczki są podstawą każdej dobrze prosperującej gospodarki."
  election_contextual_events.2.b: "Znajdźcie kozła ofiarnego – lud chce mieć winnego."
  fiscally_irresponsible: "Nieodpowiedzialność finansowa"
- election_contextual_events.3.t: "Pacyfista potępia wojnę" 
+ election_contextual_events.3.t: "Pacyfista potępia wojnę" #Waging a War of Aggression
  election_contextual_events.3.d: "[SCOPE.sCharacter('pacifist_ig_leader').GetFullName], znany z pacyfistycznych poglądów przywódca jednej z grup interesu ([SCOPE.gsInterestGroup('opposition_pacifist_ig').GetName|l]), przypuszcza stanowczy atak, którego celem jest partia należąca do rządu – [SCOPE.sParty('government_war_party').GetName]. Twierdzi, że [ROOT.GetCountry.GetAdjectiveNoFormatting|l] armia biorąca udział w jednej z wojen ([SCOPE.sWar('pacifist_war').GetNameNoFormatting|l]) dopuściła się pod ich wodzą rażących okrucieństw."
  election_contextual_events.3.f: "– My… Ja… dostałem rozkaz zebrania zakładników, sir. Byli wśród nich starzy, byli młodzi… Niektórzy w wieku mojego syna…Wolni strzelcy, jak ich zwano, atakowali nasze oddziały. Mordercy – tak mówił o nich mój dowódca. Bandyci o sercach przesiąkniętych złem, ze strzelbami w rękach. Zakładnicy mieli ich odstraszyć!\n\nGdy jednak straciliśmy tamtego wieczora trzeciego żołnierza, dowódca kazał mi zebrać zakładników… zabrać ich do stodoły… i… Boże, wybacz mi…"
  election_contextual_events.3.a: "Nasze oddziały dopuściły się czegoś takiego?!"
@@ -259,40 +259,40 @@
  martyrized_pacifist: "Pacyfista-męczennik"
  election_contextual_events.3.tt.1: "Zatailiśmy antypatriotyczne pomówienia przed opinią publiczną."
  election_contextual_events.3.tt.2: "Doniesienia wyciekły mimo naszych starań."
- election_contextual_events.4.t: "Komu bije dzwon" 
+ election_contextual_events.4.t: "Komu bije dzwon" #Old IG leader
  election_contextual_events.4.d: "[SCOPE.sCharacter('decrepit_leader').GetFullName], mający już swoje lata przywódca jednej z grup interesu ([SCOPE.gsInterestGroup('decrepit_leader_ig').GetName|l]), niespodziewanie umiera w trakcie kampanii, przez co jego partia – [SCOPE.sParty('decrepit_leader_party').GetName] – traci czołowego polityka. Wszyscy mówią teraz tylko o tym, kto [SCOPE.sCharacter('decrepit_leader').GetCustom('PL_go_ja')] zastąpi."
  election_contextual_events.4.f: "– Niespodziewana śmierć? Też mi coś! Ten chodzący trup dawno już powinien był spotkać się ze stwórcą. Ta partia potrzebuje nowej krwi!"
  election_contextual_events.4.a: "Postaw na popularnego, choć niekompetentnego kandydata."
  election_contextual_events.4.b: "Przywódcą zostaje osoba zdeterminowana, choć młoda i wyniosła."
  well_connected: "Dobre połączenie"
  imperious_upstart: "Szybka kariera"
- election_contextual_events.5.t: "Kraina potrzeby" 
+ election_contextual_events.5.t: "Kraina potrzeby" #Low Standard of Living
  election_contextual_events.5.d: "[SCOPE.sCharacter('low_sol_opposition_leader').GetFullName], przywódca jednej z grup interesu ([SCOPE.gsInterestGroup('low_sol_opposition_ig').GetName|l]), publicznie głosi, iż [SCOPE.sParty('low_sol_party').GetName] to partia, która nieudolnie sprawuje władzę. Jako swój argument przedstawia niski poziom życia w państwie i uważa, że tylko [SCOPE.sCharacter('low_sol_opposition_leader').GetCustom('PL_jego_jej')] partia, [SCOPE.sParty('low_sol_opposition_party').GetName], ma wolę, aby zmienić ten stan rzeczy."
  election_contextual_events.5.f: "– Trudno opisać ponure obrazy, które ukazały się moim oczom podczas dzisiejszej podróży. Kiedyś poważani żołnierze walczący w błocie o ochłapy; zrozpaczone rodziny tłoczące się na zakurzonych ulicach wśród kamienic. Niedożywienie, ubóstwo, beznadzieja.\n\nDrodzy obywatele, taki właśnie los zgotowali nam przedstawiciele partii, którą znamy pod nazwą [SCOPE.sParty('low_sol_party').GetNameNoFormatting]!"
  election_contextual_events.5.a: "Dlaczego obwinia się nas? Czy chociaż próbowali być mniej biedni?"
  election_contextual_events.5.b: "To tylko kilka nieudolnych osób w administracji – nic więcej."
  indifferent_to_destitution: "Obojętność wobec nędzy"
  defender_of_the_downtrodden: "Obrońca uciśnionych"
- election_contextual_events.6.t: "Kraina obfitości" 
+ election_contextual_events.6.t: "Kraina obfitości" #High Standard of Living
  election_contextual_events.6.d: "Ze względu na wysoki poziom życia w państwie lud jest zadowolony ze status quo, dzięki czemu [SCOPE.sCharacter('high_sol_leader').GetFullName] i [SCOPE.sCharacter('high_sol_leader').GetCustom('PL_jego_jej')] sprawująca rządy partia – [SCOPE.sParty('high_sol_party').GetName] – mają przewagę w trwających wyborach."
  election_contextual_events.6.f: "– Zmiana? A po co? Mam pełny brzuch, zadowoloną żonę i dobrą pracę. Po co mi gonić za nie wiadomo czym?"
  election_contextual_events.6.a: "Skoro wszystko jest w porządku, po cóż cokolwiek naprawiać?"
  election_contextual_events.6.b: "[SCOPE.sCharacter('high_sol_leader').GetFullNameNoFormatting] – wychwalaj tego przywódcę za jego osiągnięcia."
  champion_of_prosperity: "Czempion dobrobytu"
  patrons_of_prosperity: "Patroni dobrobytu"
- election_contextual_events.7.t: "Zaproszenia do koalicji" 
+ election_contextual_events.7.t: "Zaproszenia do koalicji" #Winning a War
  election_contextual_events.7.d: "[SCOPE.sWar('ongoing_election_war').GetName] – ponieważ nasze państwo odnosi sukcesy w tej wojnie, naszych obywateli ogarnął wojenny szał. Rządząca obecnie partia, [SCOPE.sParty('ongoing_election_war_party').GetName], rozsyła listy, udzielając poparcia tym kandydatom do parlamentu, którzy zdaniem jej przedstawicieli wspierają działania wojenne. Ma to zachęcić głosujących patriotów do wsparcia ich sprawy."
  election_contextual_events.7.f: "– Do [SCOPE.sCharacter('pacifist_ig_leader').GetCustom('PL_niego_niej')] żaden list nie przyszedł, zgadza się? Ta osoba to pewnie jakiś tchórzliwy, pozbawiony krzty charakteru pacyfista. Nasi chłopcy giną na polu walki, a [SCOPE.sCharacter('pacifist_ig_leader').GetSheHe] co? Siedzi i przegląda stosy papierów, czekając tylko na odpowiedni moment, żeby roztrwonić nasze okupione krwią zyski! Ludzie potrzebują kogoś, kto będzie za nich walczyć – tak jak oni walczą za nas."
  election_contextual_events.7.a: "– Zbierzcie się przy naszej partii… To znaczy fladze!"
  election_contextual_events.7.b: "Służycie nam czy naszym przeciwnikom?"
  jingoist_rhetoric: "Retoryka agresywnych nacjonalistów"
  dove_of_peace_in_time_of_war: "Gołąbek pokoju w czasie wojny"
- election_contextual_events.8.t: "Strumień dżinu i piwa" 
+ election_contextual_events.8.t: "Strumień dżinu i piwa" #Enacting Temperance Policies
  election_contextual_events.8.d: "[SCOPE.sParty('temperance_party').GetName] – ze względu na jej negującą spożywanie alkoholu politykę szanse tej partii na wygraną w wyborach maleją. Rzesze spragnionych wyborców przyciąga konkurencja, [SCOPE.sParty('anti_temperance_party').GetName], która daje im nadzieję, że zmiany w rządzie przyczynią się do zniesienia ograniczeń."
  election_contextual_events.8.f: "– Oprzeć się pokusie? Najbardziej kusi mnie, żeby skopać te wasze moralizatorskie zadki. Chcę się napić, to się napiję. Jeśli mi nie pozwolicie – pójdę do tych, którzy nie będą mieli nic przeciw."
  election_contextual_events.8.a: "Nie ma piwa, nie ma głosu!"
  election_contextual_events.8.b: "Przeprowadźcie kampanię oczerniającą tych degeneratów."
- 
+ ##################### Military JEs
  je_rifling: "Broń gwintowana"
  je_rifling_reason: "Chociaż koncepcja luf gwintowanych znana jest od wieków, dopiero niedawno postęp w przemyśle i technologii umożliwił ich produkcję i dystrybucję na dużą skalę, zapewniając naszym siłom zbrojnym niespotykaną dotąd celność."
  je_machine_guns: "Automatyczne karabiny maszynowe"
@@ -306,9 +306,9 @@
  arsenal_proving_ground: "Poligon do testowania arsenału"
  military_tech_events.402.t: "Diabelski pędzel"
  military_tech_events.402.d: "[SCOPE.sWar('machine_gun_war').GetName] – [SCOPE.sCharacter('machine_gun_general').GetPrimaryRoleTitle] [SCOPE.sCharacter('machine_gun_general').GetFullName] wykorzystuje w tej wojnie specjalne oddziały wyposażone w karabiny maszynowe, które dają naszemu wojsku przewagę na polu bitwy. Całe plutony wroga padają jak muchy, jeszcze zanim zdążą dotrzeć do naszych pozycji."
- military_tech_events.402.f: "– Gdyby ktoś mi powiedział, że człowiek stworzy kiedyś broń, która wciągnie taśmę nabojową na miejsce, wyciągnie z niej naładowany nabój, przesunie go przed lufę, wepchnie go w nią, prawidłowo zamknie komorę zamkową, odciągnie kurek, pociągnie za spust, wystrzeli nabój, wysunie pustą łuskę i wypchnie ją z mechanizmu, wsunie nowy nabój na miejsce, a następnie powtórzy wszystkie te czynności jeszcze raz w ciągu dziesiątej części sekundy, to do głowy by mi nie przyszło, żeby uwierzyć w te słowa.\n\nAle to prawda, widzieliśmy to na własne oczy." 
+ military_tech_events.402.f: "– Gdyby ktoś mi powiedział, że człowiek stworzy kiedyś broń, która wciągnie taśmę nabojową na miejsce, wyciągnie z niej naładowany nabój, przesunie go przed lufę, wepchnie go w nią, prawidłowo zamknie komorę zamkową, odciągnie kurek, pociągnie za spust, wystrzeli nabój, wysunie pustą łuskę i wypchnie ją z mechanizmu, wsunie nowy nabój na miejsce, a następnie powtórzy wszystkie te czynności jeszcze raz w ciągu dziesiątej części sekundy, to do głowy by mi nie przyszło, żeby uwierzyć w te słowa.\n\nAle to prawda, widzieliśmy to na własne oczy." #Francis Pratt
  military_tech_events.402.a: "Nasi wrogowie padają jak trawa pod ostrzem kosy."
- military_tech_events.402.b: "Cokolwiek by się działo, my mamy karabin maszynowy Maxim, a oni – nie." 
+ military_tech_events.402.b: "Cokolwiek by się działo, my mamy karabin maszynowy Maxim, a oni – nie." #Hilaire Belloc
  military_tech_events.402.c: "[SCOPE.sCharacter('machine_gun_general').GetFullName] potrafi obsługiwać to narzędzie jak nikt inny."
  machine_gun_expertise_low: "Specjalista ds. karabinów maszynowych"
  machine_gun_expertise_high: "Specjalista ds. karabinów maszynowych"
@@ -334,12 +334,12 @@
  safer_shores: "Bezpieczniejsze wybrzeże"
  defensive_doctrine: "Obronna doktryna marynarki wojennej"
  quantity_over_quality: "Nie jakość, lecz ilość"
- 
+ ##################### Indonesia
  net_expand_east_indies: "Rozbuduj administrację Indii Wschodnich."
  net_expand_east_indies_desc: "Posiadamy w Indiach Wschodnich ziemie, którymi lepiej zarządzałoby nasze kolonialne państwo poddańcze."
  expand_east_indies_tt: "Przekaż kontrolę nad wszystkimi terenami lub wasalami w Indiach Wschodnich naszej kolonii."
  expand_dei_cooldown_tt: "Nie rozbudowywano administracji Indii Wschodnich przez 2 lata"
- malay_culture: "Kultura malajska" 
+ malay_culture: "Kultura malajska" #includes a lot of cultures that are not Malay. Might revise in future
  IDN: "Indonezja"
  IDN_ADJ: "Indonezyjska"
  dyn_c_majapahit: "Majapahit"
@@ -354,20 +354,20 @@
  dyn_c_boni_adj: "Bo-Ni"
  dyn_c_mataram: "Mataram"
  dyn_c_mataram_adj: "Mataramska"
- 
+ ##################### Arabia
  yemenite: "Jemeńska"
  dyn_c_qasimid_state: "Państwo Kasimidów"
  dyn_c_qasimid_state_adj: "Kasimidzka"
- 
+ ##################### India
  BHT: "Indie"
  BHT_ADJ: "Indyjska"
- 
+ #################### Sudan
  dyn_c_funj_state: "Fundż"
  dyn_c_funj_state_adj: "Fundżyjska"
- 
+ #################### Misc. Journal Entries
  has_activated_dynamite: "Aktywowano: Dynamit"
  has_activated_public_trading: "Aktywowano: Podmiot notowany na giełdzie"
- 
+ #################### Poland
  je_christ_of_nations: "Chrystus narodów"
  je_christ_of_nations_reason: "#italic Tak jak Chrystus został umęczon przez Rzymian, tak i Polska cierpiała z rąk swoich wrogów. I tak jak Chrystus ma nadejść ponownie w swej chwale, tak i Polsce przepowiedziane jest to samo.#!\n\nChoć ostatni niepodległy obszar administracyjny, którego kulturą jest kultura [SCOPE.sCulture('polish_culture_scope').GetName|l], zniknął z mapy w następstwie #bold trzech rozbiorów#! przeprowadzonych pod koniec XVIII wieku, marzenie o odrodzeniu państwa wciąż żyje w Polakach zamieszkujących tereny od Poznania aż po Lwów.\n\n#bold Dziedzictwo Rzeczpospolitej#!\nW przypadku ustanowienia całkowicie niepodległego państwa polskiego – w ten czy inny sposób – będziemy mogli połączyć je z naszym państwem, o ile [SCOPE.GetRootScope.GetCountry.GetName] to też państwo niepodległe."
  christ_of_nations_button: "Wspieraj polskich radykałów za granicą"
@@ -486,7 +486,7 @@
  resource_extraction_charter_modifier: "Przedsiębiorstwa kolonialne"
  colonial_administration_events.2.t: "Odcięta kończyna"
  colonial_administration_events.2.d: "[ROOT.GetCountry.GetName] – w tym państwie wybuchły potężne protesty w związku z zerwaniem więzów z metropolią. Nasze nieliczne siły kolonialne mają problemy z opanowaniem zamieszek."
- colonial_administration_events.2.f: "– [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')] chce, byśmy byli wolni, a nie stanowili część spadku lub posiadłości. [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')] mi zatem świadkiem, że nigdy więcej nie będziemy niewolnikami ani majątkiem, którym można do woli dysponować." 
+ colonial_administration_events.2.f: "– [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')] chce, byśmy byli wolni, a nie stanowili część spadku lub posiadłości. [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')] mi zatem świadkiem, że nigdy więcej nie będziemy niewolnikami ani majątkiem, którym można do woli dysponować." #Urabi
  colonial_administration_events.2.a: "Niech [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')] ocali państwo o nazwie [ROOT.GetCountry.GetNameNoFormatting], bowiem nam może nie starczyć do tego środków."
  colony_alone_modifier: "Kolonia bez panów"
  acw_events.9.t_1: "Gwiazdy i pasy"

@@ -1,5 +1,6 @@
 ﻿l_polish:
- 
+ #Preemptively named 6 ahead of a merge-conflict with a Surprise 5.
+ #For the Stall Events
  gagging_the_opposition: "Prawnik z kneblem"
  reasonable_exercise_of_authority: "Załatane luki w prawie ograniczającym swobodę wypowiedzi"
  bridle_gagged: "Upokorzenie"
@@ -30,7 +31,7 @@
  forgot_bread_prices: "Nie na bieżąco"
  book_yeeter: "Czempion uprzejmości"
  closeted_skeletons: "Brudne tajemnice"
- 
+ #agitator_stall. events; will later expand to include agitator_debate. and agitator_advance. decades.
  agitator_legal_events.1.t: "Tyrada wieków"
  agitator_legal_events.1.d: "[SCOPE.sState('capital_scope').GetCityHubName] – ruch uliczny w tym mieście został wstrzymany, ponieważ pewna osoba znana jako [SCOPE.sCharacter('opposing_agitator').GetFullName] zebrała tłum ludzi w jednej z głównych alei, gdzie wygłosiła przyprawiającą o mdłości tyradę na temat rządowej propozycji dotyczącej prawa o nazwie [SCOPE.sLaw('current_law_scope').GetName|l]. Z powodu tej blokady przedstawiciele władzy ustawodawczej nie zdołali osiągnąć kworum."
  agitator_legal_events.1.f: "– Co więcej, biorąc pod uwagę akapit czwarty odnoszący się do prawnej definicji słowa „wylew”, w aktualnej wersji dokumentu nie określono, o jaki wylew właściwie chodzi. Wiele osób mogłoby pomyśleć, że o wystąpienie rzeki z jej brzegów, podczas gdy ktoś inny może uznać, że miano tu na myśli schorzenie, które dopada osoby starsze i pechowców."
@@ -85,7 +86,7 @@
  agitator_legal_events.10.f: "– Ta godna pożałowania sytuacja jest poniżej godności tego grona. Należy wyrazić wotum nieufności w związku z tą gangrenowatą plamą na naszym honorze, bo inaczej wszyscy poniesiemy konsekwencje."
  agitator_legal_events.10.a: "Poprzyjmy wniosek o wotum nieufności i szybko je uchwalmy."
  agitator_legal_events.10.b: "[SCOPE.sCharacter('opposing_agitator').GetInterestGroup.GetName] – czas znaleźć kilka trupów w szafie tej grupy interesu."
- 
+ ## Debate Modifiers
  middle_meeter: "Otwartość na kompromis"
  rumours_going_around: "Paskudne plotki"
  duplicitous: "Dwulicowość"
@@ -109,7 +110,8 @@
  ignored_provisions: "Sugerowana pomoc została zignorowana"
  disadvantageous_favoritism: "Niekorzystna protekcja"
  architect_of_change: "Architekt zmian"
- 
+ modifier_dissidents_splitting: "Burzliwe członkostwo"
+ ## Debate Events
  agitator_legal_events.11.t: "Właściwie to słuszna uwaga…"
  agitator_legal_events.11.d: "Debaty na temat spornego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]) trwają, tymczasem polemika, w którą wdaje się [SCOPE.sCharacter('opposing_agitator').GetFullName], obnażyła małą, aczkolwiek potencjalnie katastrofalną w skutkach wadę. Trzeba zmienić treść ustawy."
  agitator_legal_events.11.f: "– Naprawdę? Według tego prawa zabronione było puszczanie latawców w miejscach publicznych w sytuacji, gdy przeszkadzało to innym osobom? Nic dziwnego, że się z tego wycofano.\n\n– Brzmi to dość nędznie, szczerze mówiąc."
@@ -122,10 +124,10 @@
  agitator_legal_events.12.b: "Zniesławmy opozycję, aby wszyscy o niej zapomnieli."
  agitator_legal_events.12.c: "Idziemy naprzód bez nich. Możemy wygrać."
  agitator_legal_events.13.t: "Ultimatum"
- agitator_legal_events.13.d: "Grupa interesu o nazwie [SCOPE.sCharacter('supporting_agitator').GetInterestGroup.GetName|l] wystosowała wobec persony, którą jest [SCOPE.sCharacter('supporting_agitator').GetFullName], surowe ultimatum w związku z podporządkowywaniem się partii w kwestii propozycji ustanowienia spornego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]). [SCOPE.sCharacter('supporting_agitator').GetFullName] za wszelką cenę chce jednak stawiać opór."
+ agitator_legal_events.13.d: "Grupa interesu o nazwie [SCOPE.sCharacter('supporting_agitator').GetInterestGroup.GetName|l] wystosowała wobec persony, którą jest [SCOPE.sCharacter('supporting_agitator').GetFullName], surowe ultimatum dotyczące podporządkowania się woli grupy w kwestii sprzeciwu wobec spornego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]). [SCOPE.sCharacter('supporting_agitator').GetFullName] za wszelką cenę chce jednak stawiać opór."
  agitator_legal_events.13.f: "Sprawa ta podzieliła członków zgromadzenia – i to z ich własnej winy. Tymczasem omawiany problem wywołał negatywne skutki. Całą tę sytuację, w której stawką jest duma, napędza czysty upór. Nie będzie żadnych postępów, dopóki w porę nie znajdzie się rozwiązania."
  agitator_legal_events.13.a: "Nigdy nie należy przeszkadzać przeciwnikowi, gdy ten popełnia błąd."
- agitator_legal_events.13.b: "Z otwartymi ramionami powitamy wszystkich dysydentów z grupy interesu o nazwie [SCOPE.sCharacter('supporting_agitator').GetInterestGroup.GetName|l]."
+ agitator_legal_events.13.b: "Z otwartymi ramionami powitamy wszystkich dysydentów w szeregach grupy interesu o nazwie [SCOPE.sCharacter('supporting_agitator').GetInterestGroup.GetName|l]."
  agitator_legal_events.14.t: "Martwy punkt"
  agitator_legal_events.14.d: "Zacięte dyskusje na temat spornego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]) toczą się już od kilku dni. Wśród należących do grupy interesu o nazwie [SCOPE.gsInterestGroup('agitator_ig').GetName|l] zwolenników persony, którą jest [SCOPE.sCharacter('opposing_agitator').GetFullName], znajdują się dysydenci, lecz każdy z nich zapatruje się na kwestię tego prawa nieco inaczej."
  agitator_legal_events.14.f: "Kolejny dzień debatowania nad tą samą sprawą. Wszyscy reprezentanci leniwie doczłapali się na swoje miejsca. Atmosfera na sali obrad była senna. Trzeba rozwiązać tę kwestię dziś w nocy, bo inaczej praca rządu zostanie wstrzymana na jeszcze dłuższy czas."
@@ -167,7 +169,7 @@
  agitator_legal_events.20.a: "Nie zmieniajmy kursu i poprawmy wszystkie błędy."
  agitator_legal_events.20.b: "Posłuchajmy, co ma do powiedzenia [SCOPE.sCharacter('supporting_agitator').GetFullName] wraz ze swoimi zwolennikami."
  agitator_legal_events.20.c: "Posłuchajmy niektórych sugestii grupy interesu o nazwie [SCOPE.gsInterestGroup('opposing_ig').GetName|l]."
- 
+ ## Advance Modifiers
  random_kindness: "Sumienny uczestnik"
  convenient_ally: "Wygodny sojusznik"
  overgenerousity_dividends: "Zbyt hojne napiwki"
@@ -184,7 +186,7 @@
  successful_law_slide: "Pełne poparcie"
  destructive_bender: "Zakłócenie porządku publicznego"
  humanised_people: "Tylko człowiek"
- 
+ ## Advance Events
  agitator_legal_events.21.t: "Sztuka nicnierobienia"
  agitator_legal_events.21.d: "Persona, którą jest [SCOPE.sCharacter('supporting_agitator').GetFullName], wcześniej sprzeciwiała się pewnym prawom ([SCOPE.sLaw('current_law_scope').GetName|l]), lecz teraz rozważa stanowisko polityczne grupy interesu o nazwie [SCOPE.gsInterestGroup('govnas').GetName|l] i oferuje swoje poparcie."
  agitator_legal_events.21.f: "– Zanim zacznie się rozmawiać z wyborcami na temat prawa, najpierw trzeba umieć sprawiać wrażenie, jakby niczego się nie robiło.\n\n– A w rzeczywistości robi się wszystko dzięki szeptom i zamaskowanym ludziom?\n\n– Niewątpliwie."

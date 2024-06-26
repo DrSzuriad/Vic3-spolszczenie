@@ -57,7 +57,7 @@
  POPS_invalid-country-code: "Niepoprawny kod państwa"
  POPS_invalid-language-code: "Niepoprawny kod języka"
  POPS_invalid-ISO-8601-format: "Niepoprawny format daty"
- 
+ #These should also not happen, but are not related to validating our form
  POPS_parse-failure: "Błąd klienta (składnia)"
  POPS_unsupported-account-details-keys: "Błąd klienta (nieobsługiwane klawisze)"
  POPS_invalid-script-code: "Błąd klienta (niepoprawny skrypt)"

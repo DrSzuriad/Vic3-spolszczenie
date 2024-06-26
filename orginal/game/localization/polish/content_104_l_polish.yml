@@ -19,7 +19,7 @@
  expedition_events.603.c: "Duży budżet."
  expedition_events.604.t: "Ekspedycja dociera na miejsce"
  expedition_events.604.d: "Po kilku tygodniach przygotowań i podróży ekspedycja, na czele której stoi [SCOPE.sCharacter('expedition_leader').GetFullName], dotarła do ujścia Kongo. Stamtąd wyruszy w dalszą drogę w celu ustalenia biegu tej niezbadanej jeszcze rzeki."
- expedition_events.604.f: "– Podczas podróży w górę rzeki czuliśmy się tak, jakbyśmy przenieśli się do najwcześniejszych początków świata, gdy na Ziemi rządziła roślinność, a wielkie drzewa były niczym królowie. Dziewicza rzeka, niezakłócona cisza, nieprzebyty las. Powietrze było ciepłe, gęste, ciężkie i powolne. Świetliste promienie słońca nie dawały radości. Woda ciągnęła się i ciągnęła, samotnie, ku ponurej, spowitej cieniem oddali." 
+ expedition_events.604.f: "– Podczas podróży w górę rzeki czuliśmy się tak, jakbyśmy przenieśli się do najwcześniejszych początków świata, gdy na Ziemi rządziła roślinność, a wielkie drzewa były niczym królowie. Dziewicza rzeka, niezakłócona cisza, nieprzebyty las. Powietrze było ciepłe, gęste, ciężkie i powolne. Świetliste promienie słońca nie dawały radości. Woda ciągnęła się i ciągnęła, samotnie, ku ponurej, spowitej cieniem oddali." #Joseph Conrad
  expedition_events.604.a: "Naprzód!"
  expedition_events.611.t: "Ekspedycja udana"
  expedition_events.611.d: "[SCOPE.sCharacter('expedition_leader').GetFullName] powraca, triumfując. Udało się nanieść bieg rzeki Kongo na mapę aż po samo jej źródło."
@@ -164,7 +164,7 @@
  poverty_relief_modifier: "Pomoc dla biedoty"
  sol_events.2.t: "Opowieść o nadziei"
  sol_events.2.desc: "W ostatnim czasie warunki życiowe naszego ludu stopniowo się poprawiają, przynosząc nadzieję do najbardziej ponurych części miast. Mimo to przed nami jeszcze długa droga."
- sol_events.2.f: "– To były najlepsze czasy i najgorsze czasy, era mądrości i era głupoty, epoka wiary i epoka niedowierzania, pora światła i pora mroku, wiosna nadziei i zima rozpaczy." 
+ sol_events.2.f: "– To były najlepsze czasy i najgorsze czasy, era mądrości i era głupoty, epoka wiary i epoka niedowierzania, pora światła i pora mroku, wiosna nadziei i zima rozpaczy." #Dickens
  sol_events.2.a: "Nasz lud nigdy nie zapomni, co dla niego zrobiliśmy."
  sol_events.2.b: "Dzięki temu poczynimy jeszcze większe postępy!"
  sol_events.2.c: "Fakt, że ludzie są zadowoleni z życia, w zupełności nam wystarcza."
@@ -192,7 +192,7 @@
  slums_housing_rejected_modifier: "Odrzucono lepsze warunki mieszkaniowe w slumsach"
  sol_events.5.t: "[ROOT.GetCountry.GetCapital.GetCityHubName] – stan na dziś"
  sol_events.5.d: "[ROOT.GetCountry.GetCapital.GetCityHubName] – gazeta [SCOPE.GetRootScope.GetCountry.GetCustom('generic_newspaper_type')] opublikowała artykuł na temat warunków mieszkaniowych w miejskich slumsach. Publikacja trafiła do szerokiego grona odbiorców i szybko wywołała oburzenie."
- sol_events.5.f: "– Gdy spojrzymy na to wspaniałe miasto, na jego przepych i blask, możemy szybko wpaść w przesadną euforię. Wprawia nas w nią widok jaśniejących pałaców, świątyń i rezydencji, a także sądów, akademii naukowych oraz instytucji filantropijnych. Oczywiście ubolewamy nad tym, że w mieście takim jak to jest tyle niegodziwości, zepsucia, barbarzyństwa i rozwiązłości… Ubolewamy nad masami godnych pożałowania, brudnych, mizernych, rozpustnych, znękanych wyrzutków, których zepchnięto na margines społeczeństwa." 
+ sol_events.5.f: "– Gdy spojrzymy na to wspaniałe miasto, na jego przepych i blask, możemy szybko wpaść w przesadną euforię. Wprawia nas w nią widok jaśniejących pałaców, świątyń i rezydencji, a także sądów, akademii naukowych oraz instytucji filantropijnych. Oczywiście ubolewamy nad tym, że w mieście takim jak to jest tyle niegodziwości, zepsucia, barbarzyństwa i rozwiązłości… Ubolewamy nad masami godnych pożałowania, brudnych, mizernych, rozpustnych, znękanych wyrzutków, których zepchnięto na margines społeczeństwa." #John Knox
  sol_events.5.a: "Trzeba jak najszybciej odkazić to miejsce."
  sol_events.5.b: "Artykuł? Jaki artykuł?"
  approves_of_drainage_modifier: "Poparcie dla kanalizacji w slumsach"
@@ -299,7 +299,7 @@
  natural_disaster_variable_tt: "Istnieje ryzyko, że w ciągu kilku najbliższych miesięcy nastąpi klęska głodu."
  famine_events.1.t: "Trudne czasy"
  famine_events.1.d: "Głód stał się w naszym państwie poważnym zagrożeniem. Ludność zamieszkująca obszar administracyjny o nazwie [SCOPE.sState('famine_state').GetName] zgłasza, że nie ma co jeść. Zażądano pomocy doraźnej."
- famine_events.1.f: "– Brakuje słów, aby w odpowiedni sposób opisać trudy, które nieustannie i po cichu znoszą ci ludzie… W wielu miejscach jedynym źródłem pożywienia są ziemniaki, a do picia jest tylko woda. Domostwa rzadko zapewniają ochronę przed pogodą. Łóżko czy koc to rzadki luksus, a jedyną własnością tych ludzi są świnie i obornik." 
+ famine_events.1.f: "– Brakuje słów, aby w odpowiedni sposób opisać trudy, które nieustannie i po cichu znoszą ci ludzie… W wielu miejscach jedynym źródłem pożywienia są ziemniaki, a do picia jest tylko woda. Domostwa rzadko zapewniają ochronę przed pogodą. Łóżko czy koc to rzadki luksus, a jedyną własnością tych ludzi są świnie i obornik." #Devon
  famine_events.1.a: "Nie stać nas na taki wydatek."
  famine_events.1.b: "W obszarze administracyjnym o nazwie [SCOPE.sState('famine_state').GetName] zostanie zorganizowana pomoc doraźna."
  emergency_hunger_relief_modifier: "Pomoc dla głodujących"
@@ -365,7 +365,7 @@
  je_romanticism_reason: "Romantyczny ruch artystyczny wychwala wspaniałą przeszłość: rycerzy, zamki, piratów, zakazaną naturę i zapomnianych bohaterów. Musimy bez wahania szerzyć ten pociągający nurt."
  society_tech_events.302.t: "Czyż to nie romantyczne?"
  society_tech_events.302.d: "[SCOPE.sBuilding('academy_building').GetName] – w tym budynku w obszarze administracyjnym o nazwie [SCOPE.sState('academy_state').GetName] zanotowano zwiększone zainteresowanie romantyzmem. Niektórzy z naszych największych artystów tworzą tam prawdziwe arcydzieła."
- society_tech_events.302.f: "„W Xanadu z rozkazu Kubilaj-chana\nStanie kopuła błyszcząca niczym zorza\nGdzie Alf, rzeka za świętą uznawana\nBiegnie przez jaskinię, co jest niezbadana\nI niknie w toni ciemnego morza”." 
+ society_tech_events.302.f: "„W Xanadu z rozkazu Kubilaj-chana\nStanie kopuła błyszcząca niczym zorza\nGdzie Alf, rzeka za świętą uznawana\nBiegnie przez jaskinię, co jest niezbadana\nI niknie w toni ciemnego morza”." #Coleridge
  society_tech_events.302.a: "Pokażmy światu, na czym polega romantyzm!"
  society_tech_events.302.b: "Ci obiecujący młodzieńcy zasługują na każdy grosz."
  society_tech_events.302.c: "A nie dałoby się stworzyć czegoś odrobinę bardziej… realistycznego?"
@@ -510,7 +510,7 @@
  custom_of_fire: "ognia"
  custom_of_the_giant: "giganta"
  custom_of_the_sun: "słońca"
- custom_of_the_night: "nocy" 
+ custom_of_the_night: "nocy" #the rhythm
  custom_of_light: "światła"
  custom_of_darkness: "mroku"
  custom_of_the_lord: "władcy"
@@ -554,7 +554,7 @@
  children_rights_events.3.b: "Dzieci nie wrócą do pracy, więc niech ci mężczyźni lepiej się przyzwyczają."
  workers_appeased_modifier: "Uspokojono robotników"
  confronted_workers_modifier: "Skonfrontowano się z robotnikami"
- 
+ #Antarctica Expedition
  antarctica_expedition: "Ekspedycja antarktyczna"
  antarctica_expedition_desc: "Dzięki cudom technologii oraz heroizmowi naszych odkrywców wreszcie możemy zapuścić się w głąb Antarktydy. Wyścig już trwa – to my musimy pierwsi zdobyć biegun!"
  cold.101.t: "Ekspedycja na Antarktydę"
@@ -571,7 +571,7 @@
  cold.102.e: "Nikt nie przygotuje się do wyprawy tak dobrze jak [SCOPE.sCharacter('expedition_leader_4').GetFullName]."
  cold.1.t: "W górach szaleństwa"
  cold.1.d: "Ekspedycja zauważa na horyzoncie dwa bliźniacze szczyty wulkaniczne – to Erebus i Terror. Gdy odkryto je po raz pierwszy, czego dokonał James Clark Ross, trwała akurat erupcja Erebusa. Na szczęście teraz wulkany spokojnie drzemią."
- cold.1.f: "– Piętrzyły się posępnie ku zachodniemu niebu, dzięki czemu mogliśmy dostrzec przeróżne gołe, smętne, ciemne szczyty. Widok ten niezmiernie nas zaciekawił – był jak z jakiejś fantazji. Czerwonawa antarktyczna łuna kontrastowała prowokacyjnie z opalizującymi lodowymi chmurami." 
+ cold.1.f: "– Piętrzyły się posępnie ku zachodniemu niebu, dzięki czemu mogliśmy dostrzec przeróżne gołe, smętne, ciemne szczyty. Widok ten niezmiernie nas zaciekawił – był jak z jakiejś fantazji. Czerwonawa antarktyczna łuna kontrastowała prowokacyjnie z opalizującymi lodowymi chmurami." #Lovecraft
  cold.1.a: "Powinniśmy jak najszybciej ruszać dalej."
  cold.1.b: "Zbierzmy próbki geologiczne."
  cold.1.c: "Wejdźmy na górę Erebus. Jako pierwsi dotrzemy do krateru!"
@@ -579,7 +579,7 @@
  cold.2.t: "Tymczasowa chata"
  cold.2.d: "Ekspedycja opuściła pokład statku u skutych lodem brzegów Antarktydy. Gdy jej członkowie znaleźli się we względnie łatwo dostępnym miejscu, jeden z załogantów zaproponował zbudowanie wytrzymałej chaty, w której moglibyśmy odpocząć i zostawić zapasy na podróż powrotną. Być może w przyszłości skorzystaliby z niej również inni odkrywcy."
  cold.2.d2: "Ekspedycja opuściła pokład statku u skutych lodem brzegów Antarktydy. Gdy uczestnicy wyprawy zeszli na ląd, ich oczom ukazała się drewniana chata. Widok ten podniósł wszystkich na duchu. Wiatr nawiał do środka tylko trochę śniegu. Chata nadaje się do zamieszkania, załoga znalazła w niej nawet spore zapasy jedzenia."
- cold.2.f: "– Temperatura w chacie jest oczywiście niska, ale pod każdym innym względem jest nam zupełnie wygodnie. Mamy nieograniczone zapasy sucharów, zaś odkrycia, których dokonaliśmy w miejscu noszącym nazwę Pram Point, oznaczają dla nas niewyczerpane zapasy foczego mięsa. Z pustej puszki po nafcie i kilku cegieł ogniotrwałych skonstruowaliśmy niewielki piecyk, który połączyliśmy ze starą rurą. Już teraz możemy śmiało nazwać tę chatę naszym tymczasowym domem." 
+ cold.2.f: "– Temperatura w chacie jest oczywiście niska, ale pod każdym innym względem jest nam zupełnie wygodnie. Mamy nieograniczone zapasy sucharów, zaś odkrycia, których dokonaliśmy w miejscu noszącym nazwę Pram Point, oznaczają dla nas niewyczerpane zapasy foczego mięsa. Z pustej puszki po nafcie i kilku cegieł ogniotrwałych skonstruowaliśmy niewielki piecyk, który połączyliśmy ze starą rurą. Już teraz możemy śmiało nazwać tę chatę naszym tymczasowym domem." #Scott
  cold.2.a: "Ta chata wytrzyma próbę czasu."
  cold.2.b: "Chata musi wytrzymać tylko do naszego powrotu."
  cold.2.c: "Odpocznijmy i uzupełnijmy zapasy, zanim ruszymy dalej."
@@ -587,12 +587,12 @@
  cold.3.t: "Zboczenie z kursu"
  cold.3.d: "Członkowie ekspedycji zdali sobie sprawę, że minęli kolejny punkt zaopatrzeniowy, który mieli odwiedzić na swojej drodze."
  cold.3.f: "– Gdy przedzieraliśmy się przez bezlitosny biały puch, coraz rzadziej widywaliśmy śnieżne kopce. A przynajmniej tak się nam zdawało.\n\n– Już prawie wieczór.\n\nZatrzymaliśmy się.\n\n– Wystarczy nam jedzenia? – ledwie udało mi się spytać. Wszyscy znaliśmy odpowiedź. Wszyscy wiedzieliśmy, skąd to pytanie. Jedno przytaknięcie, nikt się nie odezwał. Wszyscy wiedzieliśmy, że te kłamstwa były niewinne. Tak niewinne, jak niewinna jest ta biała kraina."
- cold.3.f2: "– Gdy przedzieraliśmy się przez bezlitosny biały puch, coraz rzadziej widywaliśmy śnieżne kopce. A przynajmniej tak się nam zdawało. Boże, miej nas w swojej opiece. To oczywiste, że nie damy rady. Między sobą jesteśmy nieustannie weseli, ale mogę tylko zgadywać, co każdy z nas czuje w głębi serca." 
+ cold.3.f2: "– Gdy przedzieraliśmy się przez bezlitosny biały puch, coraz rzadziej widywaliśmy śnieżne kopce. A przynajmniej tak się nam zdawało. Boże, miej nas w swojej opiece. To oczywiste, że nie damy rady. Między sobą jesteśmy nieustannie weseli, ale mogę tylko zgadywać, co każdy z nas czuje w głębi serca." #Scott
  cold.3.a: "Potrzebujemy tych zapasów. Zawróćmy."
  cold.3.b: "Idźmy dalej, poradzimy sobie bez tych zapasów."
  cold.4.t: "Koniec jest blisko"
  cold.4.d: "Ekspedycja jest skazana na zagładę. Wszyscy są przemęczeni i przemarznięci. Zapasy się skończyły. Pozostaje już tylko czekać na chłodne objęcia śmierci."
- cold.4.f: "„Każdego dnia jesteśmy gotowi wyruszyć do naszej oddalonej o 18 kilometrów stacji, ale na zewnątrz namiotu wiatr nieustannie smaga zaspy. Nie sądzę, aby sytuacja miała się poprawić. Wytrzymamy do końca, ale robimy się coraz słabsi, co oczywiste. Koniec nie może być daleko. To przykre, ale nie jestem już w stanie dalej pisać”.\n\n– Niech Bóg ma naszych ludzi w opiece." 
+ cold.4.f: "„Każdego dnia jesteśmy gotowi wyruszyć do naszej oddalonej o 18 kilometrów stacji, ale na zewnątrz namiotu wiatr nieustannie smaga zaspy. Nie sądzę, aby sytuacja miała się poprawić. Wytrzymamy do końca, ale robimy się coraz słabsi, co oczywiste. Koniec nie może być daleko. To przykre, ale nie jestem już w stanie dalej pisać”.\n\n– Niech Bóg ma naszych ludzi w opiece." #Scott
  cold.4.a: "Wyjdę tylko na zewnątrz, może mnie chwilę nie być."
  cold.5.t: "Biegun południowy"
  cold.5.d: "Ekspedycja dotarła do celu: oto biegun południowy! [SCOPE.sCharacter('expedition_leader').GetFullName] z dumą rozstawia namiot. [SCOPE.sCountry('expedition_country').GetAdjectiveNoFormatting] flaga powiewa na wietrze. Członkowie wyprawy świętują swoje osiągnięcie kubkiem kakao."
@@ -602,7 +602,7 @@
  cold.5.b: "A niech to! Teraz zaczyna się trudna podróż na północ…"
  cold.6.t: "Psie mięso"
  cold.6.d: "Antarktycznym odkrywcom kończą się zapasy. Załoga zastanawia się, jakie korzyści dałoby zabicie kilku psów zaprzęgowych i podzielenie mięsa między siebie oraz pozostałe psy, aby zwiększyć szanse na przetrwanie."
- cold.6.f: "– Nie da się ze spokojem rozważać zabicia zwierząt o tak wielkiej inteligencji i osobowości. Zwierząt, które mają tak wiele ujmujących cech. Zwierząt, które bardzo często uważa się za swoich przyjaciół i towarzyszy.\n\n– Ustaliliśmy, że nie cofniemy się przed niczym, aby tylko osiągnąć cel! Jeśli tego nie zrobimy, reszta psów i tak z pewnością padnie z niedożywienia lub wyczerpania." 
+ cold.6.f: "– Nie da się ze spokojem rozważać zabicia zwierząt o tak wielkiej inteligencji i osobowości. Zwierząt, które mają tak wiele ujmujących cech. Zwierząt, które bardzo często uważa się za swoich przyjaciół i towarzyszy.\n\n– Ustaliliśmy, że nie cofniemy się przed niczym, aby tylko osiągnąć cel! Jeśli tego nie zrobimy, reszta psów i tak z pewnością padnie z niedożywienia lub wyczerpania." #Scott
  cold.6.a: "To praktyczne rozwiązanie."
  cold.6.b: "Nie uciekniemy się do takiego barbarzyństwa!"
  pet_dog.tt: "Głaskasz psy i kontynuujesz podróż."
@@ -860,7 +860,7 @@
  asylum_paperwork_modifier: "Biurokracja w szpitalach psychiatrycznych"
  psychology_events.5.t: "Interpretacja snów"
  psychology_events.5.d: "[SCOPE.sBuilding('university_building').GetName] w obszarze administracyjnym o nazwie [SCOPE.sState('university_state').GetName] słynie z tego, że wykłada tam pewien szanowany doktor. Prowadzi on nowatorskie badania psychiatryczne, podkreślając rolę, którą nieświadomy umysł i ukryte w nim wspomnienia z dzieciństwa odgrywają w przypadku chorób psychicznych."
- psychology_events.5.f: "– Na kolejnych stronach udowodnię, że istnieje pewna technika psychologiczna, która pozwala interpretować sny. Po jej zastosowaniu każdy sen okaże się mającą wiele sensu strukturą psychologiczną, którą da się przypisać do konkretnego miejsca aktywności psychicznej w stanie pełnej świadomości.\n\nPrędzej czy później w trakcie badań problem snu połączy się z innymi problemami, których rozwiązanie wymaga innych środków." 
+ psychology_events.5.f: "– Na kolejnych stronach udowodnię, że istnieje pewna technika psychologiczna, która pozwala interpretować sny. Po jej zastosowaniu każdy sen okaże się mającą wiele sensu strukturą psychologiczną, którą da się przypisać do konkretnego miejsca aktywności psychicznej w stanie pełnej świadomości.\n\nPrędzej czy później w trakcie badań problem snu połączy się z innymi problemami, których rozwiązanie wymaga innych środków." #Sigmund Freud
  psychology_events.5.a: "Niech kontynuuje swoje badania na uniwersytecie."
  psychology_events.5.b: "Tak genialnemu człowiekowi trzeba dać jakąś znaczącą posadę!"
  psychology_events.5.c: "To wszystko brzmi bardzo nieprzekonująco."
@@ -904,7 +904,7 @@
  exhibition_events.3.a: "Cudownie. Po prostu… cudownie."
  exhibition_events.4.t: "Budzące się podejrzenia"
  exhibition_events.4.d: "Już niedługo ma się odbyć wystawa, która stała się jednak źródłem kontrowersji. Członkowie grupy interesu o nazwie [SCOPE.gsInterestGroup('conservative_ig').GetName|l] wyrazili obawy o to, że tłum odwiedzających może się przekształcić w zbiorowisko rewolucjonistów."
- exhibition_events.4.f: "– Jeżeli [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] dopuści do zorganizowania tego pokazu tandety, wykaże się absurdalną głupotą. Każdy rozsądny człowiek powinien dojść do takiego wniosku. Dziwi mnie, że ministrowie nie nalegają, aby głowa państwa udała się chociaż na ten czas gdzieś indziej. Obszar administracyjny o nazwie [SCOPE.sState('grand_exhibition_state').GetNameNoFormatting] byłby w sam raz. Przecież nie wiadomo, co się może wtedy zdarzyć.\n\n– Taki pomysł powinien zaskoczyć każdego uczciwego i mającego dobre chęci człowieka. [ROOT.GetCountry.GetNameNoFormatting] to nie miejsce na takie obawy. Wygląda jednak na to, że ktoś chce podkopać nasz wizerunek w oczach Europy." 
+ exhibition_events.4.f: "– Jeżeli [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] dopuści do zorganizowania tego pokazu tandety, wykaże się absurdalną głupotą. Każdy rozsądny człowiek powinien dojść do takiego wniosku. Dziwi mnie, że ministrowie nie nalegają, aby głowa państwa udała się chociaż na ten czas gdzieś indziej. Obszar administracyjny o nazwie [SCOPE.sState('grand_exhibition_state').GetNameNoFormatting] byłby w sam raz. Przecież nie wiadomo, co się może wtedy zdarzyć.\n\n– Taki pomysł powinien zaskoczyć każdego uczciwego i mającego dobre chęci człowieka. [ROOT.GetCountry.GetNameNoFormatting] to nie miejsce na takie obawy. Wygląda jednak na to, że ktoś chce podkopać nasz wizerunek w oczach Europy." #Ernest Augustus I of Hanover
  exhibition_events.4.a: "Te obawy są nieuzasadnione."
  exhibition_events.4.b: "Duży napływ odwiedzających może być źródłem problemów."
  ignored_conservatives_modifier: "Obawy dotyczące wystawy zostały zignorowane"
@@ -949,7 +949,7 @@
  titanic.2.t: "Ogromna tragedia"
  titanic.2.d: "Monumentalny Titanic opuścił stocznie obszaru administracyjnego o nazwie [SCOPE.sState('titanic_state').GetName], lecz nie minęło dużo czasu, a nastąpiła tragedia – kadłub statku zderzył się z równie imponującą górą lodową."
  titanic.2.d2: "Monumentalny [SCOPE.GetRootScope.GetCountry.GetCustom('dynamic_titanic')] opuścił stocznie obszaru administracyjnego o nazwie [SCOPE.sState('titanic_state').GetName], lecz nie minęło dużo czasu, a nastąpiła tragedia – kadłub statku zderzył się z równie imponującą górą lodową."
- titanic.2.f: "– Gdy wsadzono mnie do szalupy ratunkowej, usłyszałam, jak do mnie krzyczy. „Wszystko będzie dobrze, mała. Idź. Ja zostanę”. Gdy odpływaliśmy, posłał w moją stronę pocałunek. Wtedy widziałam go po raz ostatni." 
+ titanic.2.f: "– Gdy wsadzono mnie do szalupy ratunkowej, usłyszałam, jak do mnie krzyczy. „Wszystko będzie dobrze, mała. Idź. Ja zostanę”. Gdy odpływaliśmy, posłał w moją stronę pocałunek. Wtedy widziałam go po raz ostatni." #real life Titanic quote
  titanic.2.a: "To prawdziwa tragedia."
  titanic_sank_modifier: "Transatlantyk tonie"
  titanic.3.t: "Imponujący rejs"
@@ -1006,7 +1006,7 @@
  prohibition_success.tt: "Wszystkie kultury dominujące zostaną pozbawione [Concept('concept_obsession', 'obsesji')] na punkcie napojów alkoholowych."
  prohibition.1.t: "Prohibicja"
  prohibition.1.d: "Dwie grupy interesu – [SCOPE.gsInterestGroup('devout_ig').GetName|l] i [SCOPE.gsInterestGroup('intelligentsia_ig').GetName|l] – wyraziły chęć powstrzymania niepokojąco wysokiej konsumpcji napojów alkoholowych w naszym państwie. Przedstawiły rządowi petycję w sprawie zakazania tych trunków."
- prohibition.1.f: "– Ja nigdy nie piję ani nie palę, bo mój nauczyciel wpoił mi trzy kardynalne cnoty: czystość ciała, czystość umysłu i trzeźwość." 
+ prohibition.1.f: "– Ja nigdy nie piję ani nie palę, bo mój nauczyciel wpoił mi trzy kardynalne cnoty: czystość ciała, czystość umysłu i trzeźwość." #John Burns
  prohibition.1.a: "Alkohol zatruwa umysł."
  prohibition.1.b: "Nic tak nie wprawia w dobry humor, jak szklaneczka whiskey przed snem!"
  started_temperance_modifier: "Rozpoczęto ruch trzeźwościowy"
@@ -1028,9 +1028,9 @@
  prohibition.3.b: "Nadal mogą korzystać z winnic."
  industrialists_rejected_modifier: "Dotyczące napojów alkoholowych żądania przemysłowców zostały odrzucone"
  wine_allowed_modifier: "Poparcie dla produkcji wina"
- prohibition.4.t: "Najlepszy sklep zoologiczny w mieście" 
+ prohibition.4.t: "Najlepszy sklep zoologiczny w mieście" #Simpsons' Reference (I'm sorry)
  prohibition.4.d: "[SCOPE.sState('temperance_state').GetCityHubName] – mieszkańcy miasta donoszą o dziwnych odgłosach i podejrzanym zachowaniu w jednym z miejsc. Niedawno otwarty sklep zoologiczny przyciąga mnóstwo klientów."
- prohibition.4.f: "– Sklep zoologiczny, tak? Mam tylko jedno pytanie. Czy to normalne, że ze sklepu zoologicznego dobiegają głośne wiwaty i muzyka? I to o pierwszej w nocy?" 
+ prohibition.4.f: "– Sklep zoologiczny, tak? Mam tylko jedno pytanie. Czy to normalne, że ze sklepu zoologicznego dobiegają głośne wiwaty i muzyka? I to o pierwszej w nocy?" #Simpsons' Reference (again, I'm sorry)
  prohibition.4.a: "To pewnie tylko ci hałaśliwi pracownicy sklepu."
  prohibition.4.b: "Sprawdźmy papiery tego sklepu."
  prohibition.4.c: "Myślą, że nas wyrolują?! Nasłać na nich policję!"
@@ -1059,14 +1059,14 @@
  gangsters_modifier: "Gangster stanął przed sądem"
  prohibition.8.t: "Niebieska wstążka"
  prohibition.8.d: "Po wielu staraniach rządu mających na celu zakazanie napojów alkoholowych [ROOT.GetCountry.GetName] to wreszcie państwo całkowicie wolne od alkoholu."
- prohibition.8.f: "– Powiedzcie dzieciom Izraela, aby zrobiły sobie frędzle na skrajach szat swoich. I tak samo niech zrobią ich potomkowie. A do każdego frędzla niech przywiążą niebieską wstążkę. Służyć wam będą te frędzle, albowiem gdy spojrzycie na nie, przypomnicie sobie przykazania Pana naszego i wypełnicie je." 
+ prohibition.8.f: "– Powiedzcie dzieciom Izraela, aby zrobiły sobie frędzle na skrajach szat swoich. I tak samo niech zrobią ich potomkowie. A do każdego frędzla niech przywiążą niebieską wstążkę. Służyć wam będą te frędzle, albowiem gdy spojrzycie na nie, przypomnicie sobie przykazania Pana naszego i wypełnicie je." #Numbers 15:38-39
  prohibition.8.a: "Nasz naród wreszcie uwolnił się od zła."
  prohibition_laws_pm.tt: "Przyczyni się to do znacznego zwiększenia postępów wpisu w dzienniku Ruch trzeźwościowy."
  prohibition_laws_weak_pm.tt: "Przyczyni się to do zwiększenia postępów wpisu w dzienniku Ruch trzeźwościowy."
  prohibition_laws_bad_pm.tt: "Przyczyni się to do zmniejszenia postępów wpisu w dzienniku Ruch trzeźwościowy."
  expedition_events.695.t: "Niespodziewana grupa"
  expedition_events.695.d: "Ekspedycja posuwa się naprzód, gdy nagle gęsta dżungla odsłania przed nią niespodziewany widok: to członkowie zaginionej ekspedycji, która wyruszyła z państwa o nazwie [SCOPE.sCountry('lost_expedition_country').GetNameNoFormatting]. Leżeli osłabieni na prowizorycznych hamakach."
- expedition_events.695.f: "– To było tak, jakby nagle opadła jakaś kurtyna. Na pobladłej twarzy tego człowieka malowały się posępna duma, bezlitosna moc, tchórzliwa zgroza – a przede wszystkim ogromna rozpacz.\n\nCzyżby przeżywał swoje życie jeszcze raz w każdym szczególe pożądania i pokusy, poddając się w najwspanialszej chwili całkowitej świadomości? Próbował krzyknąć, gdy ujrzał jakiś obraz, jakąś wizję, ale jedyne, co zrobił, to szepnął. Zrobił to dwukrotnie, ledwie wyduszając z siebie oddech:\n\n– Horror! Horror!" 
+ expedition_events.695.f: "– To było tak, jakby nagle opadła jakaś kurtyna. Na pobladłej twarzy tego człowieka malowały się posępna duma, bezlitosna moc, tchórzliwa zgroza – a przede wszystkim ogromna rozpacz.\n\nCzyżby przeżywał swoje życie jeszcze raz w każdym szczególe pożądania i pokusy, poddając się w najwspanialszej chwili całkowitej świadomości? Próbował krzyknąć, gdy ujrzał jakiś obraz, jakąś wizję, ale jedyne, co zrobił, to szepnął. Zrobił to dwukrotnie, ledwie wyduszając z siebie oddech:\n\n– Horror! Horror!" #Joseph Conrad
  expedition_events.695.a: "Zaprowadzimy tych ludzi w bezpieczne miejsce."
  expedition_events.695.b: "Niech się do nas przyłączą! Co dwie ekspedycje, to nie jedna."
  expedition_events.695.c: "Tylko by nas spowolnili."
@@ -1124,7 +1124,7 @@
  assassination_caught_em_modifier: "Plan zamachu udaremniony"
  assassination_events.8.t: "Zamach – albo i nie"
  assassination_events.8.d: "Plan zamachu zakończył się w bardzo nieoczekiwany sposób. [SCOPE.sCharacter('assassination_ruler_scope').GetFullName] nie żyje – przyczyny śmierci nie są znane. Tak czy inaczej, zamachowcy poniechali swoich działań."
- assassination_events.8.f: "I tak oto, jak zawsze, po śmierci przychodzi zmartwychwstanie. Z pasji tejże godziny rodzi się radość. Oby nasz naród nie musiał już nigdy obcować ze śmiercią!" 
+ assassination_events.8.f: "I tak oto, jak zawsze, po śmierci przychodzi zmartwychwstanie. Z pasji tejże godziny rodzi się radość. Oby nasz naród nie musiał już nigdy obcować ze śmiercią!" #Denis Wortman
  assassination_events.8.a: "Niech [SCOPE.sCharacter('assassination_ruler_scope').GetFullName] spoczywa w pokoju."
  assassination_dead_ruler_modifier: "Władca nie żyje"
  election_other_parties_events.1.t: "Człowiek ponad maszyną"
@@ -1159,7 +1159,7 @@
  election_other_parties_events.4.b: "To trochę naciągane, co nie zmienia faktu, że [SCOPE.sParty('social_democrat_party').GetName] to nadal rozsądna opcja."
  election_other_parties_events.5.t: "Ekspansja radykałów"
  election_other_parties_events.5.d: "Postulaty partii o nazwie [SCOPE.sParty('radical_party').GetName] zyskują coraz większe zainteresowanie w całym państwie, co może doprowadzić do zamętu."
- election_other_parties_events.5.f: "– Ci, którzy wyznają idee wolności, a jednocześnie deprecjonują poruszenie wśród ludu, chcieliby zbierać plony bez siania ziaren. Niestety dla nich, nie ma burzy bez piorunów i błyskawic, a oceanu bez ryczących fal." 
+ election_other_parties_events.5.f: "– Ci, którzy wyznają idee wolności, a jednocześnie deprecjonują poruszenie wśród ludu, chcieliby zbierać plony bez siania ziaren. Niestety dla nich, nie ma burzy bez piorunów i błyskawic, a oceanu bez ryczących fal." #Frederick Douglas
  election_other_parties_events.5.a: "Ich ekspansja powinna być jeszcze większa."
  election_other_parties_events.5.b: "Oni naruszają jedność państwa takiego jak [ROOT.GetCountry.GetNameNoFormatting]!"
  election_other_parties_events.5.c: "Ktoś musi ich przekonać do zaprzestania działań."
@@ -1184,14 +1184,14 @@
  gustave_eiffel_angry_modifier: "Brak szacunku dla architekta Eiffla"
  belle_epoque_events.2.t: "Styl secesyjny"
  belle_epoque_events.2.d: "Wśród wyższych sfer w mieście [SCOPE.sState('belle_epoque_state').GetCityHubName] popularność zyskał nowy, inspirowany naturą styl artystyczny. Jego cechą charakterystyczną jest przedstawianie wijących się roślin razem z wyrazistymi elementami żelaznymi i szklanymi, co pozwala ukazać kontrasty postępu."
- belle_epoque_events.2.f: "– Ten obraz po prostu powstał. Bez żadnego planu czy szkicu. Powstał, bo sugerowała mi to intuicja. Pod koniec, dodając każdy detal z wielką swobodą, udało mi się osiągnąć prawdziwą doskonałość. Powróciwszy do rogu, od którego to wszystko się zaczęło, trzeba było więc namalować część obrazu jeszcze raz, gdyż inaczej byłby bardzo niespójny. Praca sprawiła mi tyle radości, że ta harmonia błękitu i złota pochłonęła mnie bez reszty." 
+ belle_epoque_events.2.f: "– Ten obraz po prostu powstał. Bez żadnego planu czy szkicu. Powstał, bo sugerowała mi to intuicja. Pod koniec, dodając każdy detal z wielką swobodą, udało mi się osiągnąć prawdziwą doskonałość. Powróciwszy do rogu, od którego to wszystko się zaczęło, trzeba było więc namalować część obrazu jeszcze raz, gdyż inaczej byłby bardzo niespójny. Praca sprawiła mi tyle radości, że ta harmonia błękitu i złota pochłonęła mnie bez reszty." #James McNeill Whistler
  belle_epoque_events.2.a: "Ten nowy styl jest wprost hipnotyzujący."
  belle_epoque_events.2.b: "Mówią, że malują bez żadnego szkicu? To widać."
  art_nouveau_strike_modifier: "Atak na styl secesyjny"
  art_nouveau_love_modifier: "Fascynacja stylem secesyjnym"
- belle_epoque_events.3.t: "Las symboli" 
+ belle_epoque_events.3.t: "Las symboli" #Baudelaire reference
  belle_epoque_events.3.d: "Po sukcesie, jaki odniosły publikacje ruchu symbolistów, [SCOPE.sCharacter('symbolist_leader').GetFullName] postanawia dalej podążać obraną przez siebie ścieżką i samodzielnie wyrusza w literacką podróż, czym zamartwia grupę interesu o nazwie [SCOPE.gsInterestGroup('symbolist_ig').GetName|l]."
- belle_epoque_events.3.f: "„A jednak\nod wina, a nawet od opium, wolę\neliksir twych warg, na których objawia się miłość,\na na pustkowiu pożądania\noczy twe napełniają studnie, które gaszą moje pragnienie”." 
+ belle_epoque_events.3.f: "„A jednak\nod wina, a nawet od opium, wolę\neliksir twych warg, na których objawia się miłość,\na na pustkowiu pożądania\noczy twe napełniają studnie, które gaszą moje pragnienie”." #Baudelaire again / forgive me for these events I've quoted way too much
  belle_epoque_events.3.a: "Każdy zasługuje na odrobinę prywatności."
  belle_epoque_events.3.b: "Polityk, a jednocześnie poeta! Niesłychane!"
  belle_epoque_events.3.c: "[SCOPE.sCharacter('symbolist_leader').GetFullName] musi ustąpić."
@@ -1254,7 +1254,7 @@
  belle_epoque_events.10.d: "Dobrobyt, w jakim żyje ludność [ROOT.GetCountry.GetAdjective|l], dał początek nowej generacji zamożnych przedsiębiorców. Najmodniejszym miejscem spotkań owych nuworyszów jest lokal Maxim’s – ekskluzywna restauracja w stylu secesyjnym, w której obsługiwani są najbogatsi i najmodniejsi mieszkańcy miasta [SCOPE.sState('belle_epoque_state').GetCityHubName]."
  belle_epoque_events.10.d2: "[ROOT.GetCountry.GetAdjective] socjeta, która wzbogaciła się na gwałtownym postępie technologicznym ostatnich czasów, zaczęła wprowadzać własne trendy, urządzając coraz bardziej ekstrawaganckie przyjęcia dla wyższych sfer i chadzając do ekskluzywnych restauracji w stylu secesyjnym."
  belle_epoque_events.10.f: "– Takiego bezliku aksamitu, koronek, wstążek, diamentów i innych ozdób nie potrafię nawet opisać. Rozebranie którejkolwiek z tych panien wymagałoby trzech tygodni przygotowań – jakby się człowiek przeprowadzał."
- belle_epoque_events.10.f2: "– Ma specyficzny głos – zauważyłem. – Słychać w nim… – zawahałem się.\n\n– W jej głosie słychać pieniądze – wpadł mi nagle w słowo.\n\nTrafił w sedno. Wcześniej tego nie rozumiałem. W jej głosie słychać było pieniądze i na tym właśnie polegał jego niewyczerpany urok. To był sekret kryjący się za tą melodyjnością; za dźwięcznością nasuwającą skojarzenie z grą cymbałów." 
+ belle_epoque_events.10.f2: "– Ma specyficzny głos – zauważyłem. – Słychać w nim… – zawahałem się.\n\n– W jej głosie słychać pieniądze – wpadł mi nagle w słowo.\n\nTrafił w sedno. Wcześniej tego nie rozumiałem. W jej głosie słychać było pieniądze i na tym właśnie polegał jego niewyczerpany urok. To był sekret kryjący się za tą melodyjnością; za dźwięcznością nasuwającą skojarzenie z grą cymbałów." #- F. Scott Fitzgerald
  belle_epoque_events.10.a: "W takim miejscu można znaleźć kobietę, ale nie żonę."
  belle_epoque_events.10.b: "Oto nowy świat: materialny, a jednak nieprawdziwy."
  modifier_noveaux_riches: "Nowobogactwo"
@@ -1271,7 +1271,7 @@
  belle_epoque_events.12.t2: "Metro w mieście [SCOPE.sState('belle_epoque_state').GetCityHubName]"
  belle_epoque_events.12.d: "[SCOPE.sState('belle_epoque_state').GetCityHubName] to miasto, w którym uroczyście otwarto sieć podziemnych stacji kolejowych z zaprojektowanymi przez Hectora Guimarda wejściami w stylu secesyjnym. Wyróżniające się czerwonymi światłami i ozdobnymi literami łukowate wejścia szybko zostały symbolem metropolii."
  belle_epoque_events.12.d2: "[SCOPE.sState('belle_epoque_state').GetCityHubName] to miasto, w którym uroczyście otwarto sieć podziemnych stacji kolejowych. Metro stało się ikonicznym i tanim środkiem transportu miejskiego."
- belle_epoque_events.12.f: "– Boskie wejścia do metra pozwalają nam wkroczyć do królestwa miejskiej podświadomości, w którym dominuje monarchiczna estetyka jutra." 
+ belle_epoque_events.12.f: "– Boskie wejścia do metra pozwalają nam wkroczyć do królestwa miejskiej podświadomości, w którym dominuje monarchiczna estetyka jutra." #- Salvador Dali
  belle_epoque_events.12.f2: "„Ulice prezentują się teraz dużo lepiej. Kiedyś kroczył nimi pochód ponurych ludzi zmierzających do miejsc pracy i z nich powracających. Dziś te brzydkie tłumy zapędzono pod ziemię; zamknięto w tubach pędzących ciemnymi tunelami. A czymże jest postęp, jeśli nie pędzeniem na oślep przed siebie?” – pomyślał, kierując się do stacji metra."
  belle_epoque_events.12.a: "Kolejny krok w stronę miasta przyszłości."
  belle_epoque_events.12.b: "Oto kolejny symbol postępu naszego narodu."
@@ -1280,7 +1280,7 @@
  belle_epoque_events.13.t: "Wystawa kolonialna w mieście [SCOPE.sState('belle_epoque_state').GetCityHubName]"
  belle_epoque_events.13.d: "W obszarze administracyjnym [SCOPE.sState('belle_epoque_state').GetName] zorganizowano wystawę prezentującą bogactwo naszych kolonii na całym świecie. Przyciąga ona gości pokazami egzotycznych zwierząt i zasobów naturalnych, ale atrakcją jest też etnologiczna ekspozycja w formie sztucznej wioski, która ma pokazywać, jak żyje rdzenna ludność [SCOPE.sCulture('colonial_culture').GetName|l]."
  belle_epoque_events.13.f: "Plakat reklamujący wystawę przyciągał wzrok jaskrawą czerwienią, tytułem „L’EXPOSITION ORIENTALE” i karykaturami mieszkańców imperium.\n\nNagie, wykrzywione w grymasach kobiety z Afryki Zachodniej z tarczami i kijami w dłoniach otaczały odzianych w szaty Algierczyków z ananasami i drobne, umalowane Wietnamki niosące na głowach dzbany.\n\nUwieszone na ramieniu odzianej w jedwab matki dziecko spoglądało z nadzieją w oczach to na plakat, to na kobietę.\n\n– To tylko pół franka, mamusiu!"
- belle_epoque_events.13.f2: "– Wydaje nam się, że nasza rasa ma dość zmartwień i bez pokazywania naszych braci w towarzystwie małp. Wierzymy, że zasługujemy na miano ludzi; że mamy dusze." 
+ belle_epoque_events.13.f2: "– Wydaje nam się, że nasza rasa ma dość zmartwień i bez pokazywania naszych braci w towarzystwie małp. Wierzymy, że zasługujemy na miano ludzi; że mamy dusze." #- James H. Gordon
  belle_epoque_events.13.a: "Niesamowite – i pouczające!"
  belle_epoque_events.13.b: "Wystawy z udziałem ludzi wydają się przesadą."
  modifier_condemned_human_zoos: "Krytyka ludzkich ogrodów zoologicznych"
@@ -1299,7 +1299,7 @@
  belle_epoque_events.15.d2: "Nasze państwo, [SCOPE.sCountry('haute_couture_country').GetName], zaczęło przyciągać kobiety z miejsc tak odległych jak [SCOPE.sCountry('haute_couture_buyer_scope').GetName]. Zachwycone popularnymi obrazami nieskazitelnych jedwabnych sukien i modnej biżuterii produkowanej przez naszych rzemieślników panie poszukują zachwycającej odzieży w tutejszych butikach."
  belle_epoque_events.15.f: "Widok, który ostatnio stał się codziennością, budził w konduktorach stacji [SCOPE.sState('belle_epoque_state').GetCityHubName] rozbawienie. Kobiety o rozbieganych oczach i pełnych portfelach wysiadały z pociągów przyjeżdżających ze stacji w państwie o nazwie [SCOPE.sCountry('haute_couture_buyer_scope').GetNameNoFormatting], aby kilka tygodni później wyruszyć w drogę powrotną w wytwornych sukniach, za to ze znacznie mniejszą ilością gotówki.\n\nObie te grupy mieszały się na peronach, gdzie apatyczni mężowie odwracali wzrok, podczas gdy ich żony komplementowały wzajemnie swój dobry gust i obiecywały sobie powtórne spotkanie."
  belle_epoque_events.15.a: "Nasze państwo, [ROOT.GetCountry.GetName], będzie światową stolicą mody."
- belle_epoque_events.15.b: "To wszystko jest możliwe dzięki pracy projektantów i robotników." 
+ belle_epoque_events.15.b: "To wszystko jest możliwe dzięki pracy projektantów i robotników." #Like that would ever happen.
  modifier_prestigious_fashion_industry: "Prestiżowy przemysł związany z modą"
  modifier_recognised_fashion_industry: "Uznanie dla pracowników przemysłu związanego z modą"
  belle_epoque_events.16.t: "La Grande Roue de Paris"
@@ -1314,7 +1314,7 @@
  belle_epoque_events.17.t: "Idee fin de siècle"
  belle_epoque_events.17.t2: "Koniec stulecia"
  belle_epoque_events.17.d: "U schyłku stulecia nasze państwo, [ROOT.GetCountry.GetName], stało się miejscem rozkwitu ruchu literackiego i artystycznego, który wyraża pesymizm i lęk przed społeczną degeneracją."
- belle_epoque_events.17.f: "– Oby czekał nas jutro miły dzień, Lane.\n\n– Będzie koszmarny jak zawsze, proszę pana.\n\n– Ależ z ciebie pesymista.\n\n– Staram się jak najlepiej spełniać oczekiwania." 
+ belle_epoque_events.17.f: "– Oby czekał nas jutro miły dzień, Lane.\n\n– Będzie koszmarny jak zawsze, proszę pana.\n\n– Ależ z ciebie pesymista.\n\n– Staram się jak najlepiej spełniać oczekiwania." #- The Importance of Being Earnest, Oscar Wilde
  belle_epoque_events.17.a: "Świat robi się coraz lepszy. Nie wiedzą o naszym PKB?"
  belle_epoque_events.17.b: "Wszyscy nosimy w sercach ziarno pesymizmu."
  modifier_fin_de_sicle: "Idee fin de siècle"
@@ -1367,7 +1367,7 @@
  infatuated_with_cool_rock_modifier: "Zainteresowanie okultyzmem"
  vampire_panic.1.t: "Dziwne zabobony"
  vampire_panic.1.d: "Docierają do nas doniesienia o dziwnej chorobie dręczącej przedstawicieli jednej z rodzin zamieszkujących obszar administracyjny o nazwie [SCOPE.sState('vampire_state').GetName]. Tubylcy zaczęli odgrzebywać zwłoki, próbując rzekomo położyć kres tej tak zwanej „klątwie”."
- vampire_panic.1.f: "– Nie sądzisz, że istnieją rzeczy dla nas niezrozumiałe, a jednak prawdziwe? Że niektórzy widzą więcej niż inni? Istnieją takie zjawiska, stare i nowe, nad którymi człowiekowi zastanawiać się nie wolno, gdyż inni powiedzieli mu już o nich wszystko (lub tak mu się tylko wydaje).\n\nTo wina próbującej wyjaśnić wszystko nauki, która – ilekroć napotyka rzeczy niewytłumaczalne – stwierdza, że nie ma czego tłumaczyć!" 
+ vampire_panic.1.f: "– Nie sądzisz, że istnieją rzeczy dla nas niezrozumiałe, a jednak prawdziwe? Że niektórzy widzą więcej niż inni? Istnieją takie zjawiska, stare i nowe, nad którymi człowiekowi zastanawiać się nie wolno, gdyż inni powiedzieli mu już o nich wszystko (lub tak mu się tylko wydaje).\n\nTo wina próbującej wyjaśnić wszystko nauki, która – ilekroć napotyka rzeczy niewytłumaczalne – stwierdza, że nie ma czego tłumaczyć!" #Bram Stoker
  vampire_panic.1.d.cullen: "Docierają do nas doniesienia o dziwnej chorobie dręczącej przedstawicieli rodziny Cullenów zamieszkujących obszar administracyjny o nazwie [SCOPE.sState('vampire_state').GetName]. Tubylcy zaczęli odgrzebywać zwłoki, próbując rzekomo położyć kres tej tak zwanej „klątwie”."
  vampire_panic.1.a: "To tylko kolejny przykład wieśniaczych zabobonów."
  vampire_panic.1.b: "Kilku profesorów wyraziło zainteresowanie tym tematem."

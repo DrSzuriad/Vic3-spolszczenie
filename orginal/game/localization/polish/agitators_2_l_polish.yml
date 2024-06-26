@@ -88,7 +88,7 @@
  vanquished_barbary: "Koniec Berberii"
  algeria_events.2.t: "[SCOPE.sCharacter('cremieux_decree_leader_scope').GetLastNameNoFormatting] i [SCOPE.sCharacter('cremieux_decree_leader_scope').GetCustom('PL_jego_jej')] rozporządzenie"
  algeria_events.2.d: "[SCOPE.sCharacter('cremieux_decree_leader_scope').GetFullName] – postać, za którą stoi jedna z grup interesu ([SCOPE.sCharacter('cremieux_decree_leader_scope').GetInterestGroup.GetName|l]) – chce pomóc w niedoli rodzimej algierskiej ludności wyznającej religię o nazwie [SCOPE.sPop('cremieux_decree_pop_scope').GetReligion.GetName|l], dlatego proponuje przyznanie jej przedstawicielom obywatelstwa, aby nasze państwo, [ROOT.GetCountry.GetNameNoFormatting], stało się ich prawdziwym domem."
- algeria_events.2.f: "Rozporządzenie nr 136 dotyczące uznania rodzimej ludności żydowskiej Algierii za obywateli państwa o nazwie [ROOT.GetCountry.GetNameNoFormatting].\n\nRdzenni żydzi zamieszkujący departamenty algierskie zostają uznani za obywateli państwa o nazwie [ROOT.GetCountry.GetNameNoFormatting]. Co za tym idzie, ich status faktyczny i osobisty zostanie po ogłoszeniu niniejszego rozporządzenia uregulowany przez prawo metropolii. Jednocześnie wszelkie prawa, które rzeczona ludność nabyła do tej pory, staną się nienaruszalne.\nWszelkie przepisy, dekrety, rozporządzenia lub regulacje stanowiące inaczej niniejszym zostają zniesione.\n\nMiejsce sporządzenia: [SCOPE.sState('cremieux_decree_sign_state_scope').GetCityHubName]\nPodpisano: [SCOPE.sCharacter('cremieux_decree_leader_scope').GetFullNameNoFormatting]" 
+ algeria_events.2.f: "Rozporządzenie nr 136 dotyczące uznania rodzimej ludności żydowskiej Algierii za obywateli państwa o nazwie [ROOT.GetCountry.GetNameNoFormatting].\n\nRdzenni żydzi zamieszkujący departamenty algierskie zostają uznani za obywateli państwa o nazwie [ROOT.GetCountry.GetNameNoFormatting]. Co za tym idzie, ich status faktyczny i osobisty zostanie po ogłoszeniu niniejszego rozporządzenia uregulowany przez prawo metropolii. Jednocześnie wszelkie prawa, które rzeczona ludność nabyła do tej pory, staną się nienaruszalne.\nWszelkie przepisy, dekrety, rozporządzenia lub regulacje stanowiące inaczej niniejszym zostają zniesione.\n\nMiejsce sporządzenia: [SCOPE.sState('cremieux_decree_sign_state_scope').GetCityHubName]\nPodpisano: [SCOPE.sCharacter('cremieux_decree_leader_scope').GetFullNameNoFormatting]" #Approximate wording of Crémieux Decree
  algeria_events.2.a: "Rozporządzenie zatwierdzone. Bóg wie, przyda się odrobina dobrej woli w tym regionie."
  algeria_events.2.b: "Rozporządzenie odrzucone – wprowadziłoby za dużo zamieszania."
  algeria_events.3.t: "Porażka w Algierii"
@@ -99,7 +99,7 @@
  widespread_condemnation_modifier: "Powszechne potępienie"
  algeria_events.4.t: "Algieria francuska"
  algeria_events.4.d: "Dekady ciężkiej pracy zrodziły owoce. Tam, gdzie niegdyś rolnicy i niewolnicy harowali niczym woły pod butem wschodnich despotów, dziś [ROOT.GetCountry.GetAdjectiveNoFormatting|l] cywilizacja zapaliła swą pochodnię, odkrywając nową ziemię. Naszą ziemię."
- algeria_events.4.f: "Żałujmy Algieru i sklepów jego,\nzniknął bowiem ostatni ich ślad!\nTakich to nieprawości dopuścili się przeklęci!\nRynek Al-Qaisariya – skwerem dziś się mieni,\nchoć oprawialiśmy tam i sprzedawaliśmy święte księgi.\nSplądrowali groby naszych ojców!\nKości rozsypali!\nDziś jeżdżą po nich powozy." 
+ algeria_events.4.f: "Żałujmy Algieru i sklepów jego,\nzniknął bowiem ostatni ich ślad!\nTakich to nieprawości dopuścili się przeklęci!\nRynek Al-Qaisariya – skwerem dziś się mieni,\nchoć oprawialiśmy tam i sprzedawaliśmy święte księgi.\nSplądrowali groby naszych ojców!\nKości rozsypali!\nDziś jeżdżą po nich powozy." #Traditional Algerian song/poem
  algeria_events.4.a: "Na berberskie wybrzeże dotarła cywilizacja."
  algeria_events.4.b: "Algieria będzie nie mniej francuska niż Szampania."
  algeria_events.4.c: "Algieria ma zapewnić nam wszystko, czego zażąda nasze państwo – [ROOT.GetCountry.GetNameNoFormatting]."
@@ -144,7 +144,7 @@
  barbary_pirates_modifier: "Dziedzictwo korsarskie"
  dyn_c_regency_of_algiers: "Regencja Algieru"
  dyn_c_regency_of_algiers_adj: "Algierska"
- dyn_c_barbary: "Berberia" 
+ dyn_c_barbary: "Berberia" #Alt. Tamazgha, but that is a very modern term
  dyn_c_barbary_adj: "Berberska"
  dyn_c_maghreb: "Maghreb"
  dyn_c_maghreb_adj: "Maghrebska"
@@ -165,7 +165,7 @@
  custom_ship_charles_martel: "Karol Młot"
  custom_ship_potemkin: "Potiomkin"
  custom_ship_gangut: "Gangut"
- 
+ #Dreyfus Affair
  je_dreyfus_affair: "Sprawa Dreyfusa"
  je_dreyfus_affair_reason: "Od czasu publikacji listu „J’accuse…!” narasta niezgoda, która może wywołać zamęt we francuskim społeczeństwie i polityce. To, co na początku było debatą na temat winy jednego człowieka, rozrosło się do znacznie większych rozmiarów.\n\nMonarchiści przeciw republikanom, liberałowie przeciw konserwatystom, pobożni katolicy przeciw sekularystom… Wszyscy zastanawiają się nad ostateczną odpowiedzią na #bold pytanie#!: czy nasz kraj to Francja Ludwika Świętego, czy Francja Woltera?"
  je_dreyfus_status: "Bieżąca waga sprawy: [SCOPE.GetRootScope.GetCountry.GetCustom('dynamic_dreyfus_case_strength')]"
@@ -256,8 +256,8 @@
  dreyfus.8.e: "Rozczarowujące zakończenie rozczarowującej sprawy."
  dreyfus.8.g: "Wygląda na to, że siła „prawdy” nie była jednak wystarczająca."
  dreyfus.8.h: "Oto tryumf tradycji."
- dreyfus.8.tt_1: "We wszystkich [Concept('concept_interest_group', 'grupach interesu')] wzrośnie prawdopodobieństwo wyboru przywódców o konserwatywnych i reakcyjnych poglądach."
- dreyfus.8.tt_2: "We wszystkich [Concept('concept_interest_group', 'grupach interesu')] wzrośnie prawdopodobieństwo wyboru przywódców o liberalnych i radykalnych poglądach."
+ dreyfus.8.tt_1: "We wszystkich [Concept('concept_interest_group', 'grupach interesu')] wzrośnie prawdopodobieństwo wyboru [Concept('concept_leader', 'przywódców')] o konserwatywnych i reakcyjnych poglądach."
+ dreyfus.8.tt_2: "We wszystkich [Concept('concept_interest_group', 'grupach interesu')] wzrośnie prawdopodobieństwo wyboru [Concept('concept_leader', 'przywódców')] o liberalnych i radykalnych poglądach."
  dreyfus_army_triumphant: "Tryumf armii"
  dreyfus_army_sanization: "Zmiany w naczelnym dowództwie"
  dreyfus_pen_triumphant: "Tryumf pióra"
@@ -268,20 +268,20 @@
  dreyfus_legacy_disc_modifier: "Nierozstrzygnięta kwestia"
  dreyfus.9.t: "[SCOPE.sCharacter('ferdinand_esterhazy_scope').GetLastNameNoFormatting] przyznaje się do winy w wywiadzie."
  dreyfus.9.d: "W wywiadzie udzielonym lokalnemu dziennikarzowi [SCOPE.sCharacter('ferdinand_esterhazy_scope').GetFullName], który obecnie żyje na wygnaniu w państwie o nazwie [SCOPE.sCountry('ferdinand_esterhazy_country_scope').GetNameNoFlag] i którego podejrzewa się o bycie prawdziwym winowajcą afery [SCOPE.sCharacter('alfred_dreyfus_scope').GetLastName]a, przyznał się do winy i wyznał, że to on jest autorem feralnego bordereau."
- dreyfus.9.f: "– Napisałem ten bordereau na polecenie pułkownika Sandherra, który dzisiaj zmarł. To bardzo niefortunne, że tak się stało, ponieważ wiedział on o wszystkim. Niemniej jednak i bez obecności tego świadka jestem w stanie udowodnić, że to ja napisałem ten dokument.\n\nPonieważ biuro wywiadowcze było w stanie zebrać jedynie moralne dowody przeciwko [SCOPE.sCharacter('alfred_dreyfus_scope').GetLastNameNoFormatting]owi, dokument ten miał posłużyć za materialny dowód jego winy. Dzięki francuskiej agencji wywiadu wiadomo było jednak, że sztab generalny, którym dysponowała strona [SCOPE.sCountry('dreyfus_rival_country_scope').GetAdjectiveNoFormatting|l], był w posiadaniu dokumentów, które mógł jej dostarczyć tylko [SCOPE.sCharacter('alfred_dreyfus_scope').GetLastNameNoFormatting]." 
+ dreyfus.9.f: "– Napisałem ten bordereau na polecenie pułkownika Sandherra, który dzisiaj zmarł. To bardzo niefortunne, że tak się stało, ponieważ wiedział on o wszystkim. Niemniej jednak i bez obecności tego świadka jestem w stanie udowodnić, że to ja napisałem ten dokument.\n\nPonieważ biuro wywiadowcze było w stanie zebrać jedynie moralne dowody przeciwko [SCOPE.sCharacter('alfred_dreyfus_scope').GetLastNameNoFormatting]owi, dokument ten miał posłużyć za materialny dowód jego winy. Dzięki francuskiej agencji wywiadu wiadomo było jednak, że sztab generalny, którym dysponowała strona [SCOPE.sCountry('dreyfus_rival_country_scope').GetAdjectiveNoFormatting|l], był w posiadaniu dokumentów, które mógł jej dostarczyć tylko [SCOPE.sCharacter('alfred_dreyfus_scope').GetLastNameNoFormatting]." #Approx. quote from interview with Esterhazy
  dreyfus.9.a: "W rzeczy samej, rzuca to nowe światło na sprawę [SCOPE.sCharacter('alfred_dreyfus_scope').GetLastNameNoFormatting]a."
  dreyfus.9.b: "To nic innego jak tylko [SCOPE.sCountry('ferdinand_esterhazy_country_scope').GetAdjectiveNoFormatting|l] obłuda mająca na celu zasiać ziarno niezgody."
  dreyfus.9.c: "Ta afera ma już niewiele wspólnego z „prawdą”. Nie można wierzyć tym wyznaniom."
  dreyfus_truth_relative: "Zlekceważone dowody"
  dreyfus_truth_relative_positive: "Zlekceważone dowody"
  dreyfus_aknowledged_evidence: "Przyjęte dowody"
- 
+ #Slave Revolt Events
  slave_revolt_events.1.t: "Konstytucja wolności"
  slave_revolt_events.1.d: "Przez wiele wieków ludność [SCOPE.sCulture('freed_slave_culture_scope').GetName|l] doznawała znoju pod jarzmem bicza, nieustannie marząc o wolności. Teraz, po powstaniu niepodległego państwa o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag], za sprawą jednego podpisu to tlące się marzenie może stać się rzeczywistością. Głowie państwa przedstawiono projekt konstytucji emancypacyjnej, lecz czy [SCOPE.GetRootScope.GetCountry.GetRuler.GetPrimaryRoleTitle] ją podpisze?"
  slave_revolt_events.1.f: "(1) Ludność zamieszkująca państwo o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] niniejszym zgadza się na utworzenie nowego wolnego państwa, niezależnego i niepodległego, nad którym żadne moce we wszechświecie nie będą sprawować władzy.\n\n(2) Każda osoba mieszkająca na terenie państwa o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] jest człowiekiem wolnym pod każdym względem.\n\n(3) Niewolnictwo w państwie o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] zostaje zniesione na zawsze."
  slave_revolt_events.1.a: "Niewolnictwo powinno być zakazane na mocy konstytucji."
  slave_revolt_events.1.b: "A kto będzie pracował na polach? To zły pomysł."
- 
+ #Revolution events
  revolution_pulse2_events.1.t: "W interesie narodu"
  revolution_pulse2_events.1.d: "Podkreślając, jak ważne jest obeznanie w najnowszych postępach wojskowych, rząd proponuje, aby jedna z postaci – [SCOPE.sCharacter('army_lad_leader_scope').GetFullName] – pojechała na misję rozpoznawczą do państwa o nazwie [SCOPE.sCountry('fact_finding_mission_country_scope').GetName]. To nieszczególnie dyskretny spisek mający na celu odsunięcie kłótliwego generała od jego coraz bardziej wzburzonych zwolenników."
  revolution_pulse2_events.1.f: "Gdy lustro wyłoniło się spod obłoków pary, dotarło do [SCOPE.sCharacter('army_lad_leader_scope').GetCustom('PL_niego_niej')], że rząd równie dobrze mógłby kazać [SCOPE.sCharacter('army_lad_leader_scope').GetCustom('PL_mu_jej')] szukać śniegu na pustyni. Gdyby ta refleksja przyszła wcześniej, można byłoby po prostu odmówić. Odmawiając w tej chwili, wyjdzie tylko na osobę niespełna rozumu."
@@ -308,7 +308,7 @@
  transnational_bloody_suppression: "Krwawe tłumienie zamieszek"
  revolution_pulse2_events.4.t: "[SCOPE.sState('company_store_strike_state').GetNameNoFormatting]: bunt przeciw kartkom"
  revolution_pulse2_events.4.d: "W ramach protestu przeciwko wynagrodzeniom w formie kartek, które można wymienić jedynie w sklepie firmowym, robotnicy jednego z dużych zakładów ([SCOPE.sBuilding('company_store_strike_building').GetName|l]) w obszarze administracyjnym o nazwie [SCOPE.sState('company_store_strike_state').GetName] wszczęli zamieszki. Spaliwszy kontrowersyjny sklep, ruszyli ku głównym biurom, domagając się wprowadzenia instytucji zapewniającej wypłatę w formie gotówki."
- revolution_pulse2_events.4.f: "Przerzuciłem ton szesnaście, twarz się robi coraz starsza\nDługi rosną bez kontroli – tyle jest ma praca warta\nMnie nie wołaj, Święty Piotrze – ja nie mogę umrzeć przecież\nSklep firmowy ciągle wzywa, to w nim duszę mą znajdziecie" 
+ revolution_pulse2_events.4.f: "Przerzuciłem ton szesnaście, twarz się robi coraz starsza\nDługi rosną bez kontroli – tyle jest ma praca warta\nMnie nie wołaj, Święty Piotrze – ja nie mogę umrzeć przecież\nSklep firmowy ciągle wzywa, to w nim duszę mą znajdziecie" #Lyrics of Sixteen Tons by Merle Travis
  revolution_pulse2_events.4.a: "Decyzja o charakterze wynagrodzenia należy do firmy. Stłumcie zamieszki."
  revolution_pulse2_events.4.b: "Nie dolewajmy oliwy do ognia. Postulaty robotników są uzasadnione."
  revolution_pulse2_events.4.tt: "Wprowadźmy przepisy zakazujące zastępowania wynagrodzeń gotówkowych kartkami firmowymi."
@@ -350,7 +350,7 @@
  revolution_pulse2_events.10.b: "Lepiej przeszukajcie miasta."
  modifier_scouring_countryside: "Przetrząsanie terenów wiejskich"
  modifier_scouring_cities: "Przetrząsanie miast"
- 
+ #Custom professions
  custom_profession_hatmaker: "Kapelusznik"
  custom_profession_watchmaker: "Zegarmistrz"
  custom_profession_fishmonger: "Sprzedawca ryb"
@@ -358,7 +358,7 @@
  custom_profession_smith: "Kowal"
  custom_profession_brewer: "Piwowar"
  custom_profession_tailor: "Krawiec"
- 
+ #Land ownership law events
  land_ownership_law_events.1.t: "[SCOPE.sState('homesteading_act_state_scope').GetNameNoFormatting] i ustawa o gospodarstwach rolnych"
  land_ownership_law_events.1.d: "Członkowie grupy interesu znanej jako [SCOPE.gsInterestGroup('rural_folks_scope').GetName|l], którzy upatrują okazji w terenach leżących przy granicy, ogromnie zainteresowali się propozycją wprowadzenia jednego z praw ([SCOPE.sLaw('current_law_scope').GetName|l]). Według nich najlepsze ziemie obszaru administracyjnego o nazwie [SCOPE.sState('homesteading_act_state_scope').GetName] powinny trafić w ręce prawych rolników – takich jak oni. Obecnie dominująca w sektorze rolniczym grupa interesu, [SCOPE.gsInterestGroup('landowners_scope').GetName|l], jest tym faktem rozgoryczona."
  land_ownership_law_events.1.f: "Płomienne debaty w gmachu sądu trwały wiele dni. Równie prędko jak rzucano oskarżenia, powoływano się na to czy tamto prawo spadkowe lub naturalne. Bronią była kradzież i nielegalne zajmowanie własności. Tarczą – prawa krwi, nazwiska rodów i niejasne przepisy sprowadzające się do sprzeczek o to, kto był pierwszy."
@@ -440,7 +440,7 @@
  legal_jargon_complicates_reform: "Żargon prawniczy komplikuje reformę"
  the_return_of_the_good_old_days: "Powrót starych, dobrych czasów"
  anti_feudal_opposition: "Odrzucenie neofeudalizmu"
- 
+ #Garibaldi Events
  garibaldi_popularity_modifier_tier_1: "Niesprawdzony idealista"
  garibaldi_popularity_modifier_tier_2: "Gaucho"
  garibaldi_popularity_modifier_tier_3: "Lew"
@@ -448,32 +448,32 @@
  garibaldi_popularity_modifier_tier_5: "Bohater dwóch światów"
  garibaldi_events.1.t: "Garibaldi oferuje swe usługi"
  garibaldi_events.1.d: "Włoski rewolucjonista i nacjonalista [SCOPE.sCharacter('garibaldi_scope').GetFullName] dostrzegł słuszność naszych zmagań z państwem o nazwie [SCOPE.sCountry('garibaldi_spawn_foe_scope').GetName] i zdecydował się wesprzeć naszą sprawę. W ramach swojej pomocy może służyć nam w charakterze generała."
- garibaldi_events.1.f: "– Nie gwarantuję żołdu, dachu nad głową ni wiktu. Gwarantuję jedynie głód, pragnienie, forsowne marsze, bitwy i śmierć. Niech ci, którzy miłują swój kraj sercem, a nie jedynie słowem, podążają za mną." 
+ garibaldi_events.1.f: "– Nie gwarantuję żołdu, dachu nad głową ni wiktu. Gwarantuję jedynie głód, pragnienie, forsowne marsze, bitwy i śmierć. Niech ci, którzy miłują swój kraj sercem, a nie jedynie słowem, podążają za mną." #Garibaldi
  garibaldi_events.1.a: "Niech nasze armie poprowadzi [SCOPE.sCharacter('garibaldi_scope').GetFullName]."
  garibaldi_events.1.b: "Na nic nam się zda ten szalony podjudzacz."
  rejected_garibaldi_modifier: "Odrzucenie wsparcia Garibaldiego"
  garibaldi_events.2.t: "Garibaldi żegna się"
  garibaldi_events.2.d_1: "Z powodu wybuchu wojny pomiędzy państwem o nazwie [SCOPE.sCountry('garibaldi_italian_nation_scope').GetName] a państwem o nazwie [SCOPE.sCountry('garibaldi_foreign_nation_scope').GetName] [SCOPE.sCharacter('garibaldi_scope').GetFullName] postanowił opuścić kraj o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag], by móc toczyć walkę z wrogami Włoch."
  garibaldi_events.2.d_2: "W państwie o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag] zapanował pokój, a jego walka z tyranami, przynajmniej na razie, dobiegła końca, dlatego [SCOPE.sCharacter('garibaldi_scope').GetFullName] postanowił opuścić kraj w poszukiwaniu kolejnej sprawy, o którą warto walczyć."
- garibaldi_events.2.f: "– Musimy gnać tam, gdzie bracia walczą o wolność Włoch." 
+ garibaldi_events.2.f: "– Musimy gnać tam, gdzie bracia walczą o wolność Włoch." #Garibaldi
  garibaldi_events.2.a: "Wszystkim zajmie się generał [SCOPE.sCharacter('garibaldi_scope').GetLastName]."
  garibaldi_events.3.t: "Włoski legion ochotniczy"
  garibaldi_events.3.d: "Generał [SCOPE.sCharacter('garibaldi_scope').GetFullName] namówił przedstawicieli włoskiej populacji obszaru administracyjnego [SCOPE.sState('italian_legion_state_scope').GetName] do stworzenia legionu podobnych mu rodaków i dołączenia do państwa o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag] w walce przeciwko tyranii państwa o nazwie [SCOPE.sCountry('italian_legion_foe_scope').GetName]."
- garibaldi_events.3.f: "– Rodacy! Nas jest niewielu, wrogów – mnóstwo. Tym większe będzie zatem nasze zwycięstwo. Zachowajcie spokój i strzelajcie dopiero, gdy się do was zbliżą. Strzelajcie i zaszlachtujcie ich bagnetami!" 
+ garibaldi_events.3.f: "– Rodacy! Nas jest niewielu, wrogów – mnóstwo. Tym większe będzie zatem nasze zwycięstwo. Zachowajcie spokój i strzelajcie dopiero, gdy się do was zbliżą. Strzelajcie i zaszlachtujcie ich bagnetami!" #Garibaldi
  garibaldi_events.3.a: "Ich zdolności i zapał są rozpaczliwie potrzebne na polu bitwy."
  garibaldi_events.3.b: "Trzeba wykorzystać ich doświadczenie do wyszkolenia i zrekrutowania większej liczby mężczyzn, którzy dołączą do naszej armii."
  italian_legion_barracks_modifier: "Koszary włoskiego legionu"
  italian_legionaries_modifier: "Ochotnicy z włoskiego legionu"
  garibaldi_events.4.t: "Garibaldi porywa chłopów"
  garibaldi_events.4.d: "[SCOPE.sCharacter('garibaldi_scope').GetFullName] udowodnił, że posiada zdolność poruszania umysłów prostych ludzi, co okazało się przydatne podczas walki z państwem o nazwie [SCOPE.sCountry('garibaldi_peasants_foe_scope').GetName], jednak jego radykalne wystąpienia powoli sprawiają, że niektórzy przedstawiciele jednej z populacji ([GetPopType('farmers').GetName|l]) z obszaru administracyjnego o nazwie [SCOPE.sState('garibaldi_peasants_state_scope').GetName] zaczynają występować również przeciwko naszym rządom. Z tego powodu kilku ministrów domaga się, by [SCOPE.sCharacter('garibaldi_scope').GetFullName] został uciszony."
- garibaldi_events.4.f: "– W dniu, w którym chłopi zaczną być kształceni w duchu prawdy, na ziemi zabraknie miejsca dla tyranów i niewolników." 
+ garibaldi_events.4.f: "– W dniu, w którym chłopi zaczną być kształceni w duchu prawdy, na ziemi zabraknie miejsca dla tyranów i niewolników." #Garibaldi
  garibaldi_events.4.a: "Jest zbyt ważny dla naszej sprawy. Musimy unikać polaryzacji."
  garibaldi_events.4.b: "Lepiej żeby spuścił nieco z tonu."
  emboldened_peasantry_modifier: "Rozzuchwaleni chłopi"
- 
+ #Luddite Law Events
  luddite_law_events.1.t: "Darwin wśród maszyn"
  luddite_law_events.1.d: "[SCOPE.GetRootScope.GetCountry.GetCapital.GetCityHubName] – artykuł opublikowany w gazecie „[SCOPE.GetRootScope.GetCountry.GetCustom('generic_newspaper_type')]” cieszy się niezwykłą popularnością w kręgach literackich, zaogniając trwającą debatę na temat pewnego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]). Autor tegoż artykułu twierdzi, że maszyny są swego rodzaju formą mechanicznego życia, która przechodzi nieustanną ewolucję. Ostrzega przy tym, że jeśli ludzie nie będą rozważni, maszyny mogą pewnego dnia zastąpić rasę ludzką jako gatunek dominujący na świecie."
- luddite_law_events.1.f: "„Spróbujmy odpowiedzieć na zasadnicze pytanie. Kto zastąpi człowieka jako istotę dominującą na Ziemi? Słyszeliśmy już wiele teorii na ten temat, lecz zdaje się, że to my sami tworzymy naszych następców.\n\nDzień za dniem maszyny stają się coraz bardziej popularne, a my coraz bardziej im ulegamy. Każdego dnia ludzie kłaniają się im niczym niewolnicy i poświęcają całą swoją energię na rozwój mechanicznego życia.\n\nNie minie wiele czasu, a zobaczymy tego skutki”." 
+ luddite_law_events.1.f: "„Spróbujmy odpowiedzieć na zasadnicze pytanie. Kto zastąpi człowieka jako istotę dominującą na Ziemi? Słyszeliśmy już wiele teorii na ten temat, lecz zdaje się, że to my sami tworzymy naszych następców.\n\nDzień za dniem maszyny stają się coraz bardziej popularne, a my coraz bardziej im ulegamy. Każdego dnia ludzie kłaniają się im niczym niewolnicy i poświęcają całą swoją energię na rozwój mechanicznego życia.\n\nNie minie wiele czasu, a zobaczymy tego skutki”." #Darwin among the Machines by Samuel Butler
  luddite_law_events.1.a: "Maszyna nigdy nie zastąpi człowieka."
  luddite_law_events.1.b: "Chyba ktoś tu zbyt długo siedział w swoim zatęchłym gabinecie."
  luddite_law_events.1.c: "Fascynująca idea. Doprawdy fascynująca."
@@ -481,7 +481,7 @@
  time_to_go_outside_modifier: "Czas wyjść na zewnątrz"
  luddite_law_events.2.t: "Proste życie"
  luddite_law_events.2.d: "[SCOPE.sCharacter('simple_living_leader_scope').GetFullName], zdecydowanie sprzeciwiający się modernizmowi przywódca grupy interesu o nazwie [SCOPE.gsInterestGroup('simple_living_ig_scope').GetName|l], wychwala propozycję ustanowienia nowego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]). Twierdzi, że dzięki temu ludność [SCOPE.sCulture('simple_living_primary_culture_scope').GetName|l] porzuci swoje zdemoralizowane modernistyczne zapędy i wróci w czułe objęcia naszego bóstwa, którym jest [SCOPE.GetRootScope.GetCountry.GetCustom('GetDivinity')]."
- luddite_law_events.2.f: "– W dzisiejszych czasach ludzie szczycą się coraz bardziej zaawansowanymi modyfikacjami, które wdrażają w naszym świecie. Wskutek tego wszystko, co nas otacza, staje się coraz bardziej sztuczne." 
+ luddite_law_events.2.f: "– W dzisiejszych czasach ludzie szczycą się coraz bardziej zaawansowanymi modyfikacjami, które wdrażają w naszym świecie. Wskutek tego wszystko, co nas otacza, staje się coraz bardziej sztuczne." #René Guénon
  luddite_law_events.2.a: "[SCOPE.sCharacter('simple_living_leader_scope').GetCustom('PL_jego_jej')|U] słowa mają sens. Mamy wspólny cel."
  luddite_law_events.2.b: "Lepiej nie rozmawiajmy z fanatykami."
  a_zealot_scorned_modifier: "Fanatyk wzgardzony"
@@ -490,13 +490,13 @@
  widespread_dogmatic_intolerance: "Powszechna dogmatyczna nietolerancja"
  luddite_law_events.3.t: "Furor technophobicus"
  luddite_law_events.3.d: "[SCOPE.sBuilding('technophobic_fury_building_scope').GetName] w obszarze administracyjnym o nazwie [SCOPE.sState('technophobic_fury_state_scope').GetName] – zwykły protest przeciwko potencjalnej automatyzacji niektórych zadań szybko przerodził się w zamieszki, gdy pewien zradykalizowany brygadzista wziął do ręki młotek i otworzył drzwi do hali fabrycznej. [SCOPE.GetRootScope.GetCountry.GetAdjectiveNoFlag] opinia publiczna szybko usłyszała o zniszczonych maszynach i połamanych kościach, a debata na temat spornego prawa ([SCOPE.sLaw('current_law_scope').GetName|l]) zaogniła się."
- luddite_law_events.3.f: "„A gdy już sieć nasza zostanie utkana\nI czółenko zamienimy na miecz,\nFalującym płótnem rzucimy zaraz\nI naszego despotę przegnamy precz,\nBarwiąc go krwią, która przezeń została przelana”." 
+ luddite_law_events.3.f: "„A gdy już sieć nasza zostanie utkana\nI czółenko zamienimy na miecz,\nFalującym płótnem rzucimy zaraz\nI naszego despotę przegnamy precz,\nBarwiąc go krwią, która przezeń została przelana”." #Song for the Luddites, Lord Byron
  luddite_law_events.3.a: "To niefortunny wypadek w nieodpowiednim czasie."
  luddite_law_events.3.b: "Aresztować i hołotę, i prowodyrów. Oni nas nie reprezentują."
  rage_against_the_machine_modifier: "Bunt przeciwko maszynie"
  anti_worker_crackdowns_modifier: "Represje na hali fabrycznej"
  a_reputation_for_violence_modifier: "Reputacja brutalnego człowieka"
- 
+ #Exile Agitator Events
  yeet_agitator_events.1.t: "Jałowa gleba"
  yeet_agitator_events.1.d: "Mieszkańcy państwa o nazwie [ROOT.GetCountry.GetName] i domniemani sojusznicy polityczni pozostali obojętni na idee, za którymi stoi [SCOPE.sCharacter('yeeted_agitator_scope_1').GetFullName], co rozwścieczyło tę osobę i sprawiło, że zdecydowała się ona zrezygnować z udziału w życiu politycznym, by spędzić resztę swojego życia na spisywaniu pełnych zgorzknienia rozmyślań na temat tego, co nigdy nie nadeszło."
  yeet_agitator_events.1.f: "– Objawiam tym gamoniom prawdę i co mnie za to spotyka? Głucha cisza! [ROOT.GetCountry.GetCapital.GetCityHubName] to niby miasto kiełkujących idei? #italic Kwitnącej kultury#!? Jedyny wzrost, jaki można dostrzec w tym zawszonym i śmierdzącym mieście, ma miejsce na otaczających je polach, ale nawet #italic one#! są żałośnie zarządzane. Cieszę się, że wszystkich was zostawiam! Doprawdy się cieszę!"
@@ -522,7 +522,7 @@
  yeet_agitator_events.3.b: "Uczcijmy [SCOPE.sCharacter('yeeted_agitator_scope_3').GetCustom('PL_jego_jej')] pamięć. Może umieścimy [SCOPE.sCharacter('yeeted_agitator_scope_3').GetCustom('PL_jego_jej')] popiersie w mieście [ROOT.GetCountry.GetCapital.GetCityHubName]?"
  agitator_legacy_modifier: "Dziedzictwo agitacji"
  honouring_agitator_modifier: "Honorowe popiersie"
- 
+ #Paris Commune ( Written by Jade)
  commune_progress_subtract_5: "Postęp #bold Komuny Paryskiej#! #bold zmniejszy się#! o #bold 5#!"
  commune_progress_add_5: "Postęp #bold Komuny Paryskiej#! #bold zwiększy się#! o #bold 5#!"
  paris_commune_pulse_events.1.t: "Przejmowanie kościoła i państwa"
@@ -568,7 +568,7 @@
  accusations_of_hysterical_mania_modifier: "Oskarżenia o histerię i szaleństwo"
  paris_commune_pulse_events.5.t: "Wrodzy żołnierze"
  paris_commune_pulse_events.5.d: "Rząd w Wersalu zezwolił członkom grupy interesu o nazwie [SCOPE.gsInterestGroup('armed_forces_scope').GetName|l] na osądzanie i skazywanie schwytanych komunardów w ciągu 24 godzin. W ramach zemsty Rada Centralna w Paryżu wydała rozporządzenie, w ramach którego zapowiedziała, że za każdy wyrok śmierci wydany przez trybunał wojskowy dokona egzekucji na trzech osobach."
- paris_commune_pulse_events.5.f: "– Tak oto my, paryżanie, jesteśmy nękani dwoma okropnymi prawami: przywróconym do życia przez Komunę dekretem o podejrzanych i ustawą o bezzwłocznych egzekucjach, która z pewnością zostanie zatwierdzona przez Zgromadzenie. Nie strzelają do siebie z armat, tylko wyrzynają się nawzajem rozporządzeniami." 
+ paris_commune_pulse_events.5.f: "– Tak oto my, paryżanie, jesteśmy nękani dwoma okropnymi prawami: przywróconym do życia przez Komunę dekretem o podejrzanych i ustawą o bezzwłocznych egzekucjach, która z pewnością zostanie zatwierdzona przez Zgromadzenie. Nie strzelają do siebie z armat, tylko wyrzynają się nawzajem rozporządzeniami." #Emile Zola
  paris_commune_pulse_events.5.a: "Strzelać, by zabić. To żołnierze wroga."
  paris_commune_pulse_events.5.b: "To zdrajcy. Zabić wszystkich, którzy wzbudzają podejrzenia."
  paris_commune_pulse_events.5.c: "To zwykłe podżeganie. Aresztować nieuzbrojonych podejrzanych."
@@ -705,7 +705,7 @@
  hispaniola_events.1.f: "#bold Co do grosza!#!\nNareszcie zerwaliśmy finansowe kajdany, które przykuwały nas do naszych dawnych kolonialnych władców. Dzisiejszego popołudnia spłaciliśmy naszemu wierzycielowi ostatnią ratę, którą otrzymała [SCOPE.sCountry('france_scope').GetAdjectiveNoFormatting|l] #italic caisse des dépôts et consignations#!. To już koniec trwającego od wielu dekad finansowego upokorzenia."
  hispaniola_events.1.a: "Za przodków i ojczyznę!"
  hispaniola_events.1.b: "Wreszcie będziemy jedynymi panami tej ziemi."
- pearl_of_the_antilles_modifier: "Wyzwolona Perła Antyli"
+ pearl_of_the_antilles_modifier: "Odnowiona Perła Antyli"
  the_country_of_our_ancestors_modifier: "Państwo naszych przodków"
  hispaniola_events.2.t: "Cud w Saint-Domingue"
  hispaniola_events.2.d: "[SCOPE.sCountry('haiti_scope').GetAdjective] ludność spłaciła całość odszkodowania i wszystkie długi. Na mocy zawartej z nami umowy jej państwo zostaje zwolnione ze wszystkich zobowiązań."

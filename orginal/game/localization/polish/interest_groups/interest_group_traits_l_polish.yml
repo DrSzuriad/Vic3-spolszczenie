@@ -1,5 +1,5 @@
 ﻿l_polish:
- 
+ #Landowners IG Traits
  ig_trait_noblesse_oblige: "Noblesse oblige"
  ig_trait_noblesse_oblige_desc: "Jesteśmy lepsi niż przedstawiciele niższych klas, dlatego naszym obowiązkiem jest się nimi opiekować. Ich próby zorganizowania się mają charakter autodestrukcyjny i są skazane na porażkę."
  ig_trait_family_ties: "Więzi rodzinne"
@@ -22,7 +22,7 @@
  ig_trait_wiener_walzer_desc: "Na ostatnim balu ktoś miał czelność poprosić o zagranie menueta. Mój drogi, my tańczymy walce! To my kształtujemy modę, a menuety modne #italic nie#! są!"
  ig_trait_fazenda_ibicaba: "Fazenda Ibicaba"
  ig_trait_fazenda_ibicaba_desc: "Problem rezerw ludzkich nieustannie dotyka naszych przedsiębiorstw, dlatego musimy pozyskać siłę roboczą wszelkimi dostępnymi sposobami."
- 
+ #Industrialists IG Traits
  ig_trait_job_creators: "Nowe miejsca pracy"
  ig_trait_job_creators_desc: "Aby zarobić pieniądze, trzeba je najpierw wydać. Dopóki rządowi można ufać i dopóki nie miesza się on w nasze inwestycje, będziemy z przyjemnością inwestować nasze zyski w rozwój gospodarczy."
  ig_trait_engines_of_progress: "Promocja postępu"
@@ -39,7 +39,7 @@
  ig_trait_ventilate_unify_beautify_desc: "Widzieliście, jak to wszystko wygląda? To wylęgarnia chorób, miejsce, do którego nigdy nie dociera słońce, gdzie roślinność marnieje i więdnie i gdzie niepodzielnie rządzą żałość i zaraza. To właśnie na nas spoczywa obowiązek okiełznania tego chaosu."
  ig_trait_the_goods_must_flow: "Przepływ towarów musi trwać"
  ig_trait_the_goods_must_flow_desc: "Dobrze jest mieć tak dużą produkcję, jak nasze państwo, ale bez dostępu do rynków zbytu nie ma z niej żadnego pożytku. Czas upewnić się, że nasz naród dostrzega potrzebę i wagę rozbudowanej sieci transportowej."
- 
+ #Armed Forces IG Traits
  ig_trait_patriotic_fervor: "Patriotyczny zapał"
  ig_trait_patriotic_fervor_desc: "Sprytna strategia i zaawansowana broń to nie wszystko – niektóre bitwy można wygrać tylko ciężką pracą i odwagą. Wojskowi, którzy naprawdę wierzą w wartości swojego państwa, będą walczyć dzielnie niezależnie od szans na zwycięstwo."
  ig_trait_veteran_consultation: "Opinia weteranów"
@@ -60,7 +60,7 @@
  ig_trait_clube_militar_desc: "Miejsce odpoczynku, relaksu i mobilizacji dla oficerów i wojskowych takich jak my na pewno nikomu nie zaszkodzi. Przeciwnie: na lokalu, w którym wszyscy będziemy mogli rozmawiać i snuć plany, państwo może jedynie skorzystać."
  ig_trait_coronelismo: "Coronelismo"
  ig_trait_coronelismo_desc: "Widziałeś najnowsze rozporządzenie rządu? Czy oni w ogóle wiedzą, kim jesteśmy? Z tak docenianym dżentelmenem jak ja nie powinno się zadzierać. Mam ludzi i majątek!"
- 
+ #Rural Folk IG Traits
  ig_trait_farmers_markets: "Rynki rolne"
  ig_trait_farmers_markets_desc: "W dzisiejszych czasach dostarczanie produkowanych towarów społeczeństwu stanowi poważny problem. W sprzyjających okolicznościach możemy sami dostarczać nasze towary tam, gdzie są potrzebne."
  ig_trait_honest_work: "Uczciwa praca"
@@ -75,7 +75,7 @@
  ig_trait_nucleos_coloniais_desc: "Nowy dom oznacza początek nowego życia. Cóż za wspaniała chwila! Chodź, sprawdźmy, co czeka na nas w nowej osadzie."
  ig_trait_plantation_work: "Praca na plantacjach"
  ig_trait_plantation_work_desc: "Dzień za dniem pracujemy w pocie czoła, by zdobyć to, czego potrzebujemy do przetrwania. Bywa jednak, że dzień przynosi nam coś więcej. Wspomnienia tych dni pielęgnujemy w naszych sercach."
- 
+ #Trade Unions IG Traits
  ig_trait_solidarity: "Solidarność"
  ig_trait_solidarity_desc: "Wszyscy chętni do pracy powinni ją dostać! Nie można nikogo wykluczyć. Musimy popierać swoje prawa do uczciwego wynagrodzenia za pracę."
  ig_trait_industrial_organizers: "Organizacja przemysłu"
@@ -84,7 +84,7 @@
  ig_trait_work_to_rule_desc: "Rządzący chcą chyba, abyśmy przestali samodzielnie myśleć, a zamiast tego zamknęli się i wykonywali polecenia. Ciekawe, co powiedzą, gdy zaczniemy stosować tę filozofię podczas naszej pracy, która rzekomo „nie wymaga kwalifikacji”."
  ig_trait_bourse_du_travail: "Bourse du travail"
  ig_trait_bourse_du_travail_desc: "Działanie w ramach organizacji nie kończy się wraz z zakończeniem dnia roboczego! Idea jedności zakłada, że pomoc udzielana jest nie tylko na terenie fabryki, ale także w naszych domach i społecznościach."
- 
+ #Intelligentsia IG Traits
  ig_trait_propagandists: "Propaganda"
  ig_trait_propagandists_desc: "W naszej poezji, naszych listach i manifestach politycznych musimy przede wszystkim podkreślać postępy, których dokonało nasze państwo. Są one przykładem tego, co nowa era musi przynieść tym częściom świata, które miały mniej szczęścia niż my."
  ig_trait_avant_garde: "Awangarda"
@@ -101,14 +101,14 @@
  ig_trait_brasilidade_desc: "Chodź, przyjacielu, dziś wieczór czeka nas zabawa! Tu, w świetle gwiazd i z butelką w dłoni, można posłuchać najpiękniejszych ballad na świecie. A tam – spójrz tylko, co on maluje! To właśnie jest życie!"
  ig_trait_bachareis: "Bacharéis"
  ig_trait_bachareis_desc: "Wiemy, czego potrzebuje naród! Przemawiamy przecież w imieniu ludu. Co takiego? Przecież wcale nie twierdziliśmy, że rozmawiamy #italic z#! ludźmi."
- 
+ #Petite-Bourgeoisie IG Traits
  ig_trait_treasury_bonds: "Obligacje skarbowe"
  ig_trait_treasury_bonds_desc: "Dopóki rząd spłaca swoje długi, będziemy przekazywać nasze ciężko zarobione oszczędności na rzecz finansowania tego wspaniałego państwa. To nie tylko wyraz patriotyzmu, ale też dobra inwestycja."
  ig_trait_middle_managers: "Zarządzanie na średnim szczeblu"
  ig_trait_middle_managers_desc: "Nie da się zmusić wszystkich do postępowania zgodnie z przepisami, ale możemy przynajmniej prowadzić rejestr tego, co zostało już zrobione. Ktoś musi pamiętać, jak powinno się wykonywać obowiązki."
  ig_trait_xenophobia: "Ksenofobia"
  ig_trait_xenophobia_desc: "Wszyscy wiemy, kto ponosi winę za sytuację w naszym państwie, ale ludzie boją się o tym mówić. A tymczasem tamci śmieją się z nas za naszymi plecami, bo wszystko uchodzi im na sucho. Ktoś musi zacząć działać."
- ig_trait_bergsbrukens_valdistrikten: "Bergsbrukens valdistrikten"
+ ig_trait_bergsbrukens_valdistrikten: "Bergsbrukens valdistrikt"
  ig_trait_bergsbrukens_valdistrikten_desc: "Zażyła współpraca przemysłu wydobywczego z mieszczaństwem doprowadza w lepszych czasach do sytuacji, w której jesteśmy w stanie zapewnić państwu poparcie, o jakim inne kraje mogą jedynie pomarzyć."
  ig_trait_effendi: "Efendi"
  ig_trait_effendi_desc: "Dotarliśmy na szczyt dzięki szczerym chęciom i uczciwym metodom. Nasze wysiłki słusznie chwalone są przez wszystkich."
@@ -124,7 +124,7 @@
  ig_trait_civil_service_desc: "Ludzie mają przedziwne wyobrażenia na temat roli pracowników służby cywilnej. A zaczyna się ona i kończy na sformułowaniu treści praw i wprowadzeniu ich w życie."
  ig_trait_bah_humbug: "Toż to brednie"
  ig_trait_bah_humbug_desc: "Powiadasz, że biedota i nędzarze są w potrzebie? A co? Nie ma już więzień? Pozamykano wszystkie przytułki? Nie? To zostaw mnie w spokoju i wyślij tam tych biedaków."
- 
+ #Devout IG Traits
  ig_trait_be_fruitful_and_multiply: "Płodność i rozmnażanie"
  ig_trait_be_fruitful_and_multiply_desc: "Ascetyzm jest dobry dla tych nielicznych, którzy chcą poświęcić się duchowym wędrówkom. Dla zwykłych ludzi najważniejsza jest rodzina i opieka nad dziećmi."
  ig_trait_divine_right: "Prawo boskie"

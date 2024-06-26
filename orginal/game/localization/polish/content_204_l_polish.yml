@@ -9,7 +9,7 @@
  krakow.1.b: "Musimy utrzymać status traktatu wiedeńskiego."
  krakow.2.t: "Wielkie Księstwo Krakowskie"
  krakow.2.d: "Rewolucja w Krakowie została powstrzymana, a dawne wolne miasto ponownie wcielono do Królestwa Galicji i Lodomerii jako Wielkie Księstwo Krakowskie. W całej Europie sytuacja ta stała się źródłem kontrowersji, ponieważ naruszono w ten sposób postanowienia traktatu wiedeńskiego."
- krakow.2.f: "– Każdy plan obmyślony w spokojnych czasach musi zawieść w sytuacji ekstremalnej." 
+ krakow.2.f: "– Każdy plan obmyślony w spokojnych czasach musi zawieść w sytuacji ekstremalnej." #- Klemens von Metternich
  krakow.2.a: "Skupmy się na załagodzeniu konsekwencji dyplomatycznych."
  krakow.2.b: "Nie przestawajmy represjonować ich radykalnej ideologii."
  je_the_krakow_uprising_annex_button: "Przejmij Kraków"
@@ -88,7 +88,7 @@
  red_scare.13.b: "Uchylić wyrok i powtórzyć proces."
  red_scare.14.t: "[SCOPE.sCountry('red_scare_target_nation').GetAdjective] arka"
  red_scare.14.d: "Władza [ROOT.GetCountry.GetAdjective|l] ma pełne ręce roboty, ponieważ do krajowych więzień zaczęli trafiać aresztowani komuniści. W związku z tym niektórzy z przedstawicieli rządu zasugerowali wynajęcie statku towarowego, załadowanie na niego więźniów nieposiadających obywatelstwa i deportowanie ich do państwa o nazwie [SCOPE.sCountry('red_scare_target_nation').GetName]."
- red_scare.14.f: "– Noe zbudował arkę i wypłynął nią w rejs, aby chronić całą ludzkość. Tak samo [SCOPE.sCountry('red_scare_target_nation').GetAdjectiveNoFormatting|l] arka wyruszy na szerokie wody, aby nasza ojczyzna, [ROOT.GetCountry.GetNameNoFormatting], była bezpieczna." 
+ red_scare.14.f: "– Noe zbudował arkę i wypłynął nią w rejs, aby chronić całą ludzkość. Tak samo [SCOPE.sCountry('red_scare_target_nation').GetAdjectiveNoFormatting|l] arka wyruszy na szerokie wody, aby nasza ojczyzna, [ROOT.GetCountry.GetNameNoFormatting], była bezpieczna." #- NY Evening Journal
  red_scare.14.a: "Jakże cudownie poetycka sugestia."
  red_scare.14.b: "Odsiedzą swój wyrok na naszej ziemi."
  red_scare.15.t: "Groźby wobec reprezentantów lewicy"
@@ -98,7 +98,7 @@
  red_scare.15.b: "Odbieranie im okazji do udziału w pokojowej dyskusji jest błędem."
  red_scare.20.t: "Terror zelżał"
  red_scare.20.d: "Po wielu latach agresywnej propagandy i głębokiej nieufności ze strony społeczeństwa czerwona panika nieco ustąpiła. Choć wiele osób wciąż zachowuje czujność i szuka śladów aktywności komunistów, zdaje się, że czasy bezwzględnego strachu minęły. Nasze państwo, [ROOT.GetCountry.GetName], może trochę odetchnąć."
- red_scare.20.f: "– Znaleźliśmy się w takim punkcie rozwoju politycznego, w którym polowanie na heretyków stało się dozwolone i traktowane jest jak sport." 
+ red_scare.20.f: "– Znaleźliśmy się w takim punkcie rozwoju politycznego, w którym polowanie na heretyków stało się dozwolone i traktowane jest jak sport." #- Charles Evans Hughes
  red_scare.20.a: "Nasze państwo będzie bezpieczne."
  red_scare.20.b: "Musimy odpokutować za nasze wybryki."
  modifier_red_scared_reactionary: "Strach wśród przeciwników komunizmu"
@@ -128,7 +128,7 @@
  modifier_support_for_more_cops: "Popieranie środków porządkowych"
  modifier_propaganda_flopped: "Mierna propaganda"
  modifier_suspect_testimony: "Podejrzane zeznania"
- 
+ #Positivism
  modifier_positivist_teaching: "Dyskusja na temat pozytywizmu"
  modifier_positivist_doctrinaire: "Pozytywistyczny doktryner"
  modifier_positivist_influence: "Wpływ pozytywizmu"
@@ -149,7 +149,7 @@
  is_democratic_tt: "Ten naród dopuszcza [Concept('concept_votes', '$concept_voting$')|l] podczas [Concept('concept_election', 'wyborów')]"
  positivism.1.t: "Ludzkość na piedestale"
  positivism.1.d: "[SCOPE.sCharacter('comte_scope').GetFullName], ekspert w dziedzinie filozofii nauki z École Polytechnique w obszarze administracyjnym o nazwie [SCOPE.sState('paris_scope').GetName], opublikował traktat na temat reorganizacji społeczeństwa w oparciu o zasady pozytywizmu."
- positivism.1.f: "– Patrząc na tę kwestię z moralnego, naukowego, a nawet poetyckiego punktu widzenia, jest ona równie ważna. To jedyna zasada, dzięki której ludzkość może bez szwanku wyjść z największego kryzysu, z jakim przyszło się jej mierzyć. Dla wszystkich stanie się teraz jasne, że siła demonstracji, jakże właściwa dla naszych czasów, która wciąż ma charakter dość destrukcyjny, dojrzewa i uwzniośla się dzięki pozytywizmowi." 
+ positivism.1.f: "– Patrząc na tę kwestię z moralnego, naukowego, a nawet poetyckiego punktu widzenia, jest ona równie ważna. To jedyna zasada, dzięki której ludzkość może bez szwanku wyjść z największego kryzysu, z jakim przyszło się jej mierzyć. Dla wszystkich stanie się teraz jasne, że siła demonstracji, jakże właściwa dla naszych czasów, która wciąż ma charakter dość destrukcyjny, dojrzewa i uwzniośla się dzięki pozytywizmowi." #- Auguste Comte
  positivism.1.a: "[ROOT.GetCountry.GetAdjective] społeczność akademicka zyska na tym ciekawym darze."
  positivism.1.b: "Trzeba się przyjrzeć bliżej jego idei fizyki społecznej."
  positivism.1.c: "Skoro chce zmienić społeczeństwo, to niech próbuje."
@@ -220,7 +220,7 @@
  je_positivist_movement_suppress_positivism_button_desc: "Piętnuj działania organizacji pozytywistycznych, aby zapobiec szerzeniu się tego niebezpiecznego nurtu filozoficznego."
  positivist_cooldown_tt: "Nie podjęto żadnej decyzji dotyczącej wpisu w dzienniku #bold Fala pozytywizmu#! w ciągu ostatniego #bold roku#!"
  cooldown_year_tt: "Decyzje dotyczące wpisu w dzienniku #bold Fala pozytywizmu#! będzie można podjąć ponownie za #bold jeden rok#!"
- 
+ #Cristo Redentor
  modifier_cristo_redentor_rejected: "Odmowa wzniesienia pomnika Chrystusa Zbawiciela"
  modifier_cristo_redentor_accepted: "Zgoda na wzniesienie pomnika Chrystusa Zbawiciela"
  modifier_cristo_redentor_funds: "Fundusze na tydzień pomnikowy przekierowane"
@@ -239,7 +239,7 @@
  cristo_redentor.2.f: "Ukończone dzieło zabłysnęło w świetle reflektorów, których promienie rozproszyły mgłę. Baranek Boży stanął na wielkim cokole nad miastem [SCOPE.sState('rio_state').GetCityHubName] z rozpostartymi ramionami, witając wszystkich ludzi. Wierni, miłośnicy sztuki – teraz każdy może podziwiać to wspaniałe osiągnięcie inżynierii."
  cristo_redentor.2.a: "Ten pomnik będzie wiecznym symbolem państwa o nazwie [ROOT.GetCountry.GetName]."
  cristo_redentor.2.b: "[SCOPE.gsInterestGroup('devout_ig').GetName] to grupa interesu, która pokazała, jak wielkie jest ich oddanie."
- 
+ #Land Reform
  ideology_land_reformer: "Reformator rolny"
  ideology_land_reformer_desc: "Ta postać za wszelką cenę chce osłabić władzę właścicieli ziemskich i przyznać ziemie zwykłym obywatelom, którzy mogliby je uprawiać."
  je_agricultural_development: "Rzeka kawy"
@@ -360,7 +360,7 @@
  coffee_with_milk.16.f: "– To już piętnasty chłop, którego dziś stąd wyrzuciliśmy. Ci przerzucacze gnoju są bezczelni. Czy procedury prawne nic dla nich nie znaczą?\n– Senhor?\n– Nie teraz. „Zajmijcie się coronelami albo oni zrobią to za nas”. Ha! Powinniśmy ustanowić nowe przepisy, aby uniemożliwić tym ludziom powrót…\n– Senhor!\n– O co chodzi? Tym razem przyszło dwudziestu chuliganów? Wezwij straż, niech aresztują tę hołotę!\n– Senhor, proszę spojrzeć! Są ich setki!"
  coffee_with_milk.16.a: "Mieszkańcy obszaru administracyjnego [SCOPE.sState('bandits_state').GetNameNoFormatting] czerpią inspirację z niebezpiecznych źródeł."
  coffee_with_milk.16.b: "Nasze państwo, [ROOT.GetCountry.GetName], jest już całkowicie sterroryzowane."
- 
+ #Gran Colombia
  modifier_founded_gran_colombia: "Odnowiciele Wielkiej Kolumbii"
  modifier_andean_federation_prestige: "Chwała federacji"
  modifier_andean_federation_military: "Potęga federacji"
@@ -427,7 +427,7 @@
  la_plata.2.a: "Niech zatriumfują święta wolność i jedność!"
  la_plata.2.b: "Musimy władać terenami aż po sam Pacyfik."
  la_plata_b_tt: "[concept_journal_entry] #bold Rio de La Plata#! zostanie odrzucony"
- 
+ #Vargas
  modifier_knight_of_hope: "Rycerz nadziei"
  modifier_knight_of_hope_ersatz: "Radykalny kapitan"
  modifier_welfare_compromises_brazil: "Pomoc dla rolników uprawiających kawę"
@@ -454,13 +454,20 @@
  modifier_return_to_democracy_support: "Pragnienie demokracji"
  modifier_lessons_from_vargas: "Trudne lekcje"
  je_populist_unrest: "Wzburzenie populistów"
- je_populist_unrest_reason: "[ROOT.GetCountry.GetAdjective] polityka jest zdominowana przez członków grupy interesu znanej jako [SCOPE.gsInterestGroup('landowners_ig').GetName|l], co jest przyczyną ogólnopaństwowego niezadowolenia. Populiści, których popiera inna grupa interesu – [SCOPE.gsInterestGroup('pb_ig').GetName|l] – wyszli na ulice agitować przeciwko obecnej władzy, a liberalne organizacje wojskowe czerpią inspirację od tenentes, którzy dawniej postawili się agrarnym oligarchom. Jeżeli problem z panującym wśród społeczeństwa niepokojem nie zostanie rozwiązany, niedomagający rząd, którym jest [ROOT.GetCountry.GetGovernment.GetName|l], czeka brutalna zmiana władzy.\n\nWzburzenie #bold populistów#! wzrośnie w przyszłym miesiącu o #tooltippable;tooltip:[Country.GetTooltipTag],je_populist_unrest_special_tooltip [Country.MakeScope.Var('populism_progress_var_next').GetValue|-=]#!"
- je_populist_unrest_special_tooltip: "Na tempo mają wpływ następujące czynniki:\n#variable [Country.MakeScope.Var('populism_progress_from_radicals').GetValue|-=]#! ze względu na [Concept('concept_state', '$concept_states$')|l], w których panuje [concept_turmoil|l]\n#variable [Country.MakeScope.Var('populism_progress_from_unemployment').GetValue|-=]#! ze względu na [Concept('concept_state', '$concept_states$')|l], w których panuje [Concept('concept_unemployed', '$concept_unemployment$')|l]\n#variable [Country.MakeScope.Var('populism_progress_from_loyalists').GetValue|-=]#! ze względu na [Concept('concept_state', '$concept_states$')|l], w których obecni są [Concept('concept_loyalist', '$concept_loyalists$')|l]\n#variable [Country.MakeScope.Var('populism_progress_from_laws').GetValue|-=]#! ze względu na #bold Urząd Spraw Wewnętrznych#! oraz [Concept('concept_law', '$concept_laws$')|l] i [Concept('concept_institution', '$concept_institutions$')|l] związane z #bold utrzymywaniem porządku#!\n#variable [Country.MakeScope.Var('populism_progress_from_pb').GetValue|-=]#! ze względu na [Concept('concept_clout', 'siłę przebicia')] #bold drobnomieszczaństwa#!\n#variable [Country.MakeScope.Var('populism_progress_var_add').GetValue|-=]#! ze względu na inne efekty"
+ je_populist_unrest_reason: "[ROOT.GetCountry.GetAdjective] polityka została zdominowana przez członków grupy interesu znanej jako [SCOPE.gsInterestGroup('landowners_ig').GetName|l], co jest przyczyną ogólnopaństwowego niezadowolenia. Populiści, których popiera inna grupa interesu – [SCOPE.gsInterestGroup('pb_ig').GetName|l] – wyszli na ulice agitować przeciwko obecnej władzy, a liberalne organizacje wojskowe czerpią inspirację od tenentes, którzy dawniej postawili się agrarnym oligarchom. Jeżeli problem z panującym wśród społeczeństwa niepokojem nie zostanie rozwiązany, niedomagający rząd, którym jest [ROOT.GetCountry.GetGovernment.GetName|l], czeka brutalna zmiana władzy."
  je_new_republic: "Nowa republika"
  je_new_republic_reason: "[SCOPE.sCharacter('vargas_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('vargas_scope').GetFullName] i [SCOPE.sCharacter('vargas_scope').GetCustom('PL_jego_jej')] zwolennicy obalili poprzedni rząd państwa o nazwie [ROOT.GetCountry.GetName] i ustanowili nową władzę, której fundamentami są nacjonalizm i modernizacja państwa."
  completed_coffee_and_milk_je_tt: "[concept_journal_entry] #variable Kawa z mlekiem#! jest dostępny lub zakończył się zwycięstwem #bold właścicieli ziemskich#!"
  BRZ_populism_100_tt: "Pasek postępu #variable wzburzenia populistów#! osiągnął wartość #variable 100%#!"
  BRZ_populism_0_tt: "Pasek postępu #variable wzburzenia populistów#! osiągnął wartość #variable 0%#!"
+ populist_unrest_progress_bar: "Wzburzenie populistów"
+ populist_unrest_progress_bar_desc: "Postęp: #v [JournalEntry.GetCurrentBarProgress(ScriptedProgressBar.Self)|%]#! ([JournalEntry.GetCurrentBarValue(ScriptedProgressBar.Self)|1]/100)"
+ populism_progress_from_radicals_tt: "[concept_turmoil|l] w [Concept('concept_state', 'obszarach administracyjnych')]"
+ populism_progress_from_loyalists_tt: "[Concept('concept_state', '$concept_states$')|l] z [Concept('concept_loyalist', 'lojalistami')]"
+ populism_progress_from_unemployment_tt: "obszary administracyjne z [Concept('concept_unemployment', 'bezrobociem')]"
+ populism_progress_from_pb_tt: "[concept_clout|l] #v drobnomieszczaństwa#!"
+ populism_progress_from_laws_tt: "[Concept('concept_institution', '$concept_institutions$')|l] ds. #bold utrzymywania porządku#! i #bold Urząd Spraw Wewnętrznych#!"
+ populism_progress_from_events_tt: "wydarzenia i inne efekty"
  change_misc_populism_drift_1_down_tt: "Miesięczny postęp #variable wzburzenia populistów#! #bold zmniejszy się#! o #bold 1#!"
  change_misc_populism_drift_2_down_tt: "Miesięczny postęp #variable wzburzenia populistów#! #bold zmniejszy się#! o #bold 2#!"
  change_misc_populism_drift_3_down_tt: "Miesięczny postęp #variable wzburzenia populistów#! #bold zmniejszy się#! o #bold 3#!"
@@ -565,7 +572,7 @@
  bp1_misc.3.d: "Wpływ filozofii pozytywistycznej, jaki odczuła [ROOT.GetCountry.GetAdjective|l] ludność, rozprzestrzenił się w takim samym stopniu, co prezentowana przez grupę interesu znaną jako [SCOPE.gsInterestGroup('landowners_ig').GetName|l] postawa wobec władz państwa."
  bp1_misc.3.f: "Znał już ten slogan, ale nigdy jeszcze nie widział go wypisanego złotą czcionką na kosztownym marmurze, lśniącego nowością na drzwiach domu na plantacji.\n\n„Miłość wartością, porządek podstawą, celem zaś – postęp”."
  bp1_misc.3.a: "Brazylia się zmienia – tak jak zmieniają się czasy."
- 
+ #Culture
  south_america_formables_tt: "Nasze państwo, [SCOPE.sCountry('south_america_nation_scope').GetName], odrzuci narodową ideę i odda się #bold szerszym ambicjom#!\n[concept_journal_entry] #bold Nowa tożsamość narodowa#! zostanie odrzucony"
  rejected_south_american_national_culture_tt: "Nie ukończyliśmy [Concept('concept_journal_entry', 'wpisu w dzienniku')] #bold Ludność [ROOT.GetCountry.GetAdjective|l]#!"
  not_rejected_south_american_national_culture_tt: "Ukończyliśmy [concept_journal_entry|l] #bold Ludność [ROOT.GetCountry.GetAdjective|l]#!"
@@ -634,7 +641,7 @@
  from_northern_interests: "Ze względu na interesy na północy"
  communism.10.t: "Ciemiężca i ciemiężeni"
  communism.10.d: "W kontekście przyszłości, którą zastanie ludność [ROOT.GetCountry.GetAdjective|l], coraz bardziej na znaczeniu zyskuje nie tylko nasz przemysł, ale i klasa robotnicza. Proletariackie ruchy wyznające odmienne wartości zaczęły się jednoczyć pod jednym sztandarem – sztandarem socjalizmu."
- communism.10.f: "– …rozwój nowoczesnego przemysłu jest zatem odrzuceniem fundamentów, na których burżuazja produkuje i zawłaszcza towary. A więc ta sama burżuazja produkuje przede wszystkim własnych grabarzy. Jej upadek jest równie nieunikniony, co zwycięstwo proletariatu." 
+ communism.10.f: "– …rozwój nowoczesnego przemysłu jest zatem odrzuceniem fundamentów, na których burżuazja produkuje i zawłaszcza towary. A więc ta sama burżuazja produkuje przede wszystkim własnych grabarzy. Jej upadek jest równie nieunikniony, co zwycięstwo proletariatu." #- The Communist Manifesto
  communism.10.a: "Nadchodzi burza."
  communism.10.b: "Przyjdzie taki dzień, w którym świat zazna wolności."
  communism_var_tick_05_tt: "Każdego miesiąca niepokój wśród #bold socjalistów#! będzie się #bold zwiększać#! o #variable 0,5#!"

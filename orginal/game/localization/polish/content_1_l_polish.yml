@@ -1,5 +1,5 @@
 ﻿l_polish:
- 
+ #Coronation of Queen Victoria
  victoria.1.t: "Koronacja królowej Wiktorii"
  victoria.1.d: "W związku ze śmiercią króla na tron wstępuje jego młoda siostrzenica, [SCOPE.sCharacter('queen_victoria').GetFirstName]. Królestwo się raduje, a korona Hanoweru wyzwala się spod wpływów monarchii brytyjskiej. Niechaj te rządy trwają jak najdłużej!"
  victoria.1.d2: "W związku ze śmiercią króla na tron wstępuje jego młoda siostrzenica, [SCOPE.sCharacter('queen_victoria').GetFirstName]. Królestwo się raduje. Niechaj te rządy trwają jak najdłużej!"
@@ -10,9 +10,8 @@
  victoria.2.d: "W związku ze śmiercią króla na tron wstępuje jego młoda siostrzenica, Wiktoria, a korona Hanoweru wyzwala się spod wpływów monarchii brytyjskiej. Władzę nad Hanowerem przejmuje wuj Wiktorii, [SCOPE.sCharacter('ernest_augustus').GetFirstName]."
  victoria.2.f: "– Za moją siostrzenicę oddałbym ostatnią kroplę krwi."
  victoria.2.a: "Boże, chroń króla!"
- victoria.2.tt: "[SCOPE.GetRootScope.GetCountry.GetAdjective] [concept_customs_union|l] – członkowie tej unii pozostają w naszej przestrzeni gospodarczej."
  grand_exhibition_decision_custom_tooltip_2: "Nie zorganizowano jeszcze wielkiej wystawy"
- 
+ #Cultural Discrimination Traits
  european_heritage: "Dziedzictwo europejskie"
  african_heritage: "Dziedzictwo afrykańskie"
  east_asian_heritage: "Dziedzictwo wschodnioazjatyckie"
@@ -47,7 +46,7 @@
  polynesian_group: "Polinezyjskie"
  rumelian: "Rumelijskie"
  celtic_people: "Celtyckie"
- 
+ #Prostitution Events
  prostitution.1.t: "Ustawy dotyczące chorób zakaźnych"
  prostitution.1.d: "Jedna z grup interesu – [SCOPE.gsInterestGroup('cda_ig').GetName|l] – na czele której stoi [SCOPE.sCharacter('cda_ig_leader').GetFullName], domaga się od rządu przyjęcia stanowiska wobec prostytucji. Przedstawiciele ugrupowania żądają wprowadzenia praw umożliwiających policji umieszczanie podejrzanych o prostytucję kobiet w szpitalach zamkniętych pod zarzutem roznoszenia chorób wenerycznych. Obszar, którego dotyczy problem, to [SCOPE.sState('cda_state').GetName]."
  prostitution.1.d2: "Wobec wysokiego współczynnika zakażeń chorobami wenerycznymi wśród należących do niej mężczyzn jedna z grup interesu – [SCOPE.gsInterestGroup('cda_ig').GetName|l] – na czele której stoi [SCOPE.sCharacter('cda_ig_leader').GetFullName], domaga się od rządu podjęcia działań. Przedstawiciele ugrupowania żądają wprowadzenia praw umożliwiających policji umieszczanie podejrzanych o prostytucję kobiet w szpitalach zamkniętych pod zarzutem roznoszenia chorób wenerycznych. Obszar, którego dotyczy problem, to [SCOPE.sState('cda_state').GetName]."
@@ -86,7 +85,7 @@
  defunded_police: "Potępiono policję"
  sale_of_alaska_happened: "Sprzedaż Alaski doszła do skutku"
  oregon_dispute_happened: "Spór o granice Oregonu został rozstrzygnięty"
- 
+ #Alaska Purchase
  usa_purchase_alaska: "Negocjacje w sprawie zakupu Alaski"
  usa_purchase_alaska_desc: "Choć niektórzy wątpią w strategiczną i gospodarczą wartość rozległych terenów Alaski, nie powinniśmy rezygnować z możliwości poszerzania granic wolności."
  alaska.1.t: "Oferta dotycząca Alaski"
@@ -118,7 +117,7 @@
  alaska_rus_big_money: "Sprzedaż Alaski – duża kwota"
  alaska_rus_medium_money: "Sprzedaż Alaski – średnia kwota"
  alaska_rus_small_money: "Sprzedaż Alaski – niewielka kwota"
- 
+ #Oregon Border Dispute
  je_oregon: "Spór o granice Oregonu"
  je_oregon_reason: "Kwestia przebiegu granicy Oregonu od dawna pozostawała nierozstrzygnięta. Nadszedł czas, aby Wielka Brytania i Stany Zjednoczone zakończyły ten spór."
  oregon_tt: "Odkryto szlak oregoński, nanosząc na mapę zachodni obszar Ameryki Północnej"
@@ -138,7 +137,7 @@
  je_conquer_oregon: "Dokonaj aneksji Oregonu"
  je_conquer_oregon_reason: "Ponieważ Brytyjczycy odmówili dobrowolnego zrzeczenia się Oregonu, musimy odebrać im go siłą."
  oregon_resolved: "Spór o Oregon rozstrzygnięty"
- 
+ #Plague!
  plague.1.t: "[ROOT.GetCountry.GetAdjectiveNoFormatting] odmiana grypy"
  plague.1.d: "[SCOPE.sState('plague_origin_state').GetName] to obszar administracyjny, w którym odnotowano gwałtowny wybuch epidemii wyjątkowo śmiercionośnej odmiany grypy. Istnieje ryzyko, że wirus raptownie się rozprzestrzeni, doprowadzając do globalnej pandemii."
  plague.1.f: "– Epidemia grypy niczym widmo śmierci zawisła nad nami właściwie w ciągu jednej nocy; po trzech dniach od odnotowania pierwszych przypadków zakażenia przez Komitet ds. Zdrowia nasz szpital był już przepełniony ofiarami zarazy."
@@ -198,7 +197,7 @@
  anti_mask_ignored: "Zignorowano ruch antymaseczkowy"
  anti_mask_appeased: "Uspokojono przedstawicieli ruchu antymaseczkowego"
  anti_mask_discredited: "Zdyskredytowano ruch antymaseczkowy"
- 
+ #Battle of Cable Street
  cable_street.1.t: "[SCOPE.sState('fascist_rally_state').GetCityHubName] – bitwa"
  cable_street.1.d: "Faszyści, na czele których stoją [SCOPE.sCharacter('fascist_leader').GetFullName] i [SCOPE.sParty('fascist_party').GetName], planują duże zgromadzenie w obszarze administracyjnym [SCOPE.sState('fascist_rally_state').GetName]. Spodziewają się stanowczego oporu ze strony ugrupowań antyfaszystowskich nieoficjalnie zrzeszonych pod sztandarem grupy interesu o nazwie [SCOPE.gsInterestGroup('antifa_ig').GetName|l]."
  cable_street.1.f: "– Wzmocnić barykady! Precz z faszystami! Nie damy im przejść!"
@@ -207,7 +206,7 @@
  cable_street.1.c: "Zakaż marszu."
  protected_fascist_rally: "Ochrona zgromadzenia faszystowskiego"
  banned_fascist_rally: "Zakaz zgromadzeń faszystowskich"
- 
+ #Heavenly Kingdom
  heavenly.1.t: "[SCOPE.sState('missionary_state').GetName] a działania misjonarzy"
  heavenly.1.d: "[SCOPE.sCountry('treaty_port_owner').GetName], [SCOPE.sState('treaty_port_scope').GetName] – przebywający tam zagraniczni misjonarze zwrócili się do nas z prośbą o zgodę na budowę szkół i szpitali. Obszar, w którym miałyby pojawić się rzeczone placówki, to [SCOPE.sState('missionary_state').GetName]. Misjonarze z pewnością wykorzystaliby tę okazję do szerzenia swojej wiary."
  heavenly.1.f: "– Czy istnieje lepszy sposób na szerzenie słów naszego Pana niż poprzez leczenie? Ci, którzy odnajdą drogę do naszego szpitala, odnajdą też drogę do Boga."
@@ -268,7 +267,7 @@
  modifier_conversion_of_china: "Nawrócenie Chin"
  modifier_second_crusade_against_manchu: "Czujność względem upadłej dynastii"
  modifier_relations_with_west: "Stosunki z Zachodem"
- 
+ #Walord China extras
  warlord_china_events.301.t: "[SCOPE.sCharacter('yan_xishan_thinker').GetFullName] i [SCOPE.sCharacter('yan_xishan_thinker').GetCustom('PL_jego_jej')] idea"
  warlord_china_events.301.d: "[ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] przedstawia nową, misternie opracowaną ideologię, która ma zjednoczyć naród, jednak ze względu na jej złożoność i nawiązania do wielu źródeł masom może być trudno zrozumieć przekaz."
  warlord_china_events.301.f: "– Nasza nowa, wspaniała ideologia jest w zupełności zrozumiała: łączy w sobie wszystkie wartościowe aspekty militaryzmu, nacjonalizmu, anarchizmu, demokracji, kapitalizmu, komunizmu, indywidualizmu, imperializmu, uniwersalizmu, paternalizmu i utopizmu."
@@ -277,7 +276,7 @@
  yan_xishan_thought_mod: "Wspólna idea"
  warlord_legitimacy: "Prawomocność w państwie"
  failed_yan_xishan_thought_mod: "Konfucjanizm"
- 
+ #The British Raj
  british_raj_decision: "Ogłoś powstanie Indii Brytyjskich"
  british_raj_decision_desc: "Nieudolne zarządzanie Kompanią Wschodnioindyjską trwa już zbyt długo. Musimy zapewnić sobie władzę nad tą częścią kontynentu, korzystając z bardziej bezpośrednich środków."
  sepoy_mutiny_happened: "Bunt sipajów doszedł do skutku"
@@ -293,7 +292,7 @@
  raj.2.a: "[SCOPE.sState('doctrine_of_lapse_target_state_1').GetName] to obszar, który potrzebuje lepszego zarządcy."
  raj.2.b: "[SCOPE.sState('doctrine_of_lapse_target_state_2').GetName] to dobry wybór."
  raj.2.c: "[SCOPE.sState('doctrine_of_lapse_target_state_3').GetName] – ten obszar należy do nas."
- 
+ #Strike!
  strike.1.t: "Strajk!"
  strike.1.d: "[SCOPE.sBuilding('prime_strike_workplace').GetName] – robotnicy zatrudnieni w tym miejscu mają już dość nędznych warunków pracy. Jedna z grup interesu, [SCOPE.gsInterestGroup('unions_ig').GetName|l], zdecydowała się wesprzeć ich inicjatywę i rozpocząć wspólnie z nimi strajk branżowy. Obszar administracyjny, w którym odbywa się strajk, to [SCOPE.sState('strike_state').GetName]."
  strike.1.f: "Wyzwolenie robotników spod jarzma egoistów jest dziełem godnym najszlachetniejszych i najlepszych przedstawicieli naszego ludu. Czy jesteście gotowi przyjąć tę odpowiedzialność i – ufając rycerzom, którzy przysięgli was wesprzeć – pracować ze wszelkich sił, aby zasady te zatriumfowały w naszym społeczeństwie?"
@@ -424,19 +423,28 @@
  je_atmospheric_engine_reason: "Ten genialny wynalazek zdecydowanie zwiększy wydajność naszych kopalni."
  production_tech_events.601.t: "Atmosferyczny silnik parowy"
  production_tech_events.601.d: "Dzięki powszechnemu zastosowaniu atmosferycznych silników parowych w przemyśle wydobywczym wydajność pracy osiągnęła najwyższy poziom w historii."
- production_tech_events.601.f: "– Gdy para buchnęła po raz pierwszy, wprawiając koła w niezwykle szybki ruch, jasnym stało się, że nawyki biznesowe szybko doprowadzą do zharmonizowania życia ludzkiego z silnikami parowymi i drastycznego zwiększenia punktualności transportu." 
+ production_tech_events.601.f: "– Gdy para buchnęła po raz pierwszy, wprawiając koła w niezwykle szybki ruch, jasnym stało się, że nawyki biznesowe szybko doprowadzą do zharmonizowania życia ludzkiego z silnikami parowymi i drastycznego zwiększenia punktualności transportu." #George William Russell
  production_tech_events.601.a: "Z pewnością możemy wyciągnąć z tych maszyn jeszcze więcej."
  production_tech_events.601.b: "To stwarza ogromny potencjał w dziedzinie transportu."
  production_tech_events.601.c: "Może istnieje jeszcze lepszy sposób."
  atmospheric_engine_mining: "Wykorzystanie atmosferycznego silnika parowego"
  je_communism_1: "Widmo nad światem"
- je_communism_1_reason: "Coraz większy niepokój wśród socjalistów w państwie o nazwie [SCOPE.sCountry('root_country').GetName] zaczął przeradzać się w ruch zagrażający rządom klas wyższych. Konflikty między klasami zaostrzyły się, a [SCOPE.sCountry('root_country').GetAdjectiveNoFormatting|l] siła robocza przyjęła metody i zasady owego ruchu socjalistycznego.\n\n#italic Proletariat domaga się wolności, równości i chleba. Robotnicy wszystkich krajów, zjednoczcie się!#!\n\nSzacuje się, że w przyszłym miesiącu niepokój wśród #bold socjalistów#! wzrośnie o #tooltippable;tooltip:[Country.GetTooltipTag],je_communism_1_special_tooltip [Country.MakeScope.Var('communism_progress_var_next').GetValue|-=]#!"
- je_communism_1_special_tooltip: "Na tempo mają wpływ następujące czynniki:\n#variable [Country.MakeScope.Var('communism_progress_from_radicals').GetValue|-=]#! ze względu na [Concept('concept_state', '$concept_states$')|l], w których panuje [concept_turmoil|l]\n#variable [Country.MakeScope.Var('communism_progress_from_poverty').GetValue|-=]#! ze względu na obszary administracyjne, w których [concept_sol|l] jest niższy od oczekiwanego\n#variable [Country.MakeScope.Var('communism_progress_from_loyalists').GetValue|-=]#! ze względu na [Concept('concept_state', '$concept_states$')|l], w których obecni są [Concept('concept_loyalist', '$concept_loyalists$')|l]\n#variable [Country.MakeScope.Var('communism_progress_from_laws').GetValue|-=]#! ze względu na [Concept('concept_institution', '$concept_institutions$')|l] zajmujące się #bold utrzymywaniem porządku#! oraz #bold Urząd Spraw Wewnętrznych#!\n#variable [Country.MakeScope.Var('communism_progress_from_igs').GetValue|-=]#! ze względu na [Concept('concept_interest_group', '$concept_interest_groups$')|l] popierające następujące prawo: [GetLawType('law_council_republic').GetName|l]\n#variable [Country.MakeScope.Var('communism_progress_from_characters').GetValue|-=]#! ze względu na popularność [Concept('concept_character', 'postaci')] popierających następujące prawo: [GetLawType('law_council_republic').GetName|l]\n#variable [Country.MakeScope.Var('communism_progress_var_add').GetValue|-=]#! ze względu na wydarzenia i inne efekty"
+ je_communism_1_reason: "Coraz większy niepokój wśród socjalistów w państwie o nazwie [SCOPE.sCountry('root_country').GetName] zaczął przeradzać się w ruch zagrażający rządom klas wyższych. Konflikty między klasami zaostrzyły się, a [SCOPE.sCountry('root_country').GetAdjectiveNoFormatting|l] siła robocza przyjęła metody i zasady owego ruchu socjalistycznego.\n\n#italic Proletariat domaga się wolności, równości i chleba. Robotnicy wszystkich krajów, łączcie się!#!"
+ communism_progress_bar_at_full_tt: "#variable $communism_1_progress_bar$#! – pasek postępu osiągnął wartość #variable 100%#!"
+ communism_1_progress_bar: "Widmo nad światem"
+ communism_1_progress_bar_desc: "Postęp: #v [JournalEntry.GetCurrentBarProgress(ScriptedProgressBar.Self)|%]#! ([JournalEntry.GetCurrentBarValue(ScriptedProgressBar.Self)|1]/100)"
+ communism_progress_from_radicals_tt: "[concept_turmoil|l] w [Concept('concept_state', 'obszarach administracyjnych')]"
+ communism_progress_from_loyalists_tt: "[Concept('concept_state', '$concept_states$')|l] z [Concept('concept_loyalist', 'lojalistami')]"
+ communism_progress_from_poverty_tt: "obszary administracyjne z [Concept('concept_sol', 'poziomem życia')] poniżej oczekiwań"
+ communism_progress_from_characters_tt: "popularność [Concept('concept_character', 'postaci')] popierających następujące prawo: [GetLawType('law_council_republic').GetName]"
+ communism_progress_from_interest_groups_tt: "[Concept('concept_interest_group', '$concept_interest_groups$')|l] popierające następujące prawo: [GetLawType('law_council_republic').GetName]"
+ communism_progress_from_laws_tt: "[Concept('concept_institution', '$concept_institutions$')|l] ds. #bold utrzymywania porządku#! i #bold Urząd Spraw Wewnętrznych#!"
+ communism_progress_from_events_tt: "wydarzenia i inne efekty"
  je_communism_2: "Rewolucja ludu"
  je_communism_2_reason: "Lud nadal cierpi pod jarzmem królów, księży i kapitalistów. Czas obalić konserwatywny rząd i stworzyć proletariacki raj."
  communism.1.t: "Świat do wygrania"
  communism.1.desc: "Ponieważ [ROOT.GetCountry.GetName] to państwo, w którym rozpowszechniają się tendencje socjalistyczne, [ROOT.GetCountry.GetRuler.GetLastName] wraz z rządem stwierdzili, że aby je zahamować, należy rozważyć przyjęcie drastycznych kompromisów. Przy tak gwałtownym rozwoju spraw możliwa jest rychła zmiana polityki."
- communism.1.f: "– Proletariat, gdzie nie spojrzeć, przyjmuje niepokojącą postawę – zaczyna liczyć oddziały swego znacznie słabszego wroga i walczyć o swoje prawa. Wszyscy czują, że coś wisi w powietrzu, a każdy zdrowy człowiek niespokojnie wyczekuje zbliżającej się przyszłości, w której paść mają zbawienne słowa." 
+ communism.1.f: "– Proletariat, gdzie nie spojrzeć, przyjmuje niepokojącą postawę – zaczyna liczyć oddziały swego znacznie słabszego wroga i walczyć o swoje prawa. Wszyscy czują, że coś wisi w powietrzu, a każdy zdrowy człowiek niespokojnie wyczekuje zbliżającej się przyszłości, w której paść mają zbawienne słowa." #Bakunin
  communism.1.a: "Zaoferuj większe wynagrodzenia za ich pracę."
  communism.1.b: "Skróć cierpienie ostatnich zwolenników niewolnictwa."
  communism.1.c: "Zagwarantuj lepsze warunki pracy."
@@ -445,7 +453,7 @@
  communist_government_modifier: "Surowa niedola"
  communism.2.t: "Republika robotnicza"
  communism.2.d: "Nasze państwo, [ROOT.GetCountry.GetName], nie jest już rządzone przez burżuazję. Robotnikom udało się wreszcie obalić rząd i ustanowić republikę samorządową. Wciąż jednak mamy wiele do zrobienia, nim zatriumfuje socjalizm."
- communism.2.f: "– Dopóki ludzka siła robocza, a więc i życie, podlegają sprzedaży i kupnu, wyzyskowi i rabunkom – dopóty zasada „świętości życia ludzkiego” jest niczym więcej niż haniebnym kłamstwem powtarzanym po to, by uciśnieni niewolnicy przypadkiem nie wyrwali się z łańcuchów." 
+ communism.2.f: "– Dopóki ludzka siła robocza, a więc i życie, podlegają sprzedaży i kupnu, wyzyskowi i rabunkom – dopóty zasada „świętości życia ludzkiego” jest niczym więcej niż haniebnym kłamstwem powtarzanym po to, by uciśnieni niewolnicy przypadkiem nie wyrwali się z łańcuchów." #Trotsky
  communism.2.a: "Partia awangardowa wskaże nam drogę!"
  communism.2.b: "Niech władzę sprawują wyłącznie samorządy!"
  communism.2.b2: "Władza należy wyłącznie do sowietów!"
@@ -454,19 +462,19 @@
  chose_communism.tt: "[SCOPE.gsInterestGroup('unions').GetName] to grupa interesu, która zawsze wybierze przywódców będących komunistami."
  chose_anarchism.tt: "[SCOPE.gsInterestGroup('unions').GetName] to grupa interesu, która zawsze wybierze przywódców będących anarchistami."
  je_anarchy: "Wzajemna pomoc"
- je_anarchy_reason: "Gdzie istnieje państwo, tam musi istnieć dominacja klasowa, a w konsekwencji – niewolnictwo. Państwo bez niewolnictwa jest nie do pomyślenia, dlatego jesteśmy wrogami publicznymi." 
+ je_anarchy_reason: "Gdzie istnieje państwo, tam musi istnieć dominacja klasowa, a w konsekwencji – niewolnictwo. Państwo bez niewolnictwa jest nie do pomyślenia, dlatego jesteśmy wrogami publicznymi." #Bakunin
  je_vanguard: "Państwo a rewolucja"
- je_vanguard_reason: "Proletariat potrzebuje władzy państwowej – scentralizowanej organizacji siły, organizacji przemocy – zarówno po to, aby złamać opór wyzyskiwaczy, jak i pokierować ogromnymi tłumami ludu w celu ustanowienia gospodarki socjalistycznej." 
+ je_vanguard_reason: "Proletariat potrzebuje władzy państwowej – scentralizowanej organizacji siły, organizacji przemocy – zarówno po to, aby złamać opór wyzyskiwaczy, jak i pokierować ogromnymi tłumami ludu w celu ustanowienia gospodarki socjalistycznej." #Lenin
  vanguard_custom_tooltip: "Wszystkie potężne grupy interesu są kierowane przez przywódcę będącego awangardzistą, komunistą bądź anarchistą."
  vanguard_instruction_status: "Jeśli inteligencja, chłopstwo, związki zawodowe lub siły zbrojne będą marginalizowane, ich przedstawiciele zostaną awangardzistami."
  je_communist_welfare: "Nasza rewolucja"
  je_communist_welfare_reason: "Komunizm zapanuje dopiero wówczas, gdy zapewnimy godne warunki wszystkim obywatelom. Każdy według swoich zdolności, każdemu według jego potrzeb."
  je_5_year_plan: "Plany pięcioletnie"
- je_5_year_plan_reason: "Komunizm wiąże się z władzą robotników i elektryfikacją całego państwa." 
+ je_5_year_plan_reason: "Komunizm wiąże się z władzą robotników i elektryfikacją całego państwa." #Lenin
  je_5_year_plan_goal: "Osiągnij [concept_gdp|l] w wysokości [JournalEntry.GetTotalGoalValue]"
  communism.3.t: "Rozwój awangardy"
  communism.3.d: "[SCOPE.gsInterestGroup('new_vanguard_ig').GetName] to grupa interesu, z której wreszcie wykorzeniono reakcjonistów. Możemy być pewni, że jej nowy przywódca, [SCOPE.sCharacter('new_vanguard_leader').GetFullName], pozostanie lojalny wobec państwa i ustroju socjalistycznego."
- communism.3.f: "– Efektem dyktatury proletariatu, to jest organizacji awangardy mas uciśnionych w klasę rządzącą w celu osłabienia oprawców, nie może być jedynie rozszerzenie demokracji. Potrzeba również zdecydowanego ograniczenia wolności ciemiężycieli, wyzyskiwaczy, kapitalistów." 
+ communism.3.f: "– Efektem dyktatury proletariatu, to jest organizacji awangardy mas uciśnionych w klasę rządzącą w celu osłabienia oprawców, nie może być jedynie rozszerzenie demokracji. Potrzeba również zdecydowanego ograniczenia wolności ciemiężycieli, wyzyskiwaczy, kapitalistów." #Lenin
  communism.3.a: "Musimy zagwarantować stuprocentową lojalność."
  communism.3.b: "Mają do odegrania ważną rolę."
  new_vanguard.tt: "[SCOPE.gsInterestGroup('new_vanguard_ig').GetName] to grupa interesu, która zawsze wybierze przywódców będących awangardzistami."
@@ -474,7 +482,7 @@
  new_vanguard_clout: "Zjednoczenie w awangardzie"
  communism.4.t: "Zdobycie chleba"
  communism.4.d: "Nasze państwo, [ROOT.GetCountry.GetName], szybko staje się utopią anarchistów. Bieda została całkowicie wyeliminowana, a bezklasowe społeczeństwo funkcjonujące na zasadzie wzajemnej pomocy wzmacnia się."
- communism.4.f: "– Obecnie kształtuje się inna koncepcja społeczeństwa – anarchia – która dążyć ma do pełnego rozwoju indywidualizmu jednostki, a zarazem do pełnego rozwoju dobrowolnie utworzonego zrzeszenia w każdym możliwym aspekcie, stopniu i celu." 
+ communism.4.f: "– Obecnie kształtuje się inna koncepcja społeczeństwa – anarchia – która dążyć ma do pełnego rozwoju indywidualizmu jednostki, a zarazem do pełnego rozwoju dobrowolnie utworzonego zrzeszenia w każdym możliwym aspekcie, stopniu i celu." #Kropotkin
  communism.4.a: "Matka Anarchia kocha swe dzieci."
  anarchist_utopia: "Zdobycie chleba"
  je_opium: "Handel opium"
@@ -573,7 +581,7 @@
  opium_loyalty_focus: "Miłość do państwa"
  opium_wars.8.t: "Uzależnienie od opium"
  opium_wars.8.d: "[SCOPE.sCulture('opium_addiction_pop').GetName] to zbiorowość, która odczuwa dotkliwe skutki uzależnienia od opium. Stosowanie i nadużywanie tej substancji stało się bardzo powszechne w obszarze administracyjnym o nazwie [SCOPE.sState('opium_addiction_state').GetName]."
- opium_wars.8.f: "Kto zażywa opium, leży przygnieciony ciężarem koszmaru i udręki, spoglądając na wszystko to, czego pragnąłby się podjąć – jak człowiek siłą przykuty do łóżka w agonalnej tęsknocie, w obliczu obezwładniającej choroby, zmuszony spoglądać na krzywdę lub obrazę tego, co najbliższe jego sercu. Przeklina urok, który trzyma go w bezruchu; oddałby życie, jeśli dzięki temu mógłby powstać i chodzić. Pozostaje jednak bezradny niczym dziecko i nawet próba podniesienia się przekracza jego możliwości." 
+ opium_wars.8.f: "Kto zażywa opium, leży przygnieciony ciężarem koszmaru i udręki, spoglądając na wszystko to, czego pragnąłby się podjąć – jak człowiek siłą przykuty do łóżka w agonalnej tęsknocie, w obliczu obezwładniającej choroby, zmuszony spoglądać na krzywdę lub obrazę tego, co najbliższe jego sercu. Przeklina urok, który trzyma go w bezruchu; oddałby życie, jeśli dzięki temu mógłby powstać i chodzić. Pozostaje jednak bezradny niczym dziecko i nawet próba podniesienia się przekracza jego możliwości." #Thomas De Quincey
  opium_wars.8.a: "Tragedia!"
  opium_wars.8.b: "Może powinniśmy spojrzeć na to z medycznego punktu widzenia."
  opium_addiction_state_mod: "Uzależnienie od opium"
@@ -636,7 +644,7 @@
  shogunate_rename.tt: "Grupa interesu związana z szogunatem zmienia nazwę. Teraz są to właściciele ziemscy."
  meiji.2.t: "Odnowiona Japonia"
  meiji.2.d: "Zreformowana armia, otwarte i uznane państwo, nowe społeczeństwo… Nasz kraj, [ROOT.GetCountry.GetName], dorównuje innym światowym mocarstwom i być może zacznie realizować własne ambicje imperialne."
- meiji.2.f: "– Dzięki błogosławieństwu niebios zasiadamy dziś na świętym tronie, z którego od niepamiętnych czasów sprawowali władzę nasi przodkowie. Cywilizacja i instytucje Japonii tak bardzo różnią się od reszty świata, iż naiwnie byłoby oczekiwać natychmiastowego spełnienia naszych deklaracji. Zamierzamy wybrać spośród instytucji powołanych przez oświecone narody te, które są nam w obecnych okolicznościach najbliższe, a następnie zaadaptować je poprzez stopniowe reformy i zmiany w polityce oraz obyczajach. Tak właśnie osiągniemy równość." 
+ meiji.2.f: "– Dzięki błogosławieństwu niebios zasiadamy dziś na świętym tronie, z którego od niepamiętnych czasów sprawowali władzę nasi przodkowie. Cywilizacja i instytucje Japonii tak bardzo różnią się od reszty świata, iż naiwnie byłoby oczekiwać natychmiastowego spełnienia naszych deklaracji. Zamierzamy wybrać spośród instytucji powołanych przez oświecone narody te, które są nam w obecnych okolicznościach najbliższe, a następnie zaadaptować je poprzez stopniowe reformy i zmiany w polityce oraz obyczajach. Tak właśnie osiągniemy równość." #Emperor Meiji
  meiji.2.a: "[ROOT.GetCountry.GetAdjectiveNoFormatting] władza cesarska będzie rosła w siłę!"
  meiji.2.b: "Potrzebujemy potężnych przyjaciół, ponieważ możemy narobić sobie potężnych wrogów."
  meiji.2.c: "Kolej to klucz do naszego przyszłego sukcesu."
@@ -658,7 +666,7 @@
  western_military_consultant: "Doradcy wojskowi z Zachodu"
  meiji.5.t: "[SCOPE.sCountry('japan_embassy_country').GetName] – ambasada"
  meiji.5.d: "W ramach ambasadorskiej podróży na Zachód nasi dygnitarze spotkali się z wpływowym politykiem, którym jest [SCOPE.sCharacter('japan_embassy_politician').GetFullName] ([SCOPE.sCountry('japan_embassy_country').GetNameNoFormatting]). W nadziei na nawiązanie dobrych stosunków z naszym nowo otwartym państwem polityk ten sporządzi kilka traktatów, które [SCOPE.sCountry('japan_embassy_country').GetName] i [ROOT.GetCountry.GetNameNoFormatting] mogą zawrzeć między sobą."
- meiji.5.f: "– W dzisiejszych czasach wydaje się, że wszystkie narody utrzymują stosunki oparte na przyjaźni i uprzejmości, ale to tylko pozory, za którymi kryje się wzajemna pogarda i walka o dominację. Choć nasze państwo, [ROOT.GetCountry.GetName], może obecnie utrzymywać stosunki dyplomatyczne z wieloma krajami, prawdziwy przyjaciel, na którym powinno nam w szczególności zależeć, to [SCOPE.sCountry('japan_embassy_country').GetNameNoFormatting] – ze względu na nasze obopólne poszanowanie samorządności." 
+ meiji.5.f: "– W dzisiejszych czasach wydaje się, że wszystkie narody utrzymują stosunki oparte na przyjaźni i uprzejmości, ale to tylko pozory, za którymi kryje się wzajemna pogarda i walka o dominację. Choć nasze państwo, [ROOT.GetCountry.GetName], może obecnie utrzymywać stosunki dyplomatyczne z wieloma krajami, prawdziwy przyjaciel, na którym powinno nam w szczególności zależeć, to [SCOPE.sCountry('japan_embassy_country').GetNameNoFormatting] – ze względu na nasze obopólne poszanowanie samorządności." #Bismarck
  meiji.5.a: "Musimy zacieśnić stosunki dyplomatyczne między naszymi państwami."
  meiji.5.b: "[SCOPE.sCountry('japan_embassy_country').GetName] to państwo, od którego możemy się wiele nauczyć."
  meiji.5.c: "[SCOPE.sCountry('japan_embassy_country').GetName] to państwo, które nie ma nam nic do zaoferowania."
@@ -668,7 +676,7 @@
  meiji.6.a: "[SCOPE.sCountry('western_investor_country').GetAdjectiveNoFormatting] pomysłowość sprawi, że nasza ojczyzna, [ROOT.GetCountry.GetName], wzmocni swoją pozycję."
  meiji.6.b: "Nie ma potrzeby, aby w naszą gospodarkę ingerował ktoś obcy."
  ending_isolation: "Koniec izolacji"
- japan_production_tech_modifier: "Zagraniczna inwestycja"
+ japan_production_tech_modifier: "Inwestycja zagraniczna"
  japan_society_tech_modifier: "Nauki z Zachodu"
  je_veiled_protectorate: "Sekretny protektorat"
  je_veiled_protectorate_reason: "Nasze wpływy w Egipcie znacznie wzrosły, jednak władza, jaką cieszymy się w tym regionie, zależy od naszych stosunków z nieuznawanym państwem. Ustanowienie nad nim protektoratu zapewniłoby nam dominację."
@@ -802,7 +810,7 @@
  lone_star_state: "Stan samotnej gwiazdy"
  texan_war_of_independence.2.t: "Teksas jako stan"
  texan_war_of_independence.2.d1: "[SCOPE.sCountry('texas_scope').GetName] – to państwo uniezależniło się od Meksyku i dąży do tego, aby nasze państwo ([ROOT.GetCountry.GetName]) przyłączyło je do siebie, nadając mu status stanu."
- texan_war_of_independence.2.d2: "[SCOPE.sCountry('texas_scope').GetName] – to państwo uniezależniło się od Meksyku i dąży do tego, aby nasze państwo ([ROOT.GetName]) przyłączyło je do siebie jako autonomiczny protektorat, nie nadając mu jednak statusu stanu."
+ texan_war_of_independence.2.d2: "[SCOPE.sCountry('texas_scope').GetName] – to państwo uniezależniło się od Meksyku i dąży do tego, aby państwo o nazwie [ROOT.GetCountry.GetName] przyłączyło je do siebie jako autonomiczny protektorat, nie nadając mu jednak statusu stanu."
  texan_war_of_independence.2.d3: "[SCOPE.sCountry('texas_scope').GetName] – to państwo uniezależniło się od Meksyku. Niestety, pomimo dołożenia przez naszych ambasadorów wszelkich starań, państwo to odrzuciło propozycję przyłączenia się do USA w charakterze jednego ze stanów."
  texan_war_of_independence.2.f: "– Ludność Teksasu, która w czasie uchwalania konstytucji niemalże jednomyślnie wyraziła pragnienie dołączenia do Unii Stanów Zjednoczonych – i która w dalszym ciągu niemal równie jednomyślnie pragnie tego samego, ażeby z większą skutecznością dbać o własne bezpieczeństwo i dobrobyt – wraz ze Stanami Zjednoczonymi, powodowanymi wyłącznie chęcią zwiększenia własnego bezpieczeństwa i dobrobytu oraz spełnienia życzeń rządu i ludności Teksasu, zdecydowała się zrealizować na mocy traktatu tak istotne dla naszego wspólnego i trwałego interesu cele."
  texan_war_of_independence.2.a: "Witamy w Ameryce!"
@@ -881,7 +889,7 @@
  colonial_enthusiasm_settlers: "Gorliwi koloniści"
  anarchy.1.t: "Propaganda czynów"
  anarchy.1.d: "Anarchiści przyznali się do zamachu bombowego w klubie dla mężczyzn, który często odwiedzali przedstawiciele jednej z grup interesu ([SCOPE.gsInterestGroup('anarchy_target_ig').GetName|l]). Nie żyje [SCOPE.sCharacter('anarchy_target_leader').GetFullName]; [SCOPE.sCharacter('anarchy_target_leader').GetCustom('PL_jego_jej')] ciało znaleziono pod gruzem."
- anarchy.1.f: "– Wojna, wojna klasowa, którą sami zaczęliście w cieniu waszych praw, pod osłoną potężnych instytucji, jak mawiacie, porządku publicznego. Znowu będzie trzeba krwi – nie uchylimy się. Znowu będzie trzeba mordu – zabijemy, ponieważ nie mamy wyboru. Znowu będzie trzeba niszczyć – i zrobimy to, by zmieść z powierzchni ziemi wasze tyrańskie instytucje." 
+ anarchy.1.f: "– Wojna, wojna klasowa, którą sami zaczęliście w cieniu waszych praw, pod osłoną potężnych instytucji, jak mawiacie, porządku publicznego. Znowu będzie trzeba krwi – nie uchylimy się. Znowu będzie trzeba mordu – zabijemy, ponieważ nie mamy wyboru. Znowu będzie trzeba niszczyć – i zrobimy to, by zmieść z powierzchni ziemi wasze tyrańskie instytucje." #Luigi Galleani
  anarchy.1.a: "Ci reakcjoniści sami się o to prosili."
  anarchy.1.b: "Nie ma przyzwolenia na terroryzm."
  anarchy.2.t: "Zniesienie organizacji państwowych"
@@ -1022,7 +1030,7 @@
  tewodros_modifier: "Książę banita"
  italian_unification.1.t: "Zjednoczenie Włoch"
  italian_unification.1.d: "[ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName] – to dzięki [ROOT.GetCountry.GetRuler.GetCustom('PL_jego_jej')] przywództwu i bohaterstwu powstał włoski naród. Zjednoczone pod jedną flagą Włochy bez wątpienia będą miały wpływ na przyszły kształt Europy i świata."
- italian_unification.1.f: "– Tak, młodzi ludzie, Włochy zawdzięczają wam osiągnięcie, które powinien oklaskiwać cały świat. Dokonaliście podboju i dokonacie kolejnych, ponieważ jesteście gotowi stosować taktykę przesądzającą o wyniku bitew. Obok tej chwalebnej stronicy w historii naszego kraju znajdą się kolejne, jeszcze bardziej chlubne. Niewolnik pokaże wreszcie swym wolnym braciom ostrze miecza wykute z łańcucha, którym niegdyś go krępowano!" 
+ italian_unification.1.f: "– Tak, młodzi ludzie, Włochy zawdzięczają wam osiągnięcie, które powinien oklaskiwać cały świat. Dokonaliście podboju i dokonacie kolejnych, ponieważ jesteście gotowi stosować taktykę przesądzającą o wyniku bitew. Obok tej chwalebnej stronicy w historii naszego kraju znajdą się kolejne, jeszcze bardziej chlubne. Niewolnik pokaże wreszcie swym wolnym braciom ostrze miecza wykute z łańcucha, którym niegdyś go krępowano!" #Garibaldi
  italian_unification.1.a: "Niech żyją Włochy!"
  italian_unification.1.b: "[SCOPE.gsInterestGroup('ruler_ig_scope').GetName] to grupa interesu, w której nie brak odważnych ludzi. Nigdy o nich nie zapomnimy."
  italian_unification.2.t: "[SCOPE.sCountry('italian_annex_country').GetName] – zjednoczenie"
@@ -1032,7 +1040,7 @@
  italian_unification.2.b: "To nie jest odpowiedni czas na takie działania."
  communism.5.t: "Wielki terror"
  communism.5.d: "Tendencje reakcyjne w krajobrazie politycznym zostały niemal całkowicie wyeliminowane lub stłumione. Dominuje partia awangardowa."
- communism.5.f: "– Partia stoi na czele klasy, a jej obowiązkiem jest przewodzenie masom – nie zaś jedynie reprezentowanie ich przeciętnego poziomu politycznego." 
+ communism.5.f: "– Partia stoi na czele klasy, a jej obowiązkiem jest przewodzenie masom – nie zaś jedynie reprezentowanie ich przeciętnego poziomu politycznego." #Lenin
  communism.5.a: "Nielojalność to zdrada."
  great_purge_modifier: "Wielki terror"
  communism.6.t: "Nasza rewolucja"
@@ -1243,7 +1251,7 @@
  cautious_railway_construction: "Ostrożna budowa linii kolejowych"
  amazon.2.t: "Piekło na ziemi"
  amazon.2.d: "[SCOPE.sBuilding('rubber_plantation_scope').GetName] ([SCOPE.sState('amazon_state').GetName]) – pracujący w tym miejscu robotnicy traktowani są ze szczególnym okrucieństwem. Popularną karą za subiektywnie postrzegane przewinienia jest okaleczanie."
- amazon.2.f: "– Na pytanie o powód ucieczki odpowiedzieli, że przez sposób, w jaki traktowali ich urzędnicy i żołnierze rządowi, życie w ich ojczyźnie było nie do zniesienia. Twierdzą, że do wyboru mieli śmierć albo za wyprodukowanie zbyt małej ilości kauczuku, albo z powodu głodu bądź niebezpieczeństw, z jakimi wiązały się próby spełnienia wysuwanych wobec nich żądań." 
+ amazon.2.f: "– Na pytanie o powód ucieczki odpowiedzieli, że przez sposób, w jaki traktowali ich urzędnicy i żołnierze rządowi, życie w ich ojczyźnie było nie do zniesienia. Twierdzą, że do wyboru mieli śmierć albo za wyprodukowanie zbyt małej ilości kauczuku, albo z powodu głodu bądź niebezpieczeństw, z jakimi wiązały się próby spełnienia wysuwanych wobec nich żądań." #Roger Casement
  amazon.2.a: "Nie możemy zwolnić z produkcją."
  amazon.2.b: "Przeprowadź śledztwo w sprawie warunków panujących na plantacjach."
  amazon.2.c: "Sprawcy zapłacą za swoje zbrodnie."
@@ -1279,7 +1287,7 @@
  canada_settlement_mod: "Osada w Kanadzie zachodniej"
  major_railways.3.t: "Ostatni gwóźdź"
  major_railways.3.d: "Budowa Kolei Transkanadyjskiej wreszcie dobiegła końca – wybrzeża Pacyfiku i Atlantyku doczekały się połączenia! Nowo powstała linia kolejowa otwiera przed nami niespotykane dotąd możliwości w zakresie zasiedlania zachodniej Kanady."
- major_railways.3.f: "A gdy młot opadł na koniec,\npowietrze rozdarł wrzask.\nInżynierom i saperom,\nKonstruktorom i badaczom\nPo każdej torów stronie\nZawtórował cały świat." 
+ major_railways.3.f: "A gdy młot opadł na koniec,\npowietrze rozdarł wrzask.\nInżynierom i saperom,\nKonstruktorom i badaczom\nPo każdej torów stronie\nZawtórował cały świat." #E. J. Pratt
  major_railways.3.a: "Najbardziej obiecującym regionem jest wybrzeże."
  major_railways.3.b: "W preriach drzemie ogromny potencjał."
  je_canada_pacific_railway: "Kolej Transkanadyjska"
@@ -1321,7 +1329,7 @@
  aboriginal_australian: "Australijska rdzenna"
  south_american_group: "Amerykańska rdzenna (płd.)"
  north_american_group: "Amerykańska rdzenna (płn.)"
- siberia_tt: "Każdy kontrolowany obszar administracyjny w regionach strategicznych [SCOPE.sStrategicRegion('east_siberia').GetName] i [SCOPE.sStrategicRegion('west_siberia').GetName], który posiada kolej, zyskuje:"
+ siberia_tt: "Każdy kontrolowany obszar administracyjny w regionach strategicznych [SCOPE.sStrategicRegion('east_siberia').GetName], [SCOPE.sStrategicRegion('west_siberia').GetName] i [SCOPE.sStrategicRegion('manchuria').GetName], który posiada kolej, zyskuje:"
  plague_might_spread.tt: "Nasze państwo, [THIS.GetCountry.GetName], jest zagrożone plagą wirusa, który może dotrzeć tu z sąsiednich obszarów administracyjnych lub poprzez wspólne rynki."
  je_spanish_flu: "Pandemia grypy"
  je_spanish_flu_reason: "Na świecie szaleje pandemia zabójczej grypy. Sposób, w jaki rząd zareaguje na tę plagę, zadecyduje o losie tysięcy, a może nawet milionów ludzkich istnień."
@@ -1418,7 +1426,7 @@
  je_autocracy_goal: "Przez łącznie 30 lat muszą być spełnione następujące warunki:"
  autocracy.1.t: "Oficjalna narodowość"
  autocracy.1.d: "[ROOT.GetCountry.GetAdjective] ludność powszechnie akceptuje ideologię państwową opartą na religii, autokracji i narodowości. Niewielu ośmiela się kwestionować absolutną władzę, jaką sprawuje [SCOPE.sCharacter('monarch_scope').GetPrimaryRoleTitle]."
- autocracy.1.f: "– Gdzie [SCOPE.sCharacter('monarch_scope').GetPrimaryRoleTitle] cieszy się miłością, a monarchia oddaniem ludu, dla którego taki stan rzeczy jest naturalny; gdzie istnieją prawa ojczyzny i ma miejsce stanowcze zarządzanie, tam wszelkie wysiłki ludzi o złych intencjach są nie tylko jałowe, ale i nielogiczne." 
+ autocracy.1.f: "– Gdzie [SCOPE.sCharacter('monarch_scope').GetPrimaryRoleTitle] cieszy się miłością, a monarchia oddaniem ludu, dla którego taki stan rzeczy jest naturalny; gdzie istnieją prawa ojczyzny i ma miejsce stanowcze zarządzanie, tam wszelkie wysiłki ludzi o złych intencjach są nie tylko jałowe, ale i nielogiczne." #Tsar Nicholas I
  autocracy.1.a: "Niech żyje [SCOPE.sCharacter('monarch_scope').GetPrimaryRoleTitle]!"
  autocracy.1.b: "[SCOPE.sCulture('primary_culture_scope').GetName] kultura i jej przedstawiciele to absolutny priorytet."
  autocracy.1.c: "[SCOPE.gsInterestGroup('church_scope').GetName] to grupa interesu, która wskaże nam drogę."
@@ -1429,7 +1437,7 @@
  autocracy.2.b: "Za bunt ponosi się karę."
  autocracy.3.t: "Błogosławieni pokorni"
  autocracy.3.d: "[SCOPE.gsInterestGroup('church_scope').GetName] to grupa interesu, która w obszarze administracyjnym o nazwie [SCOPE.sState('religious_serfs_state').GetName] zapewnia przedstawicieli zbiorowości znanej jako [SCOPE.sPop('religious_serf_pop').GetName|l], iż mimo ciężkich warunków, w jakich przyszło im żyć, służą większemu dobru na rzecz swojego narodu. Za swoją służbę chłopi pańszczyźniani mają zostać wynagrodzeni w zaświatach."
- autocracy.3.f: "„Błogosławieni pokorni,\nalbowiem oni wejdą w posiadanie ziemi.\nBłogosławieni łaknący sprawiedliwości,\nalbowiem głód ich zostanie zaspokojony.\nBłogosławieni łaskawi,\nalbowiem sami łaski dostąpią”." 
+ autocracy.3.f: "„Błogosławieni pokorni,\nalbowiem oni wejdą w posiadanie ziemi.\nBłogosławieni łaknący sprawiedliwości,\nalbowiem głód ich zostanie zaspokojony.\nBłogosławieni łaskawi,\nalbowiem sami łaski dostąpią”." #Sermon on the Mount
  autocracy.3.a: "Należy zakorzenić w nich lojalność wobec państwa."
  autocracy.3.b: "Wyzwólcie się od nieczystych myśli."
  popular_autocrat: "Popularny autokrata"
@@ -1478,7 +1486,7 @@
  first_skyscraper_tt: "Wybudowaliśmy pierwszy wieżowiec świata"
  war_crimes.1.t: "Zbrodnie wojenne"
  war_crimes.1.d: "Ze względu na użycie iperytu przeciwko cywilom w obszarze administracyjnym [SCOPE.sState('war_crimes_state').GetName] uznaje się, że [SCOPE.sCharacter('war_crimes_perpetrator').GetFullName] to zbrodniarz wojenny. Wiele osób domaga się wprowadzenia przepisów określających dopuszczalne metody stosowane w ramach działań wojennych."
- war_crimes.1.f: "– Rozległe pęcherze w kolorze musztardy. Niewidzące oczy. Wszystko się klei. Każdy oddech okupiony jest walką. Zdolne jedynie do szeptu ofiary mówią o zaciśniętych gardłach – wiedzą, że wkrótce się uduszą." 
+ war_crimes.1.f: "– Rozległe pęcherze w kolorze musztardy. Niewidzące oczy. Wszystko się klei. Każdy oddech okupiony jest walką. Zdolne jedynie do szeptu ofiary mówią o zaciśniętych gardłach – wiedzą, że wkrótce się uduszą." #Vera Brittain
  war_crimes.1.a: "W miłości i wojnie wszystko jest dopuszczalne."
  war_crimes.1.b: "[SCOPE.sCharacter('war_crimes_perpetrator').GetFullName] odpowie za swoje zbrodnie."
  je_war_crimes: "Broń chemiczna"
@@ -1500,7 +1508,7 @@
  tunguska_mining: "Zdarzenie tunguskie – ekspedycja wydobywcza"
  tunguska.1.t: "Katastrofa tunguska"
  tunguska.1.desc: "W regionie tunguskim ([SCOPE.sState('tunguska_state').GetName]) rozbrzmiewa potężna eksplozja. Naukowcy uważają, że to ciało niebieskie zderzyło się z Ziemią."
- tunguska.1.f: "– Na chwilę straciłem zmysły, ale zaraz przybiegła żona i poprowadziła mnie do domu. Potem słychać było taki hałas, jakby z nieba spadały głazy – lub jakby strzelano z armat – i wszystko się zatrzęsło. Leżąc płasko, przyciskałem głowę do ziemi w obawie, że uderzą mnie kamienie. Kiedy niebo się rozwarło, między domami szalał, jak po wystrzale z działa, gorący wiatr, który zostawił po sobie podobne do ścieżek ślady w ziemi i zniszczył część upraw." 
+ tunguska.1.f: "– Na chwilę straciłem zmysły, ale zaraz przybiegła żona i poprowadziła mnie do domu. Potem słychać było taki hałas, jakby z nieba spadały głazy – lub jakby strzelano z armat – i wszystko się zatrzęsło. Leżąc płasko, przyciskałem głowę do ziemi w obawie, że uderzą mnie kamienie. Kiedy niebo się rozwarło, między domami szalał, jak po wystrzale z działa, gorący wiatr, który zostawił po sobie podobne do ścieżek ślady w ziemi i zniszczył część upraw." #S. Semenov
  tunguska.1.a: "Fascynujące – i nieistotne."
  tunguska.1.b: "Potrzebne będą badania naukowe."
  tunguska.1.c: "To omen!"
@@ -1508,7 +1516,7 @@
  cholera.1.t: "O sposobach rozprzestrzeniania się cholery"
  cholera.1.d1: "Genialny chirurg i aptekarz, John Snow, znalazł źródło epidemii cholery w mieście [SCOPE.sState('cholera_state').GetCityHubName], co zaowocowało gigantycznym postępem w sektorze zdrowia publicznego."
  cholera.1.d2: "Pewien genialny chirurg i aptekarz znalazł źródło epidemii cholery w mieście [SCOPE.sState('cholera_state').GetCityHubName], co zaowocowało gigantycznym postępem w sektorze zdrowia publicznego."
- cholera.1.f: "– W wyniku badania ustalono, iż nie można mówić o wybuchu epidemii ani o rozprzestrzenianiu się cholery w tej części Londynu. Wyjątek stanowiły osoby, które miały w zwyczaju spożywać wodę wydobywaną przy pomocy wspomnianej wcześniej pompy. W związku z powyższym następnego dnia uchwyt rzeczonej pompy został usunięty." 
+ cholera.1.f: "– W wyniku badania ustalono, iż nie można mówić o wybuchu epidemii ani o rozprzestrzenianiu się cholery w tej części Londynu. Wyjątek stanowiły osoby, które miały w zwyczaju spożywać wodę wydobywaną przy pomocy wspomnianej wcześniej pompy. W związku z powyższym następnego dnia uchwyt rzeczonej pompy został usunięty." #John Snow
  cholera.1.a: "Musimy zadbać o czystość ulic."
  cholera.1.b: "Epidemiologia jest obiecującą dziedziną nauki."
  cholera.1.c: "John Snow nie wie nic."
@@ -1519,7 +1527,7 @@
  bison_hunting_subsistence: "Wytrzebione stada bizonów"
  manifest_destiny.3.t: "Polowanie na bizony"
  manifest_destiny.3.d: "[SCOPE.sState('native_american_state').GetName] ([SCOPE.sCountry('native_american_country').GetNameNoFlag]) – dzięki bizonom mieszkańcy tego obszaru administracyjnego zaspokajają wiele podstawowych potrzeb. W interesie osadników w obszarze administracyjnym [SCOPE.sState('bison_state').GetName] byłoby jednak ograniczenie liczebności bizonów."
- manifest_destiny.3.f: "– Tysiące bizonów w każdym sezonie ginie haniebną śmiercią z rąk bezlitosnych białych myśliwych i turystów – i w jakim celu? Ze względu na skóry? Na rzecz bezmyślnej rozrywki? Ich potężne cielska gniją w zapomnieniu, a zbielałe szkielety na dobre wpasowały się w krajobraz pustyń i opuszczonych równin." 
+ manifest_destiny.3.f: "– Tysiące bizonów w każdym sezonie ginie haniebną śmiercią z rąk bezlitosnych białych myśliwych i turystów – i w jakim celu? Ze względu na skóry? Na rzecz bezmyślnej rozrywki? Ich potężne cielska gniją w zapomnieniu, a zbielałe szkielety na dobre wpasowały się w krajobraz pustyń i opuszczonych równin." #J.M. Baltimore
  manifest_destiny.3.a: "Zachęcaj do polowania w celach komercyjnych."
  manifest_destiny.3.b: "Niech armia zabije bizony."
  manifest_destiny.3.c: "Chroń stada bizonów."
@@ -1546,7 +1554,7 @@
  protected_fascist_rally_antifa: "Ochrona zgromadzenia faszystowskiego"
  communist_elections.3.t: "Internacjonalizm socjalistyczny"
  communist_elections.3.d: "[SCOPE.sParty('socialist_party').GetName] to partia, która w swojej kampanii wyborczej uzyskała poparcie następującej grupy interesu: [SCOPE.gsInterestGroup('foreign_socialist_ig').GetName|l] ([SCOPE.sCountry('socialist_country').GetName]). Ideologia wyznawana przez tę grupę to [SCOPE.sCharacter('foreign_socialist_leader').GetIdeology.GetName|l]."
- communist_elections.3.f: "Zbierzmy się wszyscy\nI stoczmy bój ostatni!\nNiech ludzkość zjednoczy\nZwiązek nasz bratni!" 
+ communist_elections.3.f: "Zbierzmy się wszyscy\nI stoczmy bój ostatni!\nNiech ludzkość zjednoczy\nZwiązek nasz bratni!" #The Internationale
  communist_elections.3.a: "[SCOPE.sCountry('socialist_country').GetName] – socjaliści z tego państwa są u nas mile widziani."
  communist_elections.3.b: "Spróbuj ograniczyć wpływ obcych państw na wybory."
  communist_elections.3.c: "Znajdź i wydal wszystkich dywersantów."
@@ -1591,7 +1599,7 @@
  remove_liquor_ban_desc: "Sytuacja polityczna lub gospodarcza może wymagać zniesienia zakazu obejmującego napoje alkoholowe."
  native_resettlement.6.t: "Państwo Czirokezów"
  native_resettlement.6.d: "Ustanowiono nowe prawo ([SCOPE.sLawType('pronativelaw').GetName|l]), które unieważnia ustawę o wysiedleniu Indian. Ludność [SCOPE.sCulture('cherokee_culture').GetName|l] może teraz żyć swobodnie na ziemiach swoich przodków."
- native_resettlement.6.f: "Niech wieszcze w pieśniach Cię wychwalają\nI światu głoszą, jak Cię wyszydzano,\nJak syczano, oskarżano i za wariata uważano!\nAż w końcu, na wszystkim przekór,\nMimo drwin, a z chęci i przyczyny,\nGeniusz Twój przekuł marzenia w czyny." 
+ native_resettlement.6.f: "Niech wieszcze w pieśniach Cię wychwalają\nI światu głoszą, jak Cię wyszydzano,\nJak syczano, oskarżano i za wariata uważano!\nAż w końcu, na wszystkim przekór,\nMimo drwin, a z chęci i przyczyny,\nGeniusz Twój przekuł marzenia w czyny." #Alexander Posey
  native_resettlement.6.a: "Uniknięto wielkiego cierpienia."
  john_ross_enactment: "Petycja protestacyjna Johna Rossa"
  trail_of_tears_stalled: "Dalsze działania na rzecz wysiedlenia zostaną wstrzymane na 3 lata"

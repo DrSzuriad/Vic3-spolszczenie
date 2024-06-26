@@ -1,16 +1,16 @@
 ﻿l_polish:
- government_conflict: "Konflikt w rządzie" 
- disfavored_in_government: "Nieprzychylność rządu" 
+ government_conflict: "Konflikt w rządzie" #Modifier
+ disfavored_in_government: "Nieprzychylność rządu" #Modifier
  rejected_petition: "Odrzucenie petycji"
- accepted_petition: "Przyjęcie petycji" 
- accepted_petition_LI: "Przyjęcie petycji" 
- accepted_petition_DV: "Przyjęcie petycji" 
- accepted_petition_IT: "Przyjęcie petycji" 
- accepted_petition_RF: "Przyjęcie petycji" 
- accepted_petition_TU: "Przyjęcie petycji" 
- accepted_petition_IN: "Przyjęcie petycji" 
- accepted_petition_AF: "Przyjęcie petycji" 
- accepted_petition_PB: "Przyjęcie petycji" 
+ accepted_petition: "Przyjęcie petycji" #Modifier
+ accepted_petition_LI: "Przyjęcie petycji" #Modifier
+ accepted_petition_DV: "Przyjęcie petycji" #Modifier
+ accepted_petition_IT: "Przyjęcie petycji" #Modifier
+ accepted_petition_RF: "Przyjęcie petycji" #Modifier
+ accepted_petition_TU: "Przyjęcie petycji" #Modifier
+ accepted_petition_IN: "Przyjęcie petycji" #Modifier
+ accepted_petition_AF: "Przyjęcie petycji" #Modifier
+ accepted_petition_PB: "Przyjęcie petycji" #Modifier
  state_gold_rush: "Gorączka złota"
  state_limited_gold_rush: "Ograniczenie gorączki złota"
  state_gold_depleted: "Wyczerpanie zasobów kopalni złota"
@@ -43,7 +43,7 @@
  criticized_economic_injustice: "Krytyka nierówności gospodarczej"
  blamed_economic_inequality: "Obwinianie nierówności gospodarczej"
  jealous_of_neighbor: "Zazdrość wobec sąsiada"
- foreign_investment: "Zagraniczna inwestycja"
+ foreign_investment: "Inwestycja zagraniczna"
  enforced_domestic_investment: "Narzucenie inwestycji krajowej"
  modifier_commander_with_addiction: "Uzależnienie wpływające na pracę"
  modifier_commander_bribed: "Wpływ dowódcy"
@@ -305,7 +305,7 @@
  commander_kept: "Dowódca pozostaje na stanowisku"
  commander_events.5.t: "Wojna i postęp"
  commander_events.5.d: "[SCOPE.sCharacter('commander_invention').GetFullName] wie, jak udoskonalić #bold karabiny powtarzalne#!."
- commander_events.5.f: "[SCOPE.sCharacter('commander_invention').GetFullName] poprawia okulary i przemawia z pewnością siebie.\n\n– Cóż, to było bardzo proste. Wystarczyło przyjrzeć się aktualnie wykorzystywanej technologii, aby po chwili namysłu stwierdzić, że można by zmienić to i owo.\n\nW [SCOPE.sCharacter('commander_invention').GetCustom('PL_jego_jej')] sposobie mówienia jest coś, co nadaje [SCOPE.sCharacter('commander_invention').GetCustom('PL_mu_jej')] wdzięk. Gdy zaś trzyma ten karabin, przyciąga do siebie ludzi. Pewność siebie godna podziwu!" 
+ commander_events.5.f: "[SCOPE.sCharacter('commander_invention').GetFullName] poprawia okulary i przemawia z pewnością siebie.\n\n– Cóż, to było bardzo proste. Wystarczyło przyjrzeć się aktualnie wykorzystywanej technologii, aby po chwili namysłu stwierdzić, że można by zmienić to i owo.\n\nW [SCOPE.sCharacter('commander_invention').GetCustom('PL_jego_jej')] sposobie mówienia jest coś, co nadaje [SCOPE.sCharacter('commander_invention').GetCustom('PL_mu_jej')] wdzięk. Gdy zaś trzyma ten karabin, przyciąga do siebie ludzi. Pewność siebie godna podziwu!" #I don't know how repeaters work
  commander_events.5.a: "Postaw na siłę ognia."
  commander_events.5.b: "Postaw na celność."
  law_events.1.t: "Obdżektorzy"
@@ -336,7 +336,7 @@
  modifier_religious_schools_abolished_intelligentsia: "Wysłuchano obaw szkół wyznaniowych"
  religious_schools_bad_modifier: "Spór o szkoły wyznaniowe"
  religious_schools_good_modifier: "Poparcie dla szkół wyznaniowych"
- 
+ #Make these specific to each expedition
  notification_expedition_progress_average_desc: "Członkowie trwającej ekspedycji kontynuują ją bez przeszkód"
  notification_expedition_progress_average_tooltip: "Członkowie twojej ekspedycji w dalszym ciągu czynią regularne postępy"
  notification_expedition_progress_average_name: "Trwająca ekspedycja"
@@ -715,10 +715,10 @@
  ig_revolutions.9.a: "W porządku. [SCOPE.gsInterestGroup('ig_tu_on_the_edge').GetName|l] – uwzględnimy żądania tej grupy."
  ig_revolutions.9.b: "Nic nie damy tej hołocie!"
  ig_revolutions.9.c: "Od takich spraw mamy policję."
- ig_powerbrokers: "Szare eminencje" 
- ig_concessions_and_appeasement: "Ustępstwa i łagodzenie konfliktu" 
- ig_unappeased: "Nieusatysfakcjonowani" 
- ig_mass_arrests: "Masowe aresztowania" 
+ ig_powerbrokers: "Szare eminencje" #Modifier
+ ig_concessions_and_appeasement: "Ustępstwa i łagodzenie konfliktu" #Modifier
+ ig_unappeased: "Nieusatysfakcjonowani" #Modifier
+ ig_mass_arrests: "Masowe aresztowania" #Modifier
  commander_events.6.t: "Przytępiony zmysł strategiczny"
  commander_events.6.d: "Doszły nas słuchy, że [SCOPE.sCharacter('seducer_commander').GetFullName] ma romans z drugą połówką dowódcy, którym jest [SCOPE.sCharacter('cheated_leader').GetFullName]. [SCOPE.sCharacter('cheated_leader').GetCustom('PL_jego_jej')|U] dobre imię zostanie zszargane, jeśli nie wyciągniemy konsekwencji wobec generała uwodziciela."
  commander_events.6.f: "Po wyjściu z kąpieli [SCOPE.sCharacter('seducer_commander').GetFullNameNoFormatting] dostrzega na swoim ciele rozprzestrzeniającą się charakterystyczną wysypkę. Zupełnie jakby przyłapanie na gorącym uczynku nie było wystarczająco kłopotliwe! [SCOPE.sCharacter('seducer_commander').GetFullName] ma tylko jeden romans. Teraz, gdy samo ciało generała jest dowodem, nie sposób będzie się z niego wyłgać."

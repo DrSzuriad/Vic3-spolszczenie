@@ -2,7 +2,7 @@
  party_pcb: "Komunistyczna Partia Brazylii"
  royal_navy_loc: "Królewska Marynarka Wojenna"
  adjective_navy_loc: "[SCOPE.GetRootScope.GetCountry.GetAdjectiveNoFormatting] Marynarka Wojenna"
- 
+ #Aberdeen Act
  je_aberdeen_act: "Południowoatlantycki handel niewolnikami"
  je_aberdeen_act_reason: "Pomimo podpisania #bold brytyjsko-brazylijskiego traktatu z 1826 roku#!, w ramach którego państwo o nazwie [SCOPE.sCountry('brazil_scope').GetName] zobowiązało się do zniesienia prawa dotyczącego handlu niewolnikami z Afryki, władze tego państwa nie podjęły wielu działań w celu wprowadzenia odpowiednich postanowień w życie.\n\nZamiast tego handlarze niewolników z państwa o nazwie [SCOPE.sCountry('brazil_scope').GetNameNoFormatting] każdego roku transportują przez Atlantyk dziesiątki tysięcy zakutych w łańcuchy ludzi z Afryki, kpiąc z reputacji rządu brytyjskiego.\n\nTo niedopuszczalne. W ten czy inny sposób państwo o nazwie [SCOPE.sCountry('brazil_scope').GetNameNoFlag] musi ustąpić."
  je_aberdeen_act_button: "Wyegzekwuj postanowienia ustawy Aberdeena"
@@ -97,7 +97,20 @@
  brazilian_slavery.13.a: "Po raz kolejny jesteśmy utożsamiani z niewolnictwem."
  brazil_slaving_pariah_modifier: "Odnowienie cyklu afrykańskiego"
  je_matter_of_slavery: "Kwestia niewolnictwa"
- je_matter_of_slavery_reason: "Na status #bold paska postępu#! będą miały wpływ różne #tooltippable;tooltip:[Country.GetTooltipTag],je_brazilian_slavery_tooltip_advance pozytywne#! lub #tooltippable;tooltip:[Country.GetTooltipTag],je_brazilian_slavery_tooltip_deplete negatywne#! czynniki. Jeśli #bold pasek postępu#! osiągnie wartość #bold 0#!, poskutkuje to oficjalnym zniesieniem zakazu handlu niewolnikami i dalszym #bold umocnieniem#! instytucji niewolnictwa w kulturze i polityce Brazylii. W kolejnym miesiącu wartość #bold paska postępu#! zmieni się o #variable [Country.MakeScope.Var('brz_slavery_next').GetValue|+=]#!.\n\nPrzez wieki w krajobrazie politycznym państwa o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] dominowało jedno zagadnienie – [concept_slavery|l]. Przez przeciwników okrzyknięte zostało rakiem zagrażającym podwalinom państwa, a przez zwolenników – naturalnym, koniecznym i zgodnym z prawem stanem rzeczy.\n\n#bold Południowoatlantycki handel niewolnikami#!\nChoć w ramach #bold traktatu brytyjsko-brazylijskiego z 1826 roku#! Brazylia oficjalnie zobowiązała się do zniesienia prawa o nazwie [GetLawType('law_slave_trade').GetName|l], od tamtego czasu podjęto niewiele kroków zmierzających do faktycznego wyegzekwowania zakazu niewolnictwa i handel w tym państwie nadal trwa.\n\nPaństwo o nazwie [SCOPE.sCountry('britain_scope').GetName] może uważać, że ma prawo zakłócać transport niewolników przez brazylijskie jednostki morskie na otwartych morzach tak długo, jak w Brazylii obowiązywać będzie [concept_law|l] o nazwie [GetLawType('law_slave_trade').GetName|l]."
+ je_matter_of_slavery_reason: "Na status #bold paska postępu#! będą miały wpływ różne #tooltippable;tooltip:[Country.GetTooltipTag],je_brazilian_slavery_tooltip_advance pozytywne#! lub #tooltippable;tooltip:[Country.GetTooltipTag],je_brazilian_slavery_tooltip_deplete negatywne#! czynniki. Jeśli #bold pasek postępu#! osiągnie wartość #bold 0#!, poskutkuje to oficjalnym zniesieniem zakazu handlu niewolnikami i dalszym #bold umocnieniem#! instytucji niewolnictwa w kulturze i polityce Brazylii.\n\nPrzez wieki w krajobrazie politycznym państwa o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFormatting] dominowało jedno zagadnienie – [concept_slavery|l]. Przez przeciwników okrzyknięte zostało rakiem zagrażającym podwalinom państwa, a przez zwolenników – naturalnym, koniecznym i zgodnym z prawem stanem rzeczy.\n\n#bold Południowoatlantycki handel niewolnikami#!\nChoć w ramach #bold traktatu brytyjsko-brazylijskiego z 1826 roku#! Brazylia oficjalnie zobowiązała się do zniesienia prawa o nazwie [GetLawType('law_slave_trade').GetName|l], od tamtego czasu podjęto niewiele kroków zmierzających do faktycznego wyegzekwowania zakazu niewolnictwa i handel w tym państwie nadal trwa.\n\nPaństwo o nazwie [SCOPE.sCountry('britain_scope').GetName] może uważać, że ma prawo zakłócać transport niewolników przez brazylijskie jednostki morskie na otwartych morzach tak długo, jak w Brazylii obowiązywać będzie [concept_law|l] o nazwie [GetLawType('law_slave_trade').GetName|l]."
+ matter_of_slavery_progress_bar: "Kwestia niewolnictwa"
+ matter_of_slavery_progress_bar_desc: "Postęp: #v [JournalEntry.GetCurrentBarProgress(ScriptedProgressBar.Self)|%]#! ([JournalEntry.GetCurrentBarValue(ScriptedProgressBar.Self)|1]/360)"
+ slavery_progress_from_landowners_in_gov_tt: "[GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant] [concept_in_government|l]"
+ slavery_progress_from_landowners_powerful_tt: "[GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant] to [concept_powerful|l]"
+ slavery_progress_from_regency_tt: "epoka #bold regencji#!"
+ slavery_progress_from_slaver_ruler_tt: "[concept_ruler|l] to [GetIdeology('ideology_slaver').GetName|l] lub osoba należąca do grupy interesu znanej jako [GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant|l]"
+ slavery_progress_from_slavers_tt: "większość [Concept('concept_commander', 'dowódców')] należy do grupy interesu znanej jako [GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant|l] lub wyznaje następującą [Concept('concept_ideology', 'ideologię')]: [GetIdeology('ideology_slaver').GetName|l]"
+ slavery_progress_from_suppression_tt: "aktywne piętnowanie handlu niewolnikami"
+ slavery_progress_from_marginal_landowners_tt: "[GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant] to [Concept('concept_marginalized', 'grupa marginalizowana')]"
+ slavery_progress_from_intelligentsia_tt: "[GetInterestGroupVariant('ig_intelligentsia',GetPlayer).GetNameWithCountryVariant] [concept_in_government|l]"
+ slavery_progress_from_abolished_slave_trade_tt: "zniesiono [Concept('concept_law', 'prawo')] następującego typu: [GetLawType('law_slave_trade').GetName]"
+ slavery_progress_from_ended_regency_tt: "Epoka #bold regencji#! dobiegła końca"
+ slavery_progress_from_isabel_tt: "Potwierdzono, że [Concept('concept_heir', 'następczynią')] jest księżna królewskiej krwi Izabela"
  je_slave_trade_suppression_button: "Egzekwuj zakaz wybiórczo"
  je_slave_trade_suppression_button_desc: "[GetLawType('law_slave_trade').GetName] jest prawem zbyt mocno zakorzenionym w państwie o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag], aby możliwe było pełne jego zniesienie, ale nadal możemy podjąć pewne działania przeciwko osobom, które korzystają na tej sytuacji w sposób najbardziej zuchwały."
  je_slave_trade_end_suppression_button: "Zezwól na niekontrolowany handel niewolnikami"
@@ -118,7 +131,7 @@
  je_brazilian_slavery_tooltip_deplete: "Spełnienie następujących warunków spowoduje #bold zmniejszenie#! wartości #bold paska postępu#! o #variable 1#! w każdym miesiącu:\n• [GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant|l] to grupa interesu zasiadająca [concept_government|l];\n• [GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant|l] to [concept_powerful|l];\n• trwa epoka regencji;\n• [concept_leader|l] Brazylii należy do grupy interesu znanej jako [GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant|l] lub wyznaje następującą [Concept('concept_ideology', 'ideologię')]: [GetIdeology('ideology_slaver').GetName|l];\n• większość brazylijskich [Concept('concept_commander', 'dowódców')] należy do grupy interesu znanej jako [GetInterestGroupVariant('ig_landowners',GetPlayer).GetNameWithCountryVariant|l] lub wyznaje następującą [Concept('concept_ideology', 'ideologię')]: [GetIdeology('ideology_slaver').GetName|l]."
  je_matter_of_slavery_tt_1: "Ten modyfikator zostanie usunięty, gdy w państwie o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag] przestanie obowiązywać następujące [concept_law|l]: [GetLawType('law_slave_trade').GetName|l]."
  je_matter_of_slavery_tt_2: "Jeśli utrzymamy [concept_law|l] o nazwie [GetLawType('law_slave_trade').GetName|l], każde [concept_great_power|l], w którym obowiązuje [concept_law|l] o nazwie [GetLawType('law_slavery_banned').GetName], będzie wykazywać podwyższony poziom agresji wobec naszego państwa ([SCOPE.GetRootScope.GetCountry.GetNameNoFlag])."
- 
+ #Royal Navy ships (West African Station)
  custom_ship_rattler: "Rattler"
  custom_ship_black_joke: "Black Joke"
  custom_ship_creole: "Creole"
@@ -135,7 +148,7 @@
  custom_ship_harpy: "Harpy"
  custom_ship_rifleman: "Rifleman"
  custom_ship_cormorant: "Cormorant"
- 
+ #Brazilian Slavers (ships)
  custom_ship_andorinha: "Andorinha"
  custom_ship_bella_miguelina: "Bella Miguelina"
  custom_ship_serpente: "Serpente"
@@ -188,7 +201,7 @@
  amazonas.1.t: "Okiełznywanie Amazonii"
  amazonas.1.d: "Obecnie jesteśmy w posiadaniu rozległych połaci nieskazitelnych i niezagospodarowanych ziem w dorzeczu Amazonki. Choć niektórzy sławią ich pierwotne piękno, inni widzą w nich jedynie nieokiełznane dzikie tereny, na których czekają nieprzebrane pokłady towaru znanego jako [SCOPE.sGoods('rubber_scope').GetName|l]. Zdaniem tych drugich ziemie te aż proszą się o to, by musnąć je delikatnym dotykiem postępu i kapitału."
  amazonas.1.f: "– Notuj: stoimy na skraju miejsca, które może okazać się płucami naszej planety. To my możemy podziwiać, podbijać i podporządkowywać sobie skrywane tu niesamowite cuda. Tak jak najdziksze rejony Afryki uległy…\n\n– Ech, sir, chyba zapomniałem pióra. Może mógłbym to wszystko spisać po powrocie do obozowiska?\n\n– Dureń! Do diaska, weź moje. A teraz od początku i nie waż się mi przerywać!"
- amazonas.1.a: "Los uśmiecha się do odważnych…" 
+ amazonas.1.a: "Los uśmiecha się do odważnych…" #... and spits on the coward.
  amazonas.1.tt: "…i pluje na tchórzy."
  amazonas.2.t: "Traktat z Ayacucho"
  amazonas.2.d: "Po długich i zażartych dyskusjach delegacje [SCOPE.GetRootScope.GetCountry.GetAdjectiveNoFlag|l] i [SCOPE.sCountry('bolivia_border_treaty_country_scope').GetAdjective|l] osiągnęły porozumienie, w ramach którego wyznaczono granicę pomiędzy naszymi państwami przebiegającą przez obszar administracyjny o nazwie [SCOPE.sState('amazonas_state_scope').GetName]. Na mocy porozumienia rozległe tereny zostaną przekazane państwu o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag]."
@@ -213,7 +226,7 @@
  amazonas.5.t: "Manaus – Paryż wśród tropików"
  amazonas.5.d: "[SCOPE.sState('amazonas_state_scope').GetCityHubName] to leżące w sercu niegdyś niedostępnego lasu tropikalnego miasto, które wspaniałością i rozmachem nie odbiega od innych metropolii Europy. Zamieszkuje je całe mnóstwo niesłychanie bogatych potentatów przemysłu kauczukowego i każdego tygodnia powstają w nim wyjątkowe dzieła."
  amazonas.5.f: "[SCOPE.sState('amazonas_state_scope').GetCityHubName] to miasto, w którym dostępne są wszystkie luksusy. Potentaci przemysłu kauczukowego są nastawieni na rywalizację, przez co każdy nowy pomysł czy moda prowadzi do przesadnego wręcz wyścigu zbrojeń. Gdyby nie gorąc, człowiek przemierzający tutejsze ulice mógłby odnieść wrażenie, że przeniósł się do Paryża."
- amazonas.5.a: "– Mam jedno marzenie: opera. Wielka Opera Tropikalna!" 
+ amazonas.5.a: "– Mam jedno marzenie: opera. Wielka Opera Tropikalna!" #Good old Kinski
  amazonas.5.b: "Czym byłby Paryż tropików bez świateł?"
  amazonic_city_of_lights_modifier: "Tropikalne miasto świateł"
  amazonas.6.t: "Placówka postępu"
@@ -239,7 +252,7 @@
  indians_exploitation_modifier: "Wysłani do pracy"
  amazon_exploitation_devout_upset: "Ciche ambony"
  amazon_exploitation_landowners_upset: "Niespełnione normy"
- je_francocracia: "Ja, Najwyższy" 
+ je_francocracia: "Ja, Najwyższy" #Yo el Supremo
  je_francocracia_reason: "Doktor [SCOPE.sCharacter('francia_character_scope').GetFullName] – Najwyższy i [SCOPE.sCharacter('francia_character_scope').GetPrimaryRoleTitle] w państwie o nazwie [SCOPE.GetRootScope.GetCountry.GetNameNoFlag] – sprawował ekscentryczne i niepodzielne rządy, dzięki którym zdominował scenę polityczną niepodległego Paragwaju. Wspierała go [GetLawType('law_secret_police').GetName|l], wzbudzająca powszechny strach organizacja o nazwie #bold Pyraguës#!, dzięki czemu mógł rządzić twardą ręką i bez wahania stosować przemoc, gdy wymagała tego sytuacja.\n\n[SCOPE.sCharacter('francia_character_scope').GetPrimaryRoleTitle] jednak wyraźnie się już starzeje, dlatego w mieście o nazwie [SCOPE.GetRootScope.GetCountry.GetCapital.GetCityHubName] pojawiają się nieśmiałe sugestie, jakoby jego wizja izolacjonistycznego raju wzorowanego na ideach Rousseau mogła umrzeć wraz ze wspaniałym doktorem Francią."
  je_francocracia_tt: "[SCOPE.sCharacter('francia_character_scope').GetFullName] #bold nie#! jest [Concept('concept_ruler', 'władcą')] następującego państwa: [SCOPE.GetRootScope.GetCountry.GetNameNoFlag]"
  hairy_feet_modifier: "Pyraguës"
@@ -299,7 +312,7 @@
  ybycui_steelworks: "Fabryka stali w El Rosado"
  paraguay.4.t: "Sewastopol Ameryki Południowej"
  paraguay.4.d: "Wznosząca się nad meandrem rzeki Paragwaj wspaniała twierdza Humaitá stanowi doskonałą linię obrony dla miasta o nazwie [SCOPE.GetRootScope.GetCountry.GetCapital.GetCityHubName] i terenów leżących nad rzekami w głębi kraju."
- paraguay.4.f: "– Z głębi marmurowych kazamat łypało na nas szesnaście na pozór bezkresnych ślepi, w których mroku kryła się niewypowiedziana groza – i któż wie, co jeszcze. Wszystkie, podobnie jak wzrok postaci na obrazie, zdawały się podążać za ruchem statku… Każdego z nich chroniło zaś potężne ośmiocalowe działo." 
+ paraguay.4.f: "– Z głębi marmurowych kazamat łypało na nas szesnaście na pozór bezkresnych ślepi, w których mroku kryła się niewypowiedziana groza – i któż wie, co jeszcze. Wszystkie, podobnie jak wzrok postaci na obrazie, zdawały się podążać za ruchem statku… Każdego z nich chroniło zaś potężne ośmiocalowe działo." #Crewmember of USS Fulton, 1859
  paraguay.4.a: "¡No pasarán!"
  paraguay.5.t: "Zgodnie z zaleceniami lekarza"
  paraguay.5.d: "Zbyt długo choroby takie jak ospa zbierały krwawe żniwo w naszym narodzie. Choć możliwe, że minie jeszcze wiele dekad, zanim rozprawimy się z nimi na dobre, dzięki programowi szczepień wprowadzonemu przez zagranicznych lekarzy skutki przyszłych epidemii nie będą dla nas tak dotkliwe."

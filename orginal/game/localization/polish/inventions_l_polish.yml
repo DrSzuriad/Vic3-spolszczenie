@@ -1,6 +1,10 @@
 ﻿l_polish:
  #hereditary_aristocracy: "Hereditary Aristocracy"
- 
+ #Categories
+ #Culture Technology
+ #Economy Technology
+ #Military Technology
+ ### Technology Tooltips
  ##lenders_of_last_resort: "Lenders of Last Resort"
  ##lenders_of_last_resort_desc: "State-owned central banks are large enough to come to the rescue of smaller commercial banks, such as during bank runs. This can prevent a financial crisis spreading to other sectors of the economy. Often, even the promise of rescue in times of difficulty is enough to prevent bank runs occurring in the first place. Some 'critics' claim that such a promise will encourage risky behavior by the commercial banks, but these 'critics' are surely just anarchists looking to wreck the nation's economic security, as bankers are some of the most trustworthy people to walk the halls of power."
  ##limited_liability: "Limited Liability"
@@ -492,7 +496,7 @@
  #steam_lathes: "Steam Lathes"
  #steam_lathes_desc: "The lathe is a machine used for boring holes of various shapes and sizes into materials, or for otherwise whittling them down #symmetrically. Exploiting steam power to drive lathes allows industry to use more precision in engineering."
  #stock_exchanges: "Stock Exchanges"
- #stock_exchanges_desc: "Organized trading of financial instruments dates back to the Italian city states and the Dutch Republic. A stock exchange #brings together buyers and sellers of assets such as government debt and shares in companies."
+ #stock_exchanges_desc: "Organized trading of financial instruments dates back to the Italian city states and the Dutch Republic. A stock exchange #brings together buyers and sellers of assets such as government debt and shares in companies."#
  #tunnelling_shields: "Tunnelling Shields"
  #tunnelling_shields_desc: "When digging a mine shaft or railway tunnel, supporting the vast weight of the earth above the workers is vital for the #integrity of the project. A tunnelling shield is a mobile structure made of steel that provides temporary support on the active site of digging. #As the tunnelling shield is moved along, such as on a railway track, a more permanent support is laid, such as brickwork or timbers. The first #use of such a device was in the construction of the Thames Tunnel in 1825 by Anglo-French engineer Marc Isambard Brunel, the father of the more #famous Isambard Kingdom Brunel."
  #alienation: "Alienation"

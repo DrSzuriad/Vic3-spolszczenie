@@ -1,5 +1,5 @@
 ﻿l_polish:
- 
+ #Common
  pm_base: "Bazowa"
  pmg_base_building_food_industry: "$pm_base$"
  pmg_base_building_textile_mills: "$pm_base$"
@@ -90,7 +90,7 @@
  pm_rotary_valve_engine_building_steel_mills: "Silnik z zaworem obrotowym"
  pm_rotary_valve_engine_building_motor_industry: "Silnik z zaworem obrotowym"
  pm_rotary_valve_engine_building_arms_industry: "Silnik z zaworem obrotowym"
- 
+ #Trains
  pm_no_passenger_trains: "Priorytetowy transport towarów"
  pm_wooden_passenger_carriages: "Drewniane wagony pasażerskie"
  pm_steel_passenger_carriages: "Stalowe wagony pasażerskie"
@@ -98,6 +98,9 @@
  pm_steam_trains: "Lokomotywy parowe"
  pm_electric_trains: "Lokomotywy elektryczne"
  pm_diesel_trains: "Lokomotywy spalinowo-elektryczne"
+ pm_steam_trains_principle_transport_3: "Współopracowane lokomotywy parowe"
+ pm_electric_trains_principle_transport_3: "Współopracowane lokomotywy elektryczne"
+ pm_diesel_trains_principle_transport_3: "Współopracowane lokomotywy spalinowo-elektryczne"
  pm_non_standardized_gauges: "Nieustandaryzowany rozstaw szyn"
  pm_broad_gauges: "Kolej szerokotorowa"
  pm_narrow_gauges: "Kolej wąskotorowa"
@@ -105,20 +108,21 @@
  pmg_armored_trains: "Pociągi pancerne"
  pm_armored_trains: "Pociągi pancerne"
  pm_railway_guns: "Działa kolejowe"
- 
+ #Food Industry
  pmg_canning: "Puszkowanie"
  pm_disabled_canning: "Słoiki"
  pm_cannery: "Konserwy mięsne"
  pm_cannery_fish: "Konserwy rybne"
  pm_disabled_cannery: "Brak urządzeń puszkujących"
  pm_vacuum_canning: "Pakowanie próżniowe"
+ pm_vacuum_canning_principle_3: "Wydajne metody puszkowania"
  pmg_distillery: "Destylarnie"
  pm_disabled_distillery: "Priorytetowa produkcja artykułów spożywczych"
  pm_pot_stills: "Destylatory kotłowe"
  pm_patent_stills: "Kolumny destylacyjne"
  pm_bakery: "Piekarnie"
  pm_sweeteners: "Słodziki"
- 
+ #Textile Mills
  pm_cotton_gin: "Odziarniarki bawełny"
  pm_disabled_gin: "Brak odziarniarek mechanicznych"
  pm_system_gin: "System odziarniarek"
@@ -128,7 +132,7 @@
  pm_rubber_bands: "Gumki recepturki"
  pm_no_luxury_clothes: "Priorytetowa produkcja odzieży zwyczajnej"
  pm_luxury_clothes: "Produkcja odzieży luksusowej"
- 
+ #Furniture Manufacturies
  pm_textile_looms: "Krosna"
  pm_handcrafted_furniture: "Meble produkcji ręcznej"
  pm_machine_tools: "Narzędzia mechaniczne"
@@ -142,7 +146,7 @@
  pm_assembly_lines_building_munition_plants: "Linie montażowe"
  pm_no_luxuries: "Priorytetowa produkcja mebli zwyczajnych"
  pm_luxury_furniture: "Produkcja mebli luksusowych"
- 
+ #Glassworks
  pm_forest_glass: "Szkło brodawkowe"
  pmg_glassblowing: "Szkło dmuchane"
  pm_disabled_glassblowing: "Brak szkła dmuchanego"
@@ -151,17 +155,17 @@
  pm_ceramics: "Ceramika"
  pm_disabled_ceramics: "Priorytetowa produkcja szkła"
  pm_bone_china: "Porcelana kostna"
- 
+ #Tooling Workshops
  pm_crude_tools: "Prymitywne narzędzia"
  pm_pig_iron: "Narzędzia z kutego żelaza"
  pm_steel: "Narzędzia stalowe"
  pm_rubber_grips: "Mechaniczne produkowane narzędzia stalowe"
- 
+ #Arms Industry
  pm_muskets: "Muszkiety"
  pm_rifles: "Strzelby"
  pm_repeaters: "Karabiny powtarzalne"
  pm_bolt_action_rifles: "Karabiny z mechanizmem ryglowym"
- 
+ #Paper Mills
  pm_pulp_pressing: "Prasowanie masy papierowej"
  pm_crude_paper: "Papier surowy"
  pm_sulfite_pulping: "Roztwarzanie siarczynowe"
@@ -169,33 +173,33 @@
  pm_no_publishing: "Brak przemysłu wydawniczego"
  pm_newspapers: "Gazety"
  pm_printing_presses: "Prasy drukarskie"
- 
+ #Steel Mills
  pmg_steelmaking_process: "Proces wytapiania stali"
  pm_blister_steel_process: "Proces cementacji stali"
  pm_bessemer_process: "Besemerowski proces wytapiania stali"
  pm_open_hearth_process: "Martenowski proces wytapiania stali"
  pm_electric_arc_process: "Proces spawania łukowego"
- 
+ #Munitions Plant
  pm_munitions_plants: "Fabryki amunicji"
  pm_disabled_munitions_plants: "Brak fabryk amunicji"
  pm_cartridge_crafting: "Wytwarzanie pocisków"
  pm_percussion_caps: "Kapiszony"
  pm_explosive_shells: "Pociski odłamkowe"
- 
+ #Motor Industry
  pm_steam_engines: "Silniki parowe"
  pm_electric_engines: "Silniki elektryczne"
  pm_diesel_engines: "Silniki wysokoprężne"
- 
+ #War Machine Industry
  pmg_aeroplanes: "Aeroplany"
  pm_no_aeroplane_production: "Brak produkcji aeroplanów"
  pm_aeroplane_production: "Produkcja aeroplanów"
  pmg_tanks: "Czołgi"
  pm_no_tank_production: "Priorytetowa produkcja aeroplanów"
  pm_tank_production: "Produkcja czołgów"
- 
+ #Foundries
  pm_civilian: "Cywilne"
  pm_wartime: "Wojenne"
- 
+ #Arts Academy
  pmg_schools_of_art: "Szkoły artystyczne"
  pm_traditional_art: "Sztuka tradycyjna"
  pm_realist_art: "Sztuka realistyczna"
@@ -205,14 +209,14 @@
  pm_traditional_patronage: "Mecenat tradycyjny"
  pm_bourgeoisie_patronage: "Mecenat burżuazyjny"
  pm_independent_artists: "Artyści niezależni"
- 
+ #University
  pm_analytical_philosophy_department: "Wydział filozofii analitycznej"
  pm_philosophy_department: "Wydział filozofii"
  pm_scholastic_education: "Edukacja scholastyczna"
  pmg_university_academia: "Sekularyzm"
  pm_secular_academia: "Świeckie środowisko akademickie"
  pm_religious_academia: "Nauczyciele duchowni"
- 
+ #Fishing Wharf
  pm_fish_oil: "Tran"
  pm_disabled_fish_oil: "Priorytetowa produkcja ryb"
  pm_oil_extraction: "Pozyskiwanie tranu"
@@ -235,7 +239,7 @@
  pm_simple_whaling: "Wielorybnictwo tradycyjne"
  pm_wooden_whaling_ships: "Flota wielorybnicza"
  pm_steam_whaling_ships: "Parowce wielorybnicze"
- 
+ #Grain Farms
  pm_simple_farming: "Rolnictwo zwyczajne"
  pm_simple_farming_building_rice_farm: "Rolnictwo zwyczajne"
  pm_intensive_farming: "Rolnictwo intensywne"
@@ -255,7 +259,7 @@
  pm_compression_ignition_tractors: "Traktory z silnikami wysokoprężnymi"
  pm_tools_building_rice_farm: "Narzędzia do zbiorów"
  pm_steam_threshers_building_rice_farm: "Młockarnie parowe"
- 
+ #Ranches
  pm_simple_ranch: "Hodowla owiec"
  pm_sheep_farms: "Zwiększone pozyskiwanie wełny"
  pm_intensive_grazing_ranch: "Intensywne pozyskiwanie wełny"
@@ -268,7 +272,7 @@
  pm_electric_fencing: "Ogrodzenia pod napięciem"
  pm_orchards: "Sady"
  pm_orchards_no: "Brak sadów"
- 
+ #Mines
  pmg_mining_equipment_building_coal_mine: "Sprzęt wydobywczy"
  pmg_mining_equipment_building_iron_mine: "Sprzęt wydobywczy"
  pmg_mining_equipment_building_lead_mine: "Sprzęt wydobywczy"
@@ -317,7 +321,7 @@
  pm_diesel_pump_building_lead_mine: "Pompa zasilana silnikiem wysokoprężnym"
  pm_diesel_pump_building_sulfur_mine: "Pompa zasilana silnikiem wysokoprężnym"
  pm_diesel_pump_building_gold_mine: "Pompa zasilana silnikiem wysokoprężnym"
- 
+ #Government Administration
  pm_simple_organization: "Prosta organizacja"
  pm_horizontal_drawer_cabinets: "Szafki na akta"
  pm_vertical_filing_cabinets: "Ustandaryzowany system przechowywania akt"
@@ -331,7 +335,7 @@
  pmg_government_administration_religious_administration: "Sekularyzm"
  pm_secular_bureaucrats: "Administracja świecka"
  pm_religious_bureaucrats: "Administracja kościelna"
- 
+ #Barracks
  pmg_training: "Szkolenia"
  pm_no_organization: "Brak zorganizowanych szkoleń"
  pm_general_training: "Szkolenia generałów"
@@ -339,7 +343,7 @@
  pm_training_streamlining: "Uproszczenie metod szkoleniowych"
  pm_nco_incorporation: "Wcielenie podoficerów"
  pm_mobile_warfare_tactics: "Taktyka wojny mobilnej"
- 
+ ###
  pmg_training_conscription: "$pmg_training$"
  pm_no_organization_conscription: "$pm_no_organization$"
  pm_general_training_conscription: "$pm_general_training$"
@@ -347,14 +351,14 @@
  pm_training_streamlining_conscription: "$pm_training_streamlining$"
  pm_nco_incorporation_conscription: "$pm_nco_incorporation$"
  pm_mobile_warfare_tactics_conscription: "$pm_mobile_warfare_tactics$"
- 
+ #Electrics
  pm_no_radios: "Priorytetowa produkcja telefonów"
  pm_radios: "Produkcja odbiorników radiowych"
  pm_telephones: "Produkcja telefonów"
- 
+ #´Textile Mills
  pm_dye_workshops: "Warsztaty barwiarskie"
  pm_handsewn_clothes: "Odzież szyta ręcznie"
- 
+ #Logging
  pm_no_equipment: "Uciąg konny"
  pm_simple_forestry: "Proste leśnictwo"
  pm_saw_mills: "Tartaki"
@@ -363,7 +367,7 @@
  pmg_hardwood: "Produkcja drewna twardego"
  pm_hardwood: "Produkcja drewna twardego"
  pm_increased_hardwood: "Koncentracja na produkcji drewna twardego"
- 
+ #Shipbuilding
  pm_basic_shipbuilding: "Statki drewniane"
  pm_complex_shipbuilding: "Wzmocnione statki drewniane"
  pm_metal_shipbuilding: "Parowce"
@@ -373,7 +377,7 @@
  pm_military_shipbuilding_wooden_2: "Okręty parowe"
  pm_military_shipbuilding_steam: "Kadłuby stalowe"
  pm_military_shipbuilding_steam_2: "Okręty główne"
- 
+ #Port
  pm_anchorage: "Kotwice"
  pm_basic_port: "Port ładunkowy"
  pm_basic_port_canal: "Port ładunkowy"
@@ -381,9 +385,10 @@
  pm_industrial_port_canal: "Port przemysłowy"
  pm_modern_port: "Port nowoczesny"
  pm_modern_port_canal: "Port nowoczesny"
- 
+ #Trade Center
  pm_trade_center: "Centrum handlu"
- 
+ pm_trade_center_principle_external_trade_2: "Wpływowe centrum handlu"
+ #Naval Base
  pm_man_o_wars: "Żaglowiec wojenny"
  pm_ironclads: "Okręt pancerny"
  pm_monitors: "Monitor"
@@ -397,7 +402,7 @@
  pm_jeune_ecole: "Jeune École"
  pm_sea_lane_strategies: "Strategie dotyczące dróg morskich"
  pm_battlefleet_tactics: "Taktyka floty bojowej"
- 
+ #Unsorted
  pmg_amenities: "Udogodnienia"
  pm_publishing: "Przemysł wydawniczy"
  pm_maintenance: "Utrzymanie"
@@ -486,7 +491,21 @@
  pmg_foundries: "Odlewnie"
  pmg_automation_building_arms_industry: "Automatyzacja"
  pmg_automation_building_munition_plants: "Automatyzacja"
- 
+ #Power Bloc Principle PMs
+ pm_principle_freedom_of_movement_3: "Zwiększona wymiana"
+ pmg_principle_freedom_of_movement_3: "Swoboda przemieszczania się"
+ pm_freedom_of_movement_no_effect: "Brak efektu"
+ pm_manor_house_principle_divine_economics_2: "Zwiększony nadzór duchowieństwa"
+ pm_financial_district_principle_divine_economics_2: "Zwiększony nadzór duchowieństwa"
+ #Power Bloc Statues
+ pmg_base_building_power_bloc_statue: "Posąg bloku mocarstw"
+ pm_power_bloc_statue_sovereign_empire: "$identity_sovereign_empire$"
+ pm_power_bloc_statue_military_treaty: "$identity_military_treaty_organization$"
+ pm_power_bloc_statue_ideological_union: "$identity_ideological_union$"
+ pm_power_bloc_statue_trade_league: "$identity_trade_league$"
+ pm_power_bloc_statue_religious: "$identity_religious$"
+ pm_power_bloc_prestige_only: "Tylko prestiż"
+ #Home Workshops
  pmg_home_workshops: "Warsztaty domowe"
  pmg_home_workshops_building_subsistence_farms: "$pmg_home_workshops$"
  pmg_home_workshops_building_subsistence_orchards: "$pmg_home_workshops$"
@@ -505,7 +524,7 @@
  pm_home_workshops_no_building_subsistence_pastures: "$pm_home_workshops_no$"
  pm_home_workshops_no_building_subsistence_fishing_villages: "$pm_home_workshops_no$"
  pm_home_workshops_no_building_subsistence_rice_paddies: "$pm_home_workshops_no$"
- 
+ #Serfdom
  pm_serfdom: "Pańszczyzna"
  pmg_serfdom_building_subsistence_farms: "$pm_serfdom$"
  pmg_serfdom_building_subsistence_orchards: "$pm_serfdom$"
@@ -550,7 +569,7 @@
  automatic_irrigation_building_silk_plantation: "$automatic_irrigation$"
  automatic_irrigation_building_rubber_plantation: "$automatic_irrigation$"
  automatic_irrigation_building_vineyard_plantation: "$automatic_irrigation$"
- 
+ #Construction Camp
  pm_wooden_buildings: "Budynki drewniane"
  pm_iron_frame_buildings: "Budynki o szkielecie żelaznym"
  pm_steel_frame_buildings: "Budynki o szkielecie stalowym"
@@ -558,7 +577,7 @@
  pm_basic_canal: "Kanał podstawowy"
  pm_industrial_canal: "Kanał przemysłowy"
  pm_modern_canal: "Kanał nowoczesny"
- 
+ #Ownership
  pmg_ownership: "Własność"
  pmg_ownership_capital_building_food_industry: "$pmg_ownership$"
  pmg_ownership_capital_building_textile_mills: "$pmg_ownership$"
@@ -608,6 +627,10 @@
  pmg_ownership_building_subsistence: "$pmg_ownership$"
  pmg_ownership_capital_building_railway: "$pmg_ownership$"
  pmg_ownership_building_trade_center: "$pmg_ownership$"
+ pmg_ownership_building_manor_house: "$pmg_ownership$"
+ pmg_ownership_building_financial_district: "$pmg_ownership$"
+ pmg_additional_ownership_building_manor_house: "Dodatkowa własność"
+ pmg_additional_ownership_building_financial_district: "Dodatkowa własność"
  pm_merchant_guilds: "Gildie kupieckie"
  pm_merchant_guilds_building_food_industry: "$pm_merchant_guilds$"
  pm_merchant_guilds_building_textile_mills: "$pm_merchant_guilds$"
@@ -652,6 +675,12 @@
  pm_privately_owned_building_subsistence: "$pm_privately_owned$"
  pm_privately_owned_building_railway: "$pm_privately_owned$"
  pm_trade_center_privately_owned: "$pm_privately_owned$"
+ pm_manor_house_privately_owned: "$pm_privately_owned$"
+ pm_manor_house_bureaucrat_ownership: "Nadzór biurokratyczny"
+ pm_trade_center_bureaucrat_ownership: "$pm_manor_house_bureaucrat_ownership$"
+ pm_manor_house_clergy_ownership: "Nadzór duchowieństwa"
+ pm_financial_district_privately_owned: "$pm_privately_owned$"
+ pm_financial_district_publicly_traded: "$pm_publicly_traded$"
  pm_publicly_traded: "Podmiot notowany na giełdzie"
  pm_publicly_traded_building_food_industry: "$pm_publicly_traded$"
  pm_publicly_traded_building_textile_mills: "$pm_publicly_traded$"

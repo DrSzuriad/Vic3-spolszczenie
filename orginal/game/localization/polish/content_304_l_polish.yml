@@ -14,7 +14,7 @@
  itarad_cooldown_year_tt: "Tę decyzję będzie można podjąć ponownie za #bold trzy lata#!"
  russia_monarchy.1.t: "Początek rządów Aleksandra II"
  russia_monarchy.1.d: "Wraz z końcem panowania Mikołaja I na tron państwa o nazwie [ROOT.GetCountry.GetName] wstępuje [SCOPE.sCharacter('tsar_scope').GetFullName], znany od tej pory jako car rosyjski Aleksander II. Wielu biurokratów o poglądach liberalnych liczy na to, że [SCOPE.sCharacter('tsar_scope').GetCustom('PL_jego_jej')] rządy zapoczątkują nową epokę reform."
- russia_monarchy.1.f: "– Przed obliczem Boga, nieuchwytnego dla oczu, lecz wszechobecnego, ślubuję za jedyny cel powziąć dobro ojczyzny.\n\nOpatrzność powierzyła mi szczytne zadanie: pod jej przewodnictwem wyniosę Rosję na chwalebne wyżyny, by urosła w nieznaną dotąd siłę. Niechaj przeze mnie realizują się ponadczasowe pragnienia i idee naszych świętych przodków, którzy będą czczeni na wieki." 
+ russia_monarchy.1.f: "– Przed obliczem Boga, nieuchwytnego dla oczu, lecz wszechobecnego, ślubuję za jedyny cel powziąć dobro ojczyzny.\n\nOpatrzność powierzyła mi szczytne zadanie: pod jej przewodnictwem wyniosę Rosję na chwalebne wyżyny, by urosła w nieznaną dotąd siłę. Niechaj przeze mnie realizują się ponadczasowe pragnienia i idee naszych świętych przodków, którzy będą czczeni na wieki." #- Alexander's coronation manifesto
  russia_monarchy.1.a: "Niech żyje car!"
  russia_monarchy.2.t: "Osłabienie"
  russia_monarchy.2.d: "[SCOPE.sCharacter('nicholas_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('nicholas_scope').GetFullName] podczas pobytu na wakacjach gwałtownie podupada na zdrowiu. Lekarze twierdzą, że może stracić życie."
@@ -24,11 +24,11 @@
  nicholas_lives_tt: "[SCOPE.sCharacter('nicholas_scope').GetPrimaryRoleTitle] wróci do zdrowia"
  russia_monarchy.3.t: "Początek rządów Mikołaja II"
  russia_monarchy.3.d: "[SCOPE.sCharacter('tsar_scope').GetFullName] – dotąd carewicz – wstępuje na tron państwa o nazwie [ROOT.GetCountry.GetName] jako Mikołaj II. Nauczyciele nowego cara chwalą [SCOPE.sCharacter('tsar_scope').GetCustom('PL_go_ja')] za erudycyjne poglądy zwiastujące początek liberalnych i oświeconych rządów."
- russia_monarchy.3.f: "– O Panie moich przodków i Królu nad królami! O Ty, któryś stworzył wszystko swym słowem! Zmiłuj się nade mną i ześlij na mnie z Niebios swą królewską mądrość, ażebym wiedział, co raduje Twe serce, i mógł wypełniać Twą wolę." 
+ russia_monarchy.3.f: "– O Panie moich przodków i Królu nad królami! O Ty, któryś stworzył wszystko swym słowem! Zmiłuj się nade mną i ześlij na mnie z Niebios swą królewską mądrość, ażebym wiedział, co raduje Twe serce, i mógł wypełniać Twą wolę." #- Tsar's Prayer
  russia_monarchy.3.a: "Panie, ocal tych, którzy strzegą dla nas prawdy!"
  russia_monarchy.4.t: "Początek rządów Aleksandra III"
  russia_monarchy.4.d: "Po tragicznej śmierci swojego starszego brata carewicz [SCOPE.sCharacter('tsar_scope').GetFullName] wstępuje na tron państwa o nazwie [ROOT.GetCountry.GetName] jako Aleksander III. Oczekuje się, że [SCOPE.sCharacter('tsar_scope').GetCustom('PL_jego_jej')] panowanie zapoczątkuje triumf zaciekłego patriotyzmu i antyrewolucyjnego konserwatyzmu."
- russia_monarchy.4.f: "– Choć w sercu noszę smutek, głos Boga nakazuje mi z pogodą ducha wspomóc rząd w nadziei, iż Pan weźmie mnie w opiekę, i z wiarą w moc i słuszność władzy, którą dla dobra ludu należy umocnić i chronić przed wszelkim złem." 
+ russia_monarchy.4.f: "– Choć w sercu noszę smutek, głos Boga nakazuje mi z pogodą ducha wspomóc rząd w nadziei, iż Pan weźmie mnie w opiekę, i z wiarą w moc i słuszność władzy, którą dla dobra ludu należy umocnić i chronić przed wszelkim złem." #- Pobedonostsev Manifesto
  russia_monarchy.4.a: "Chwała poskromicielowi dumnych!"
  russia_monarchy.5.t: "Początek rządów Mikołaja II"
  russia_monarchy.5.d: "[SCOPE.sCharacter('tsar_scope').GetFullName] obejmuje tron po swoim ojcu i zostaje carem państwa o nazwie [ROOT.GetCountry.GetName]. Oczekuje się, że rządy nowego władcy – Mikołaja II – przyniosą modernizację gospodarki, centralizację polityki i umocnienie władzy monarchii."
@@ -36,7 +36,7 @@
  russia_monarchy.5.a: "Boże, chroń cara i tradycjonalistyczną Rosję!"
  russia_monarchy.6.t: "Narodziny Aleksego"
  russia_monarchy.6.d: "[SCOPE.sCharacter('nicholas_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('nicholas_scope').GetFullName] wraz z żoną doczekali się syna. Narodzony właśnie [SCOPE.sCharacter('alexei_scope').GetFullName] będzie wychowywany jako przyszły [SCOPE.sCharacter('alexei_scope').GetPrimaryRoleTitle] państwa o nazwie [ROOT.GetCountry.GetName]."
- russia_monarchy.6.f: "„Niemowlę niesiono na złotej poduszce, którą u ramion księżnej przytrzymywał szeroki złoty pas. Otulone było ciężkim, podszytym futrem gronostaja złotym okryciem następcy tronu. Płakało wniebogłosy jak każde inne dziecko, gdy stary ojciec Janiszew zanurzał je w chrzcielnicy”." 
+ russia_monarchy.6.f: "„Niemowlę niesiono na złotej poduszce, którą u ramion księżnej przytrzymywał szeroki złoty pas. Otulone było ciężkim, podszytym futrem gronostaja złotym okryciem następcy tronu. Płakało wniebogłosy jak każde inne dziecko, gdy stary ojciec Janiszew zanurzał je w chrzcielnicy”." #- Sophie Buxhoeveden
  russia_monarchy.6.a: "Narodził się car."
  alexei_becomes_heir_tt: "#variable Aleksy Romanow#! zostaje następcą tronu państwa o nazwie [SCOPE.sCountry('rus_scope').GetName]"
  russia_monarchy.7.t: "[SCOPE.sCharacter('nicholas_scope').GetFullName] choruje"
@@ -53,15 +53,15 @@
  georgy_lives_tt: "[SCOPE.sCharacter('nicholas_scope').GetPrimaryRoleTitle] wróci do zdrowia"
  russia_monarchy.9.t: "Początek rządów Aleksego II"
  russia_monarchy.9.d: "Wraz z końcem panowania Mikołaja II jego pierworodny i jedyny syn – [SCOPE.sCharacter('tsar_scope').GetFullName] – wstępuje na tron państwa o nazwie [ROOT.GetCountry.GetName] jako Aleksy II. Młody i bojowo nastawiony car chce, aby armia [ROOT.GetCountry.GetAdjectiveNoFormatting|l] jeszcze bardziej urosła w siłę."
- russia_monarchy.9.f: "– O Panie mych przodków, otul me serce. Pozwól mi działać na rzecz powierzonego mej opiece ludu i ku Twej chwale. Niechaj w dniu sądu bez winy stanę przed Tobą, aby opowiedzieć o swych czynach." 
+ russia_monarchy.9.f: "– O Panie mych przodków, otul me serce. Pozwól mi działać na rzecz powierzonego mej opiece ludu i ku Twej chwale. Niechaj w dniu sądu bez winy stanę przed Tobą, aby opowiedzieć o swych czynach." #- The Tsar's Prayer
  russia_monarchy.9.a: "Pan odpędzi niegodnych i da nam siłę!"
  russia_monarchy.10.t: "Początek rządów Michała II"
  russia_monarchy.10.d: "Po zakończeniu rządów Mikołaja II jego następcą i nowym carem państwa o nazwie [ROOT.GetCountry.GetName] zostaje jego młodszy brat, [SCOPE.sCharacter('tsar_scope').GetFullName]. Wstrzemięźliwe rządy Michała II mogą oznaczać ostrożne reformy konstytucyjne i odpowiedzialne sprawowanie władzy."
- russia_monarchy.10.f: "– Wierząc, podobnie jak naród, że dobro naszego kraju to wartość nadrzędna, proszę o błogosławieństwo dla Rosjan i przysięgam przed obliczem Boga chronić naszą ojczyznę poprzez powierzoną mi władzę." 
+ russia_monarchy.10.f: "– Wierząc, podobnie jak naród, że dobro naszego kraju to wartość nadrzędna, proszę o błogosławieństwo dla Rosjan i przysięgam przed obliczem Boga chronić naszą ojczyznę poprzez powierzoną mi władzę." #- Edit of Michael II's abdication
  russia_monarchy.10.a: "Chwała obrońcy słabych!"
  russia_monarchy.11.t: "Początek rządów Jerzego I"
  russia_monarchy.11.d: "Wraz z końcem panowania Mikołaja II tron państwa o nazwie [ROOT.GetCountry.GetName] obejmuje [SCOPE.sCharacter('tsar_scope').GetFullName]. Pomimo wiecznie złego stanu zdrowia nowy władca Jerzy I jest zdecydowanym orędownikiem postępu naukowego i reform modernistycznych."
- russia_monarchy.11.f: "– Panie Boże, Ty, któryś stworzył wszystko swym słowem, i któryś w swej mądrości powołał do życia człowieka, aby godnie kroczył po Ziemi i sprawiedliwie rządził światem Twego dzieła, wyznaczyłeś mnie na cara i sędziego Twego ludu. Pokładam więc wiarę w Twym niezbadanym planie i kłaniam się z wdzięcznością przed Twym majestatem." 
+ russia_monarchy.11.f: "– Panie Boże, Ty, któryś stworzył wszystko swym słowem, i któryś w swej mądrości powołał do życia człowieka, aby godnie kroczył po Ziemi i sprawiedliwie rządził światem Twego dzieła, wyznaczyłeś mnie na cara i sędziego Twego ludu. Pokładam więc wiarę w Twym niezbadanym planie i kłaniam się z wdzięcznością przed Twym majestatem." #- The Tsar's Prayer
  russia_monarchy.11.a: "Niech nam żyje jak najdłużej!"
  modifier_alexander_ii: "Wielki reformator"
  modifier_nicholas_tsesarevich: "Rządy perfekcji"
@@ -130,6 +130,7 @@
  modifier_risorgimento_support: "Poparcie dla zjednoczenia Włoch"
  modifier_risorgimento_opponents: "Sprzeciw wobec zjednoczenia Włoch"
  modifier_risorgimento_opposition: "Sprzeciw wobec zjednoczenia Włoch"
+ risorgimento_support: "poparcie dla zjednoczenia Włoch"
  unlock_national_agitation_tt: "[Concept('concept_agitator', '$concept_agitators$')] mogą korzystać z interakcji z postacią Wzbudź agitację narodową"
  risorgimento_unifying_stance_tt: "Zdecydowano się #bold poprzeć#! zjednoczenie Włoch"
  risorgimento_unifying_stance_set_tt: "Będziemy w stanie podjąć dodatkowe działania, aby #bold poprzeć#! zjednoczenie Włoch"
@@ -294,3 +295,5 @@
  government_collapse.1.f: "– Doprowadziliśmy do sytuacji, w której staliśmy się tak bardzo od nich zależni, że ich odejście zaburzyło naszą równowagę. Musimy działać! Jeśli nie ocalimy choć tych skąpych resztek, nie ocalimy niczego.\n\n[ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] przegląda zalegające na [ROOT.GetCountry.GetRuler.GetCustom('PL_jego_jej')] biurku doniesienia o rozpaczliwych działaniach oraz dezercjach i podejmuje decyzję."
  government_collapse.1.a: "Musimy ustanowić rząd ratunkowy."
  government_collapse.1.b: "Zaproponujmy gałązkę oliwną, zanim będzie za późno."
+ is_in_other_market_tt: "Jest [Concept('concept_junior_partner', 'młodszym wspólnikiem')] w [Concept('concept_customs_union', 'unii celnej')] innego państwa"
+ is_not_in_other_market_tt: "Nie jest [Concept('concept_junior_partner', 'młodszym wspólnikiem')] w [Concept('concept_customs_union', 'unii celnej')] innego państwa"

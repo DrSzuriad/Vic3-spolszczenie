@@ -1,5 +1,5 @@
 ﻿l_polish:
- 
+ #Natural Borders of France
  je_french_natural_borders: "Naturalne granice Francji"
  je_french_natural_borders_reason: "We Francji po raz kolejny zaczęły się szerzyć tendencje ekspansjonistyczne. Obywatele (a przynajmniej część z tych najgłośniejszych) domagają się poszerzenia naszych granic aż po brzegi Renu i stoki Alp."
  own_all_french_homelands: "Kontroluj wszystkie ojczyste obszary administracyjne Francji"
@@ -18,7 +18,7 @@
  natural_borders.3.t: "Traktat turyński"
  natural_borders.3.d: "[SCOPE.sCountry('savoy_country').GetName] to państwo, które zgodziło się oddać obszary administracyjne [SCOPE.sState('savoy_state').GetName] i [SCOPE.sState('nice_state').GetName] następującemu państwu: [ROOT.GetCountry.GetName]."
  natural_borders.3.d2: "[SCOPE.sCountry('savoy_country').GetName] to państwo, które zgodziło się oddać obszar administracyjny [SCOPE.sState('savoy_state').GetName] następującemu państwu: [ROOT.GetCountry.GetName]."
- natural_borders.3.f: "– Najsilniejsze motywy wynikające z politycznej konieczności, potrzeby związane z przyszłością Włoch, wdzięczność wobec naszego potężnego sojusznika i wreszcie wyjątkowe okoliczności panujące w naszym państwie przyczyniły się do tego, że [SCOPE.sCharacter('savoy_ruler').GetPrimaryRoleTitle], choć z żalem, odłączy od naszego państwa prowincje, które przez wiele wieków były z nim ściśle związane. Żaden sprzeciw nie powinien mieć w tej sytuacji znaczenia wobec interesów państwa i poczucia obowiązku." 
+ natural_borders.3.f: "– Najsilniejsze motywy wynikające z politycznej konieczności, potrzeby związane z przyszłością Włoch, wdzięczność wobec naszego potężnego sojusznika i wreszcie wyjątkowe okoliczności panujące w naszym państwie przyczyniły się do tego, że [SCOPE.sCharacter('savoy_ruler').GetPrimaryRoleTitle], choć z żalem, odłączy od naszego państwa prowincje, które przez wiele wieków były z nim ściśle związane. Żaden sprzeciw nie powinien mieć w tej sytuacji znaczenia wobec interesów państwa i poczucia obowiązku." #Treaty of Turin
  natural_borders.3.a: "Musimy jak najszybciej wcielić Sabaudię."
  natural_borders.3.b: "Przeprowadźmy referendum, aby ulżyć ludowi."
  france_natural_borders_pursuit: "Dążenie do ustanowienia naturalnych granic"
@@ -32,7 +32,7 @@
  sell_savoy_desc: "Prowincja o nazwie Sabaudia stała się przedmiotem sporu między naszym państwem a Francją. Jeżeli zrzekniemy się Sabaudii, Francja na pewno stwierdzi, że jest naszym dłużnikiem."
  at_peace_nocontext_tt: "Panuje pokój"
  relations_amicable_nocontext_tt: "Stosunki są co najmniej pokojowe"
- 
+ #Coup!
  je_coup: "Zamach stanu!"
  je_coup_reason: "[SCOPE.gsInterestGroup('coup_ig').GetName] – ta grupa interesu planuje przeprowadzić zamach stanu na nasze instytucje demokratyczne, aby podporządkować sobie rząd i wprowadzić ustrój bardziej sprzyjający ich interesom."
  je_coup_goal: "Grupa interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l] jest gotowa do przeprowadzenia zamachu stanu"
@@ -66,12 +66,12 @@
  coup.3.c: "Nie antagonizujmy grupy interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l] jeszcze bardziej."
  coup.4.t: "Próba przeprowadzenia zamachu stanu zakończona fiaskiem"
  coup.4.d: "Spisek, którego celem była [ROOT.GetCountry.GetAdjective|l] demokracja, stracił cały pęd wśród przedstawicieli grupy interesu o nazwie [SCOPE.gsInterestGroup('coup_ig').GetName|l]. Plan ustanowienia nowego systemu rządów ([SCOPE.sLaw('coup_desired_law').GetName|l]) został zatem porzucony."
- coup.4.f: "– [SCOPE.sCharacter('coup_leader').GetLastNameNoFormatting], wiesz, jaki jest z tobą problem? Myślisz, że skoro paradując w czarnych szortach, udało ci się nakłonić kilku półgłówków do siania zamętu, to jesteś kimś. Owszem, nasza stolica, [SCOPE.sState('capital_scope').GetCityHubName], odczuła boleśnie twoje działania, ale to nic nie znaczy. Słyszysz, jak tłumy skandują „Wiwat [SCOPE.sCharacter('coup_leader').GetLastNameNoFormatting]!” i myślisz, że to głos ludu. I właśnie tu popełniasz błąd. Głos ludu mówi: „Patrzcie, jakie ta łajza [SCOPE.sCharacter('coup_leader').GetLastNameNoFormatting] ma fikuśne spodenki! Widział ktoś kiedyś tak ubranego zbója?”." 
+ coup.4.f: "– [SCOPE.sCharacter('coup_leader').GetLastNameNoFormatting], wiesz, jaki jest z tobą problem? Myślisz, że skoro paradując w czarnych szortach, udało ci się nakłonić kilku półgłówków do siania zamętu, to jesteś kimś. Owszem, nasza stolica, [SCOPE.sState('capital_scope').GetCityHubName], odczuła boleśnie twoje działania, ale to nic nie znaczy. Słyszysz, jak tłumy skandują „Wiwat [SCOPE.sCharacter('coup_leader').GetLastNameNoFormatting]!” i myślisz, że to głos ludu. I właśnie tu popełniasz błąd. Głos ludu mówi: „Patrzcie, jakie ta łajza [SCOPE.sCharacter('coup_leader').GetLastNameNoFormatting] ma fikuśne spodenki! Widział ktoś kiedyś tak ubranego zbója?”." #P.G. Wodehouse
  coup.4.a: "[SCOPE.sCharacter('coup_leader').GetFullName] popełnia upokarzającą gafę."
  coup.4.b: "Demokracja ocalona!"
  coup.5.t: "[SCOPE.gsInterestGroup('coup_ig').GetName] i pożegnanie z rządem"
  coup.5.d: "[SCOPE.gsInterestGroup('coup_ig').GetName] – ta grupa interesu całkowicie opuściła rząd. [SCOPE.sLaw('coup_desired_law').GetName] to ustrój, który prędzej zostanie wprowadzony na polu bitwy niż na rządowych salach."
- coup.5.f: "– Widzimy zatem, iż wojna nie jest jedynie aktem politycznym, ale też, w istocie, politycznym instrumentem – kontynuacją transakcji politycznej, realizacją tego samego celu przy użyciu innych środków. Wszystko poza tym, co odnosi się stricte do wojny, jest związane z osobliwą naturą środków podczas niej wykorzystywanych." 
+ coup.5.f: "– Widzimy zatem, iż wojna nie jest jedynie aktem politycznym, ale też, w istocie, politycznym instrumentem – kontynuacją transakcji politycznej, realizacją tego samego celu przy użyciu innych środków. Wszystko poza tym, co odnosi się stricte do wojny, jest związane z osobliwą naturą środków podczas niej wykorzystywanych." #- Carl von Clausewitz
  coup.5.a: "Gdy światło pada na szczury, te się rozbiegają."
  coup.5.b: "Czy wygra, czy przegra, [SCOPE.sCharacter('coup_leader').GetFullName] to zdrajca."
  coup_supported: "Próba przeprowadzenia zamachu stanu poparta"
@@ -83,7 +83,7 @@
  modifier_insurrectionary_politician: "Powstańczy przywódca"
  modifier_threatened_insurrection: "Zjednoczenie przeciwko powstaniu"
  modifier_brewing_insurrection: "Plany powstania"
- 
+ #New Ideologies
  ideology_authoritarian: "Autokrata"
  ideology_authoritarian_desc: "#lore Ta postać uważa, że wielkie państwa potrzebują silnych przywódców. Jednocześnie twierdzi, że nadaje się do tej roli jak nikt inny."
  ideology_socialist: "Socjalista"
@@ -94,14 +94,14 @@
  ideology_protectionist_desc: "#lore Ta postać uważa, że przemysł krajowy i handel międzynarodowy powinny być ściśle monitorowane i kontrolowane przez państwo."
  ideology_humanitarian_royalist: "Oświecony rojalista"
  ideology_humanitarian_royalist_desc: "#lore Ta postać wierzy, że idealnym społeczeństwem jest radykalnie egalitarny naród rządzony przez oświeconego monarchę humanistę.#!"
- 
+ #Royal Marriage
  wedding.2.t: "Z kim by tu wziąć ślub?"
  wedding.2.d: "[SCOPE.sCharacter('royal_marriage_character').GetPrimaryRoleTitle] [SCOPE.sCharacter('royal_marriage_character').GetFullName] szuka dla siebie drugiej połówki o odpowiednio dystyngowanym rodowodzie."
  wedding.2.f: "– Matko, dlaczego ja i [SCOPE.sCharacter('royal_marriage_character').GetPrimaryRoleTitle] nie możemy się pobrać? Dlaczego [SCOPE.sCharacter('royal_marriage_character').GetSheHe] musi poślubić kogoś z wyższych sfer z zagranicy?\n\n– Jesteśmy prostymi ludźmi, skarbie. Tym wysoko urodzonym nie wypada zniżać się do naszego poziomu."
  wedding.2.a: "[SCOPE.sCharacter('foreign_ruler_1').GetLastName] z państwa o nazwie [SCOPE.sCountry('marriage_country_1').GetName] ma dużą rodzinę, w której na pewno znajdziemy kogoś odpowiedniego."
  wedding.2.b: "[SCOPE.sCharacter('foreign_ruler_2').GetPrimaryRoleTitle] z państwa o nazwie [SCOPE.sCountry('marriage_country_2').GetName] ma wśród swoich krewnych kogoś w sam raz."
  wedding.2.c: "[SCOPE.sCountry('marriage_country_3').GetAdjective] rodzina królewska – to wśród niej powinniśmy kogoś poszukać."
- 
+ #Abdication event
  wedding.3.t: "Abdykacja"
  wedding.3.d1: "[ROOT.GetCountry.GetName] – [SCOPE.sCharacter('abdicating_monarch').GetPrimaryRoleTitle] [SCOPE.sCharacter('abdicating_monarch').GetFirstName] postanawia abdykować i oddać tron swojemu następcy, którym jest [SCOPE.sCharacter('heir_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('heir_scope').GetFullName]. Powodem tej decyzji jest wściekłość spowodowana wydarzeniami politycznymi, które okazały się niekorzystne dla grupy interesu o nazwie [SCOPE.gsInterestGroup('monarch_ig').GetName|l]."
  wedding.3.d2: "Zdawszy sobie sprawę z tego, że [SCOPE.sCharacter('abdicating_monarch').GetCustom('PL_jego_jej')] brak [Concept('concept_popularity', 'popularności')] może przynosić więcej szkód niż pożytku ustrojowi, którym jest [SCOPE.sLawType('monarchy_law').GetName|l], [SCOPE.sCharacter('abdicating_monarch').GetPrimaryRoleTitle] [SCOPE.sCharacter('abdicating_monarch').GetFirstName] postanawia abdykować i oddać tron komuś innemu. Tym kimś jest [SCOPE.sCharacter('heir_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('heir_scope').GetFullName]."
@@ -109,13 +109,13 @@
  wedding.3.f: "– Mówią, że [SCOPE.sCharacter('abdicating_monarch').GetPrimaryRoleTitle] odchodzi od zmysłów. Podobno nawet przyszło [SCOPE.sCharacter('abdicating_monarch').GetCustom('PL_mu_jej')] do głowy poślubić swojego konia.\n\n– Kto napisał takie brednie? „[SCOPE.GetRootScope.GetCountry.GetCustom('generic_newspaper_type')]”? To poważna sprawa, która ma oczywiście związek z sytuacją, w jakiej znajduje się jedna z grup interesu: [SCOPE.gsInterestGroup('monarch_ig').GetNameNoFormatting|l].\n\n– To nic skomplikowanego. [SCOPE.sCharacter('abdicating_monarch').GetPrimaryRoleTitle] jest personą znienawidzoną przez wszystkich, musi więc odejść. Tak działa demokracja."
  wedding.3.a: "Zorganizuj prywatną koronację dla elit."
  wedding.3.b: "Zorganizuj wielką publiczną koronację."
- 
+ #New Pop Support Weights
  ALL_POPS: "[Concept('concept_pop', '$concept_pops$')]"
  POP_ATHEISTS: "Ateiści"
  POP_MIDDLE_STRATA: "[concept_middle_strata]"
  POP_LOWER_STRATA: "[concept_lower_strata]"
  POP_UNEMPLOYED_STATE: "[Concept('concept_pop', '$concept_pops$')] mieszkające w [Concept('concept_state', 'obszarach administracyjnych')] o wysokim wskaźniku [Concept('concept_unemployed', 'bezrobocia')]"
- 
+ #French Foreign Legion
  je_french_foreign_legion: "Francuska Legia Cudzoziemska"
  je_french_foreign_legion_reason: "Jeżeli chcemy rządzić w Afryce, musimy utrzymać na tym kontynencie stałą obecność wojskową. Musimy również jednak pogodzić się z faktem, iż aby utworzyć tam nasze oddziały, trzeba będzie do nich wcielić członków lokalnych populacji lub odważnych czy też zdesperowanych żołnierzy z innych państw."
  algeria_events.9.t: "Francuska Legia Cudzoziemska"
@@ -126,9 +126,9 @@
  french_foreign_legion_ig: "Honor i wierność"
  french_foreign_legion_recruitment: "Legia jest naszym krajem"
  legion_headquarters: "Kwatera główna Legii"
- 
+ #Exile health modifier
  in_exile_modifier: "Na wygnaniu"
- 
+ #French monarchy interactions, buttons, etc
  sway_to_bonapartism: "Przekonanie do poparcia bonapartystów"
  sway_to_bonapartism_desc: "Polityka można przekonać do poparcia prawowitego kandydata do tronu przy pomocy odpowiedniej mieszanki łapówek i argumentów."
  supporting_bonapartist_tt: "Interakcja „przekonanie do poparcia bonapartystów” staje się dostępna"
@@ -144,12 +144,12 @@
  sway_to_legitimism_desc: "Polityka można przekonać do poparcia prawowitego kandydata do tronu przy pomocy odpowiedniej mieszanki łapówek i argumentów."
  sway_to_orleanism: "Przekonanie do poparcia orleanistów"
  sway_to_orleanism_desc: "Polityka można przekonać do poparcia prawowitego kandydata do tronu przy pomocy odpowiedniej mieszanki łapówek i argumentów."
- bonapartist_button: "Promuj bonapartystów: #variable [ROOT.GetCountry.MakeScope.Var('bonapartist_progress').GetValue|0]#! (#tooltippable;tooltip:[ROOT.GetCountry.GetTooltipTag],je_divided_monarchists_bonapartist_var_tooltip [ROOT.GetCountry.MakeScope.Var('bonapartist_progress_next').GetValue|1+=]#!)"
+ bonapartist_button: "Promuj bonapartystów"
  bonapartist_button_desc: "Pod rządami cesarza Napoleona Francja osiągnęła szczyt świetności. Przywrócenie na tron rodu Bonapartów z pewnością jest tym, czego nasze państwo potrzebuje."
  swayed_to_french_monarchist: "Jawny wpływ monarchistów"
- orleanist_button: "Promuj orleanistów: #variable [ROOT.GetCountry.MakeScope.Var('orleanist_progress').GetValue|0]#! (#tooltippable;tooltip:[ROOT.GetCountry.GetTooltipTag],je_divided_monarchists_orleanist_var_tooltip [ROOT.GetCountry.MakeScope.Var('orleanist_progress_next').GetValue|1+=]#!)"
+ orleanist_button: "Promuj orleanistów"
  orleanist_button_desc: "Kupcy i handel sfinansują przyszłość Francji. Potrzebujemy monarchy, który wysłucha obaw naszych najbogatszych obywateli."
- legitimist_button: "Promuj legitymistów: #variable [ROOT.GetCountry.MakeScope.Var('legitimist_progress').GetValue|0]#! (#tooltippable;tooltip:[ROOT.GetCountry.GetTooltipTag],je_divided_monarchists_legitimist_var_tooltip [ROOT.GetCountry.MakeScope.Var('legitimist_progress_next').GetValue|1+=]#!)"
+ legitimist_button: "Promuj legitymistów"
  legitimist_button_desc: "Francja została zbrukana dekadentyzmem rewolucji. Musimy przywrócić dawny system sprawowania rządów, w którym wszyscy obywatele znają swoje miejsce."
  french_pretenders.5.t: "Pretendenci do tronu"
  french_pretenders.5.d: "Przedstawiciele trzech ugrupowań walczą o uznanie praw do tronu francuskiego członków reprezentowanych przez siebie dynastii. Ugrupowania te to: [SCOPE.sCharacter('orleanist_character').GetIdeology.GetName|l], którzy popierają konstytucyjną monarchię lipcową, [SCOPE.sCharacter('legitimist_character').GetIdeology.GetName|l], którzy popierają potomków Karola X, oraz [SCOPE.sCharacter('bonapartist_character').GetIdeology.GetName|l], którzy pragną powrotu Cesarstwa Francuskiego z czasów Napoleona."
@@ -165,7 +165,7 @@
  status_throne_challenged_fra: "Ród znany jako [ROOT.GetCountry.GetRuler.GetCustom('french_dynasty_name')] ma rywala – jest nim ród znany jako [ROOT.GetCountry.GetCustom('french_leading_dynasty_name')]"
  status_no_dynasty_fra: "Żaden królewski pretendent nie ma przewagi nad nikim innym"
  status_dynasty_cementing_fra: "Dynastia u władzy – [ROOT.GetCountry.GetRuler.GetCustom('french_dynasty_name')] – umacnia swoją kontrolę"
- 
+ #Repatriate Agitator interaction
  return_to_home_country: "Repatriacja agitatora"
  return_to_home_country_desc: "#lore [Character.GetFullName] – odeślijmy tę osobę naszemu [Concept('concept_rivalry', 'rywalowi')]"
  exiles_events.100.t: "Repatriacja"
@@ -175,13 +175,13 @@
  exiles_events.100.b: "Witamy w domu!"
  repatriated_agitator: "Powrót agitatora"
  exiling_dissident_radicals_factors: "Liczba [Concept('concept_radical', 'radykałów')], którzy się pojawią, zależy od [Concept('concept_law', 'praw')] dotyczących wolności słowa, a także od [Concept('concept_popularity', 'popularności')] [Concept('concept_character', 'postaci')]"
- 
+ #Positivist Ideology
  ideology_positivist: "Pozytywista"
  ideology_positivist_desc: "Ta postać jest zagorzałym technokratą i antyklerykałem. Gardzi zarówno arbitralną władzą monarchów, jak i zmiennymi zachciankami ludu."
- 
+ #Technocracy Law
  law_technocracy: "Technokracja"
  law_technocracy_desc: "Narodem rządzi niewybieralna rada zdolnych i rozumnych osób."
- 
+ #Technocracy law events
  technocracy.1.t: "Publiczne załamanie"
  technocracy.1.d: "Po serii nietrafionych decyzji biznesowych [SCOPE.sCharacter('technocrat_leader').GetFullName] postanawia zaatakować swoich przeciwników na łamach gazet. Działanie to zaszkodziło [SCOPE.sCharacter('technocrat_leader').GetCustom('PL_jego_jej')] reputacji w oczach opinii publicznej i miało negatywny wpływ na poparcie udzielane ustrojowi o nazwie [GetLawType('law_technocracy').GetName|l]."
  technocracy.1.f: "– Niskie pobudki chwalone są w teatrze potępionych! Mamy do czynienia z erą nieoświeconego barbarzyństwa i purytańskiego populizmu. Tylko szaleńcy mogą odrzucać rządy czcigodnej garstki ludzi oświeconych. Wszyscy jesteście przeklętą, zagubioną trzódką! Być może lepiej będzie, jeśli pozostaniecie w tym ciemnogrodzie, gdy ja i moi towarzysze będziemy czerpać korzyści z utopijnego ustroju, którego wspaniałość przyćmi wszelkie inne twory. Wtedy wy będziecie #bold błagać#!, by móc stać się jego częścią. Zapamiętajcie me słowa!"
@@ -201,13 +201,13 @@
  new_machine_building_mod: "Ukierunkowany przemysł naukowy"
  technocracy.3.t: "Elityści!"
  technocracy.3.d: "[SCOPE.sBuilding('university_building').GetName] w obszarze administracyjnym o nazwie [SCOPE.sState('university_state').GetName] to budynek, który został areną, na której tamtejsi pracownicy akademiccy wiodą spór, w ramach którego zestawiają ze sobą ustrój cechujący się powszechnością z takim, w którym rządy sprawuje oświecona elita. Dyskusja przykuła uwagę opinii publicznej w związku z trwającym dążeniem do ustanowienia ustroju, jakim jest [GetLawType('law_technocracy').GetName|l]."
- technocracy.3.f: "– Powiadam: póki filozofowie nie zostaną obwołani królami w naszych państwach lub ci, których teraz nazywamy królami bądź władcami, nie zaczną podążać drogą filozofii z należytą uwagą i starannością, tak, by władza polityczna i inteligencja filozoficzna zaczęły iść ramię w ramię, a pstrokaty natłok dążeń, który obecnie je od siebie oddala, nie zostanie jednoznacznie zdławiony, nie może być mowy, drogi Glaukonie, o końcu trosk naszych państw, ani, jak mniemam, o końcu trosk ludzkości." 
+ technocracy.3.f: "– Powiadam: póki filozofowie nie zostaną obwołani królami w naszych państwach lub ci, których teraz nazywamy królami bądź władcami, nie zaczną podążać drogą filozofii z należytą uwagą i starannością, tak, by władza polityczna i inteligencja filozoficzna zaczęły iść ramię w ramię, a pstrokaty natłok dążeń, który obecnie je od siebie oddala, nie zostanie jednoznacznie zdławiony, nie może być mowy, drogi Glaukonie, o końcu trosk naszych państw, ani, jak mniemam, o końcu trosk ludzkości." #Plato
  technocracy.3.a: "Ludziom potrzebni są ludzie światli, którzy mogliby wskazać im, co jest dla nich najlepsze."
  technocracy.3.b: "Możemy się przynajmniej zgodzić co do tego, że wszyscy nie cierpimy arystokratów."
  technocracy_debate_enactment: "Debata na temat technokracji"
  anti_aristocratic_sentiment: "Nastroje antyarystokratyczne"
  ATHEIST_CLERGYMEN: "Za sprawą [Concept('concept_religion', 'religii')] ateistycznej"
- 
+ #1.3.3
  rally_against_france: "Mobilizacja przeciw Francji"
  natural_borders.4.t: "Straż na Renie"
  natural_borders.4.d: "[SCOPE.sCountry('france_scope').GetName] to państwo, które ogłosiło chęć rozszerzenia swoich granic od Sabaudii aż po Ren. Obszar administracyjny [SCOPE.sState('french_claim_state').GetName] staje w związku z tym w obliczu inwazji."
