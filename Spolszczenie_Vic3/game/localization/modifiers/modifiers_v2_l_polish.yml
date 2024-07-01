@@ -1,0 +1,12 @@
+﻿l_polish:
+ MODIFIER_TRUE_GOOD:0 "@green_checkmark!"
+ MODIFIER_TRUE_NEUTRAL:0 "@checkmark!"
+ MODIFIER_TRUE_BAD:0 "@red_cross!"
+ MODIFIER_FALSE_GOOD:0 "@red_cross!"
+ MODIFIER_FALSE_NEUTRAL:0 "@simple_box!"
+ MODIFIER_FALSE_BAD:0 "@green_checkmark!"
+ MODIFIER_NAME_VALUE_SEPARATOR:0 ": "
+ MODIFIER_VALUE_NAME_SEPARATOR:0 " "
+ MODIFIER_UNKNOWN_SOURCE:0 "Nieznane źródło"
+ MODIFIER_COLLECTION_INSTANCES_HEADER:0 "Źródła bezpośrednie"
+ MODIFIER_COLLECTION_COLLECTIONS_HEADER:0 "Wartości odziedziczone"

@@ -1,6 +1,38 @@
 [main]
 host = https://www.transifex.com
 
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:languages_mod]
+file_filter = pliki/<lang>/game/localization/languages.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/languages.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = languages_mod
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:trigger_system_l_polish_mod]
+file_filter = pliki/<lang>/game/localization/jomini/script_system/trigger_system_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/jomini/script_system/trigger_system_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = trigger_system_l_polish_mod
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_l_polish_mod]
+file_filter = pliki/<lang>/game/localization/modifiers/modifiers_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/modifiers/modifiers_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = modifiers_l_polish_mod
+
+[o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:modifiers_v2_l_polish_mod]
+file_filter = pliki/<lang>/game/localization/modifiers/modifiers_v2_l_polish.yml
+minimum_perc = 0
+source_file = pliki/en/game/localization/modifiers/modifiers_v2_l_polish.yml
+source_lang = en
+type = YAML_GENERIC
+resource_name = modifiers_v2_l_polish_mod
+
 [o:Spolszczenia-gier:p:victoria-iii-spolszczenie:r:achievements_l_polish]
 file_filter = pliki/<lang>/game/localization/polish/achievements_l_polish.yml
 minimum_perc = 0

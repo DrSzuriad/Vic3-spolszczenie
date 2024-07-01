@@ -11,6 +11,8 @@ echo "Removing temp directory - might say does not exist. That is normal, just a
 rd /s /q temp
 echo "Starting compiling latest source strings directory for CK3 format into the temp supply directory"
 ::game
+java -jar "%parser%" "%sup%" "pliki\\pl\\game\\localization" "pliki\\en\\game\\localization\\modifiers" "temp\\supply\\game\\localization" yaml
+java -jar "%parser%" "%sup%" "pliki\\pl\\game\\localization\\jomini\\script_system" "pliki\\en\\game\\localization\\modifiers" "temp\\supply\\game\\localization\\jomini\\script_system" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\game\\localization\\modifiers" "pliki\\en\\game\\localization\\modifiers" "temp\\supply\\game\\localization\\modifiers" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\game\\localization\\polish" "pliki\\en\\game\\localization\\polish" "temp\\supply\\game\\localization\\polish" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\game\\localization\\polish\\character" "pliki\\en\\game\\localization\\polish\\character" "temp\\supply\\game\\localization\\polish\\character" yaml
@@ -39,6 +41,8 @@ java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\social" "pliki\\e
 
 echo "Starting compiling latest translations to desired language - in this case - polish."
 ::game
+java -jar "%parser%" "%fte%" "temp\\supply\\game\\localization" "temp\\vic3\\game\\localization" "%charset%"
+java -jar "%parser%" "%fte%" "temp\\supply\\game\\localization\\jomini\\script_system" "temp\\vic3\\game\\localization\\jomini\\script_system" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\game\\localization\\modifiers" "temp\\vic3\\game\\localization\\modifiers" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\game\\localization\\polish" "temp\\vic3\\game\\localization\\polish" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\game\\localization\\polish\\character" "temp\\vic3\\game\\localization\\polish\\character" "%charset%"

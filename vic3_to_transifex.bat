@@ -42,6 +42,8 @@ set fty=folder_to_yaml
 
 echo "Przekonwertowanie plików z ck3 na standardowe pliki yml."
 ::game
+java -jar "%parser%" "%fty%" "translations_temp\\game\\localization" "pliki\\en\\game\\localization" "%charset%"
+java -jar "%parser%" "%fty%" "translations_temp\\game\\localization\\jomini\\script_system" "pliki\\en\\game\\localization\\jomini\\script_system" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\game\\localization\\modifiers" "pliki\\en\\game\\localization\\modifiers" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\game\\localization\\polish" "pliki\\en\\game\\localization\\polish" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\game\\localization\\polish\\character" "pliki\\en\\game\\localization\\polish\\character" "%charset%"
