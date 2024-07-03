@@ -74,7 +74,7 @@
  poorly_formulated_law_minor: ""
  tainted_by_incompetence: ""
  generic_laws.9.t: ""
- generic_laws.9.d: ""
+ generic_laws.9.d: "Agitatorzy, których kulturą macierzystą jest kultura [SCOPE.sCulture('non_accepted_culture_scope').GetName], podżegają swoje społeczności, twierdząc, że proponowane aktualnie prawo ([SCOPE.sLaw('current_law_scope').GetName|l]) w nieproporcjonalnie negatywny sposób wpłynie na przedstawicieli ich kultury w naszym państwie."
  generic_laws.9.f: ""
  generic_laws.9.a: ""
  generic_laws.9.b: ""

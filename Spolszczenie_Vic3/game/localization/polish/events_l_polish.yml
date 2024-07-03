@@ -704,7 +704,7 @@
  ig_revolutions.7.c:0 "Mają wiele argumentów przemawiających za uwięzieniem ich."
  ig_revolutions.8.t:0 "[SCOPE.gsInterestGroup('ig_pb_on_the_edge').GetName] – ta grupa domaga się natychmiastowych działań!"
  ig_revolutions.8.d:0 "[SCOPE.gsInterestGroup('ig_pb_on_the_edge').GetName] – wygląda na to, że ta grupa postanowiła wykorzystać moment kryzysu do wymuszenia ze strony rządu pewnych ustępstw. Jej przedstawiciele grożą, że w razie odmowy dołączą do rewolucji."
- ig_revolutions.8.f:0 "– Sprawa jest prosta: potrzebujemy teraz silnej władzy. Jeśli [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName] nie jest w stanie nam jej zapewnić, to znajdziemy kogoś lepszego."
+ ig_revolutions.8.f:0 "– Sprawa jest prosta: potrzebujemy teraz silnej władzy. Jeśli [ROOT.GetCountry.GetRuler.GetFullNameWithTitle] nie jest w stanie nam jej zapewnić, to znajdziemy kogoś lepszego."
  ig_revolutions.8.a:0 "Możemy spełnić te żądania."
  ig_revolutions.8.b:0 "To niedorzeczne! Niech tylko spróbują!"
  ig_revolutions.8.c:0 "Jeśli chcą siły, pokażmy im ją."
