@@ -81,6 +81,8 @@
  catalyst_unification_support_removed_desc: ""
  catalyst_autonomy_increase_requested: ""
  catalyst_autonomy_increase_requested_desc: ""
+ catalyst_autonomy_decrease_requested: ""
+ catalyst_autonomy_decrease_requested_desc: ""
  catalyst_autonomy_change_imposed: ""
  catalyst_autonomy_change_imposed_desc: ""
  catalyst_autonomy_increase_denied: ""

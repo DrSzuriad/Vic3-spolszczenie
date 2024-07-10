@@ -296,6 +296,7 @@
  strike.2.d:0 "Obiecaj wprowadzenie prawa dotyczącego ochrony robotników."
  strike.2.e:0 "Obiecaj zwiększenie bezpieczeństwa w miejscach pracy."
  strike.2.f:0 "Obiecaj rozbudowę Urzędu Ubezpieczeń Społecznych."
+ strike.2.g:0 "Ich żądania są nie do zaakceptowania."
  strike.3.t:0 "Strajk generalny!"
  strike.3.d1:0 "Ponieważ nie spełniliśmy żądań strajkujących, ich bunt przerodził się w strajk generalny, który objął cały naród. Nasze państwo, [SCOPE.sCountry('strike_country').GetName], ma poważny problem – prawie wszystkie prace górnicze zostały przerwane."
  strike.3.d2:0 "Ponieważ nie spełniliśmy żądań strajkujących, ich bunt przerodził się w strajk generalny, który objął cały naród. Nasze państwo, [SCOPE.sCountry('strike_country').GetName], ma poważny problem – prawie wszystkie fabryki zostały zamknięte."
