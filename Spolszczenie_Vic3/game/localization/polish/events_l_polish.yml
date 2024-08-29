@@ -604,7 +604,7 @@
  expedition_events.251.a:0 "To przykre."
  expedition_events.252.t:0 "Góra została zdobyta"
  expedition_events.252.d:0 "Członkowie ekspedycji zdobyli górę, aby ich kraj – [ROOT.GetCountry.GetName] – mógł szczycić się tym osiągnięciem. Nazwali też szczyt nazwiskiem przywódcy ekspedycji: [SCOPE.sCharacter('expedition_leader').GetLastName]."
- expedition_events.252.f:0 "Jeszcze jedno dźwignięcie i [SCOPE.sCharacter('expedition_leader').GetFullName] pokonuje wreszcie krawędź ostatniego urwiska. Gdy prostuje się i wygładza ośnieżone odzienie, za [SCOPE.sCharacter('expedition_leader').GetCustom('PL_jego_jej')] plecami widać już łunę wschodzącego słońca. Bohater zawitał na zachodzie. Góra została zdobyta. Wisienką na torcie będzie [ROOT.GetCountry.GetAdjective|l] flaga wniesiona na szczyt przez młodszego członka ekspedycji."
+ expedition_events.252.f:0 "Jeszcze jedno dźwignięcie i [SCOPE.sCharacter('expedition_leader').GetFullName] pokonuje wreszcie krawędź ostatniego urwiska. Gdy prostuje się i wygładza ośnieżone odzienie, za [SCOPE.sCharacter('expedition_leader').GetCustom('PL_jego_jej')] plecami widać już łunę wschodzącego słońca. Bohater zawitał na zachodzie. Góra została zdobyta. Wisienką na torcie będzie [ROOT.GetCountry.GetAltAdjective('PL_FEM')] flaga wniesiona na szczyt przez młodszego członka ekspedycji."
  expedition_events.252.a:0 "Doskonale."
  expedition_events.253.t:0 "Problemy na zboczu"
  expedition_events.253.d:0 "Podczas wspinaczki jeden z członków ekspedycji został trafiony skalnym odłamkiem i stracił przytomność. Grupa musiała zawrócić."

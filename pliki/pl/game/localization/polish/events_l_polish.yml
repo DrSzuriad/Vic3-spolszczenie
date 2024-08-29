@@ -604,7 +604,7 @@
  expedition_events.251.a: ""
  expedition_events.252.t: ""
  expedition_events.252.d: ""
- expedition_events.252.f: ""
+ expedition_events.252.f: "Jeszcze jedno dźwignięcie i [SCOPE.sCharacter('expedition_leader').GetFullName] pokonuje wreszcie krawędź ostatniego urwiska. Gdy prostuje się i wygładza ośnieżone odzienie, za [SCOPE.sCharacter('expedition_leader').GetCustom('PL_jego_jej')] plecami widać już łunę wschodzącego słońca. Bohater zawitał na zachodzie. Góra została zdobyta. Wisienką na torcie będzie [ROOT.GetCountry.GetAltAdjective('PL_FEM')] flaga wniesiona na szczyt przez młodszego członka ekspedycji."
  expedition_events.252.a: ""
  expedition_events.253.t: ""
  expedition_events.253.d: ""

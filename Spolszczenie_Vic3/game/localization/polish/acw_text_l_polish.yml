@@ -133,7 +133,7 @@
  acw_je_events.1.a:0 "Dom podzielony na pół nie ustoi. Za Unię!"
  acw_je_events.1.b:0 "Moim zdaniem sprawa, o którą walczymy, stanowi jedno z praw naszego państwa."
  acw_je_events.2.t:0 "Odbudowa państwa"
- acw_je_events.2.d:0 "Chociaż walki zbrojne ustały, bój o duszę naszego narodu nadal trwa. Nasze państwo, [SCOPE.GetName], nie może już dłużej być podzielone. Musi się odbudować."
+ acw_je_events.2.d:0 "Chociaż walki zbrojne ustały, bój o duszę naszego narodu nadal trwa. Nasze państwo, [ROOT.GetCountry.GetName], nie może już dłużej być podzielone. Musi się odbudować."
  acw_je_events.2.f:0 "– Nie sądzę, abyśmy upadli. Czy będzie to pożądane czy nie, niezależnie od tego, czym się stanie nasze państwo – jego dusza i ciało nie mogą już dłużej być podzielone."
  unreconstructed_state:0 "Państwo niezrekonstruowane"
  acw_je_events.3.t:0 "Odbudowane państwo"

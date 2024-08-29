@@ -360,7 +360,7 @@
  DIPLOMATIC_ACTION_TYPE_PACT_OR_ONGOING_ACTION:0 "[SelectLocalization(DiplomaticActionType.IsOngoingDiplomaticPact, 'DIPLOMATIC_ACTION_PACT', 'DIPLOMATIC_ACTION_ONGOING')]"
  DIPLOMATIC_ACTION_TYPE_INFLUENCE_COST:0 "Koszt prowadzenia: #v [DiplomaticActionType.GetMaintenanceCostFormatted(GetPlayer.Self, Country.Self)]#!"
  DATA_OBJECT_MODIFIER_BREAKDOWN_TOOLTIP:0 "#v [ModifierBreakdown.GetName]#!\n[ModifierBreakdown.GetFormattedMultipliedValue] [ModifierBreakdown.GetTypeName]\n$TOOLTIP_DELIMITER$\n[ConcatIfNeitherEmpty(AddLocalizationIf(Not(EqualTo_CFixedPoint(ModifierBreakdown.GetSourceMultiplier,'(CFixedPoint)1')),'DATA_MODIFIER_MULTIPLIER_NONZERO'), '\n\n')][ModifierBreakdown.GetBreakdown]\n\n[ModifierBreakdown.GetTypeDescription]"
- DATA_MODIFIER_BREAKDOWN_TOOLTIP:0 "Wartość wynosi [ModifierBreakdown.GetFormattedMultipliedValue] z następujących przyczyn:[ConcatIfNeitherEmpty('\n\n', AddLocalizationIf(Not(EqualTo_CFixedPoint(ModifierBreakdown.GetSourceMultiplier,'(CFixedPoint)1')),'DATA_MODIFIER_MULTIPLIER_NONZERO'))]\n\n[ModifierBreakdown.GetBreakdown]"
+ DATA_MODIFIER_BREAKDOWN_TOOLTIP:0 "Wartość wynosi [ModifierBreakdown.GetFormattedMultipliedValue] z następujących przyczyn: [ConcatIfNeitherEmpty('\n\n', AddLocalizationIf(Not(EqualTo_CFixedPoint(ModifierBreakdown.GetSourceMultiplier,'(CFixedPoint)1')),'DATA_MODIFIER_MULTIPLIER_NONZERO'))]\n\n[ModifierBreakdown.GetBreakdown]"
  DATA_MODIFIER_MULTIPLIER_NONZERO:0 "Mnożnik wynoszący [ModifierBreakdown.GetSourceMultiplier|v]"
  DATA_GOODS_MARKET_CONTEXT_BALANCE_LABEL:0 "[Market.GetName] – saldo"
  DATA_GOODS_MARKET_CONTEXT_PRICE_LABEL:0 "[Market.GetName] – cena"
