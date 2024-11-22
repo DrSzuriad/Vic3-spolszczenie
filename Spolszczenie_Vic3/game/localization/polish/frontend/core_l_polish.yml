@@ -53,7 +53,7 @@
  GENERATING_BOOKMARK_PROGRESS:0 "Generowanie świata za pomocą historii: $PROGRESS|0%$"
  LOADING_SAVEGAME_PROGRESS:0 "Wczytywanie: $PROGRESS|0%$"
  LOADSCREEN_INITIALIZING_GAME:0 "Inicjalizacja gry…"
- SHADERS_COMPILED:0 "Trwa przygotowywanie #v [GetNumberOfShadersCompiled]#! shaderów z powodu pierwszego uruchomienia tej aktualizacji.\nMoże to zająć trochę czasu."
+ SHADERS_COMPILED:0 "Trwa przygotowywanie shaderów z powodu pierwszego uruchomienia tej aktualizacji.\nMoże to zająć trochę czasu.\nDo tej pory przygotowano następującą liczbę shaderów: #v [GetNumberOfShadersCompiled]#!."
  SERVER_NAME:0 "Gra gracza $NAME$"
  PLAYERS_ON_SERVER:0 "Gracze na serwerze: NAZWA – TYTUŁ – PING"
  PLAYER_ON_SERVER:0 "$NAME$ – $TITLE$ – $PING$"
