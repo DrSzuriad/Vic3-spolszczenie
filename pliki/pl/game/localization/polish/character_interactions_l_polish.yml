@@ -24,6 +24,7 @@
  exile_dissident_tt: ""
  invite_exile: ""
  invite_exile_start_join_movement_effect: ""
+ invite_exile_do_not_join_movement: ""
  invite_exile_start_movement: ""
  invite_exile_join_movement: ""
  invite_exile_no_movement: ""

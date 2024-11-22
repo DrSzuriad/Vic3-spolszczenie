@@ -130,6 +130,8 @@
  ai_strategy_tanzimat_reforms_desc: ""
  ai_strategy_meiji_restoration: ""
  ai_strategy_meiji_restoration_desc: ""
+ ai_strategy_great_reforms: ""
+ ai_strategy_great_reforms_desc: ""
  ATTITUDE_DETAILS: ""
  ai_attitude_human: ""
  ai_attitude_human_desc: ""

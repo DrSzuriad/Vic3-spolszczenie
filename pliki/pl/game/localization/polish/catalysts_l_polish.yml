@@ -125,3 +125,7 @@
  catalyst_event_positive_desc: ""
  catalyst_event_negative: ""
  catalyst_event_negative_desc: ""
+ catalyst_declined_military_assistance: ""
+ catalyst_declined_military_assistance_desc: ""
+ catalyst_granted_military_assistance: ""
+ catalyst_granted_military_assistance_desc: ""
