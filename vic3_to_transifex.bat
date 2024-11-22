@@ -65,7 +65,7 @@ java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\jomini\\c
 java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\jomini\\multiplayer_gui" "pliki\\en\\jomini\\localization\\jomini\\multiplayer_gui" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\jomini\\script_system" "pliki\\en\\jomini\\localization\\jomini\\script_system" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\modifiers" "pliki\\en\\jomini\\localization\\modifiers" "%charset%"
-java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\pops" "pliki\\en\\jomini\\localization\\pops" "%charset%"
+java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\pdx_account" "pliki\\en\\jomini\\localization\\pdx_account" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\settings" "pliki\\en\\jomini\\localization\\settings" "%charset%"
 java -jar "%parser%" "%fty%" "translations_temp\\jomini\\localization\\social" "pliki\\en\\jomini\\localization\\social" "%charset%"
 

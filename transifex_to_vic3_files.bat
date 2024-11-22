@@ -34,7 +34,7 @@ java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\coat_of_a
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\multiplayer_gui" "pliki\\en\\jomini\\localization\\jomini\\multiplayer_gui" "temp\\supply\\jomini\\localization\\jomini\\multiplayer_gui" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\jomini\\script_system" "pliki\\en\\jomini\\localization\\jomini\\script_system" "temp\\supply\\jomini\\localization\\jomini\\script_system" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\modifiers" "pliki\\en\\jomini\\localization\\modifiers" "temp\\supply\\jomini\\localization\\modifiers" yaml
-java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\pops" "pliki\\en\\jomini\\localization\\pops" "temp\\supply\\jomini\\localization\\pops" yaml
+java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\pdx_account" "pliki\\en\\jomini\\localization\\pdx_account" "temp\\supply\\jomini\\localization\\pdx_account" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\settings" "pliki\\en\\jomini\\localization\\settings" "temp\\supply\\jomini\\localization\\settings" yaml
 java -jar "%parser%" "%sup%" "pliki\\pl\\jomini\\localization\\social" "pliki\\en\\jomini\\localization\\social" "temp\\supply\\jomini\\localization\\social" yaml
 
@@ -64,7 +64,7 @@ java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\coat_o
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\multiplayer_gui" "temp\\vic3\\jomini\\localization\\jomini\\multiplayer_gui" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\jomini\\script_system" "temp\\vic3\\jomini\\localization\\jomini\\script_system" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\modifiers" "temp\\vic3\\jomini\\localization\\modifiers" "%charset%"
-java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\pops" "temp\\vic3\\jomini\\localization\\pops" "%charset%"
+java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\pdx_account" "temp\\vic3\\jomini\\localization\\pdx_account" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\settings" "temp\\vic3\\jomini\\localization\\settings" "%charset%"
 java -jar "%parser%" "%fte%" "temp\\supply\\jomini\\localization\\social" "temp\\vic3\\jomini\\localization\\social" "%charset%"
 
