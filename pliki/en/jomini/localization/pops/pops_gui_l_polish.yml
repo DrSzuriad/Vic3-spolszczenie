@@ -1,3 +1,0 @@
-﻿l_polish:
- CREATE_SOCIAL_PROFILE_ERROR: "Błąd: [CreateSocialProfileWindow.GetErrorMessage]"
- POPS_LOGIN_RESET_PASSWORD_EMAIL_SENT: "Wiadomość e-mail została wysłana na adres [POPSLoginView.GetEmail]. Aby zresetować hasło, postępuj zgodnie z instrukcjami."
