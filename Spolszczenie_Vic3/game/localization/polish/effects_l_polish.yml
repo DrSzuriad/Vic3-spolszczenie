@@ -222,6 +222,8 @@
  SET_CHARACTER_IMMORTAL_NEG:0 "[CHARACTER.GetFullName] może umrzeć z przyczyn naturalnych"
  SET_CHARACTER_IMMORTAL_GLOBAL:0 "[CHARACTER.GetFullName] nie umrze z przyczyn naturalnych"
  SET_CHARACTER_IMMORTAL_GLOBAL_NEG:0 "[CHARACTER.GetFullName] może umrzeć z przyczyn naturalnych"
+ SET_INTEREST_GROUP:0 "[CHARACTER.GetFullName] – ta postać (grupa interesu znana jako [CHARACTER.GetInterestGroup.GetName|l]) dołącza do następującej grupy interesu: [TARGET_INTEREST_GROUP.GetName|l]"
+ SET_INTEREST_GROUP_GLOBAL:0 "[CHARACTER.GetFullName] – ta postać (grupa interesu znana jako [CHARACTER.GetInterestGroup.GetName|l]) dołącza do następującej grupy interesu: [TARGET_INTEREST_GROUP.GetName|l]"
  SET_OWNER_OF_PROVINCES:0 "[COUNTRY.GetName] – to państwo otrzymuje prowincje ($NUM_PROVINCES|v$) w następującym regionie administracyjnym: [TARGET_STATE_REGION.GetName]"
  CREATE_STATE:0 "[COUNTRY.GetName] – to państwo otrzymuje obszar administracyjny w następującym regionie administracyjnym: [TARGET_STATE_REGION.GetName]"
  SET_STATE_TYPE:0 "[STATE.GetName] to teraz $STATE_TYPE|v$"
