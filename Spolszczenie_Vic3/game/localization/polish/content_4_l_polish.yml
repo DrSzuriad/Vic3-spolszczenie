@@ -304,7 +304,7 @@
  health_bureaucracy:0 "Zdrowa biurokracja"
  right_to_care:0 "Prawo do opieki zdrowotnej"
  healthcare_debate_ig_ignored:0 "Obawy zignorowane"
- healthcare_debate_ig_heard:0 "Obawy wysłuchane"
+ healthcare_debate_ig_concerns_heard:0 "Obawy wysłuchane"
  industrialist_tax:0 "Podatek przemysłowców"
  republic_laws.1.t:0 "[ROOT.GetCountry.GetRuler.GetFirstName] nie zjawia się na posiedzeniu rządu"
  republic_laws.1.d:0 "Dzisiejsze posiedzenie rządu odbyło się w niepełnym składzie, gdyż nie zjawił się jeden z jego członków – [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFirstName]. Nie zapadły więc żadne konkretne decyzje."
