@@ -22,6 +22,7 @@
  pmg_automation_building_paper_mills: ""
  pmg_automation_building_steel_mills: ""
  pmg_automation_building_motor_industry: ""
+ pmg_automation_building_automotive_industry: ""
  pm_civilian_priority: ""
  pm_military_priority: ""
  pm_craftsman_sewing: ""
@@ -53,3 +54,4 @@
  pm_artillery_production: ""
  pmg_automobile_production: ""
  pm_automobile_production: ""
+ pm_mass_automobile_production: ""

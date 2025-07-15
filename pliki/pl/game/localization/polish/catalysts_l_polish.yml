@@ -129,3 +129,7 @@
  catalyst_declined_military_assistance_desc: ""
  catalyst_granted_military_assistance: ""
  catalyst_granted_military_assistance_desc: ""
+ catalyst_treaty_broken: ""
+ catalyst_treaty_broken_desc: ""
+ catalyst_treaty_enforced: ""
+ catalyst_treaty_enforced_desc: ""

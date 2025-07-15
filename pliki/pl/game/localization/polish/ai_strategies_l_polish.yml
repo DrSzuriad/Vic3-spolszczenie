@@ -56,7 +56,6 @@
  ai_goal_handle_interest_groups: ""
  ai_goal_handle_decree: ""
  ai_goal_subsidize_buildings: ""
- ai_goal_handle_trade_routes: ""
  ai_goal_violate_sovereignty: ""
  ai_budget_savings: ""
  ai_budget_government_expenses: ""

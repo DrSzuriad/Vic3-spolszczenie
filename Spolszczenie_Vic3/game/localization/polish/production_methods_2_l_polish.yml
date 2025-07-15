@@ -22,6 +22,7 @@
  pmg_automation_building_paper_mills:0 "Automatyzacja"
  pmg_automation_building_steel_mills:0 "Automatyzacja"
  pmg_automation_building_motor_industry:0 "Automatyzacja"
+ pmg_automation_building_automotive_industry:0 "$pmg_automation$"
  pm_civilian_priority:0 "Priorytet cywilny"
  pm_military_priority:0 "Priorytet wojskowy"
  pm_craftsman_sewing:0 "Krawiectwo rzemieślnicze"
@@ -53,3 +54,4 @@
  pm_artillery_production:0 "Produkcja broni artyleryjskiej"
  pmg_automobile_production:0 "Produkcja automobilów"
  pm_automobile_production:0 "Produkcja automobilów"
+ pm_mass_automobile_production:0 "Produkcja masowa"

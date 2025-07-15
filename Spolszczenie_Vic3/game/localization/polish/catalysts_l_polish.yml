@@ -129,3 +129,7 @@
  catalyst_declined_military_assistance_desc:0 "[TARGET_COUNTRY.GetName] to państwo, które odrzuca prośbę o zapewnienie [Concept('concept_military_assistance', 'wsparcia wojskowego')] naszemu państwu"
  catalyst_granted_military_assistance:0 "$concept_military_assistance$ – zapewniono"
  catalyst_granted_military_assistance_desc:0 "[TARGET_COUNTRY.GetName] to państwo, które zapewnia [concept_military_assistance|l] naszemu państwu"
+ catalyst_treaty_broken:0 "Zerwany traktat"
+ catalyst_treaty_broken_desc:0 "Państwo o nazwie [COUNTRY.GetName] zrywa [concept_treaty|l], który łączył je z następującym państwem: [TARGET_COUNTRY.GetName]"
+ catalyst_treaty_enforced:0 "Wymuszony traktat"
+ catalyst_treaty_enforced_desc:0 "Państwo o nazwie [COUNTRY.GetName] wymusza podpisanie [Concept('concept_treaty', 'traktatu')] na następującym państwie: [TARGET_COUNTRY.GetName]"

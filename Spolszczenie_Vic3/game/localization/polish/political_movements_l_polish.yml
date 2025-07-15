@@ -7,6 +7,8 @@
  movement_cultural_majority_name:0 "[COUNTRY.GetAdjectiveNoFormatting] Inicjatywa Suprematystyczna"
  movement_cultural_minority:0 "Ruch mniejszości kulturowej"
  movement_cultural_minority_name:0 "[CULTURE.GetNameNoFormatting] Inicjatywa Narodowa"
+ movement_minority_rights:0 "Ruch na rzecz praw mniejszości"
+ movement_minority_rights_name:0 "$movement_minority_rights$"
  movement_pro_slavery:0 "Ruch zwolenników niewolnictwa"
  movement_pro_slavery_name:0 "$movement_pro_slavery$"
  movement_pro_slavery_icon:0 "@movement_pro_slavery!"

@@ -116,6 +116,7 @@
  je_acw_reincorporate: ""
  je_acw_reincorporate_status: ""
  je_acw_reincorporate_reason: ""
+ acw_reincorporate_loyalist_tt: ""
  je_acw_equality: ""
  je_acw_equality_status: ""
  je_acw_equality_reason: ""

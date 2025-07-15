@@ -61,3 +61,6 @@
  papermap_cloth_indian_desc:0 "Królewski adamaszek z kolekcją monet."
  papermap_ip2:0 "Maharadża"
  papermap_ip2_desc:0 "Mapa godna wielkiego władcy."
+ papermap_signup_reward:0 "Gazeta Atlas"
+ papermap_signup_reward_desc:0 "Zapisz się do newslettera gry Victoria 3, aby otrzymać mapę wiadomości ze świata."
+ SUBSCRIBED_TO_NEWSLETTER:0 "Zapisano się do newslettera gry #v Victoria 3#!"
